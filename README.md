@@ -1,4 +1,4 @@
-# internationalization
+# hello-world
 
 ## Project setup
 ```

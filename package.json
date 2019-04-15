@@ -17,6 +17,7 @@
     "@vue/cli-plugin-babel": "^3.6.0",
     "@vue/cli-plugin-eslint": "^3.6.0",
     "@vue/cli-service": "^3.6.0",
+    "@vue/eslint-config-airbnb": "^4.0.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
@@ -29,7 +30,7 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommended"
+      "@vue/airbnb"
     ],
     "rules": {},
     "parserOptions": {
@@ -45,14 +46,5 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ],
-  "main": "./babel.config.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JulienYvesRICHARD/gregoire-besson-com.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JulienYvesRICHARD/gregoire-besson-com/issues"
-  },
-  "homepage": "https://github.com/JulienYvesRICHARD/gregoire-besson-com#readme"
+  ]
 }

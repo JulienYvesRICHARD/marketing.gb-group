@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "webpack-dev-server --inline --hot --host 0.0.0.0 --public $test.gb-group.co"
+    "start": "cross-env NODE_ENV=production node build/main.js"
   },
   "dependencies": {
     "core-js": "^2.6.5",

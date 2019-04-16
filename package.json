@@ -6,7 +6,11 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "cross-env NODE_ENV=production node build/main.js"
+    "start": "node build/main.js"
+  },
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
   },
   "dependencies": {
     "core-js": "^2.6.5",

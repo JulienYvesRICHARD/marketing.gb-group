@@ -32,7 +32,7 @@ export default {
         }
     },
     created() {
-        fetch('/photos/' + this.brand + '/' + this.range + '.json')
+        fetch('/static/photos/' + this.brand + '/' + this.range + '.json')
             .then(res => res.json())
             .then(data => {
             this.images = data

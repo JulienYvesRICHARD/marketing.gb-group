@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
     <div class="container" id="logo">
       <a class="anchor" name="logo"></a>
@@ -29,22 +30,21 @@
         </div>
       </div>
     </div>
-  </template>
-  
-  <script>
+</template>
 
-  export default {
-    name: 'LogoVue',
-    props: ['logos'],
-    data() {
-      return {
-        lang: "FR"
-      };
+<script>
+export default {
+  name: 'LogoVue',
+  props: ['logos'],
+  data () {
+    return {
+      lang: 'FR'
     }
   }
-  </script>
-  
-  <!-- Add "scoped" attribute to limit CSS to this component only -->
-  <style scoped>
+}
+</script>
 
-  </style>
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+
+</style>

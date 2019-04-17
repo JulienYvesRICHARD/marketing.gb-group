@@ -18,11 +18,10 @@
             </div>
         </div>
     </div>
-   
 </template>
-      
-<script>
 
+<script>
+/* eslint-disable */
 export default {
     name: 'PhotoItemVue',
     props: ['range', 'title', 'brand'],

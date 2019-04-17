@@ -6,7 +6,6 @@
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
               </button>
-              
               <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav mr-auto">
               &nbsp;
@@ -32,7 +31,6 @@
                       </div>
                   </li>
                   <li class="nav-item dropdown">
-                    
                       <a class="nav-link dropdown-toggle" id="gregoirebesson" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <img src="" width="25"> Grégoire Besson
                       </a>
@@ -48,7 +46,6 @@
                           <a class="dropdown-item">Posters</a>
                           <router-link to="/gregoire-besson"></router-link>
                       </div>
-                    
                   </li>
                   <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" id="rabe" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -67,7 +64,6 @@
                       </div>
                   </li>
                   <li class="nav-item dropdown">
-                    
                       <a class="nav-link dropdown-toggle" id="agriway" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <img src="" width="25"> Agriway
                       </a>
@@ -81,7 +77,6 @@
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="languages" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-html="displayLanguage($i18n.locale)">
-                        
                     </a>
                     <div  class="dropdown-menu dropdown-menu-right" aria-labelledby="languages">
                         <button v-for="entry in languages" :key="entry.title" @click="changeLocale(entry.language)" class="dropdown-item">
@@ -101,40 +96,41 @@
 </template>
 
 <script>
-    // @ is an alias to /src
-    import i18n from './i18n';
-    
-    export default {
-      data() {
-        return {
-          languages: [
-            { language: 'fr', title: 'FR' },
-            { language: 'en', title: 'EN' },
-            { language: 'de', title: 'DE' },
-            { language: 'it', title: 'IT' }
-          ]
-        };
-      },
-      methods: {
-        changeLocale(locale) {
-            i18n.locale = locale;
-        },
-        displayLanguage(language) {
-        const lang = ({
-          en: 'English',
-          fr: 'Français',
-          de: 'Deutsch',
-          it: 'Italiano',
-          pl: 'Polski',
-          ru: 'Pусский',
-          uk: 'український',
-          et: 'eesti keel',
-        })[language];
-        return lang;
-      },
-      }
-    }
-  </script>
+// @ is an alias to /src
+/* eslint-disable */
+import i18n from './i18n'
+
+export default {
+  data() {
+    return {
+      languages: [
+        { language: 'fr', title: 'FR' },
+        { language: 'en', title: 'EN' },
+        { language: 'de', title: 'DE' },
+        { language: 'it', title: 'IT' }
+      ]
+    };
+  },
+  methods: {
+    changeLocale(locale) {
+        i18n.locale = locale;
+    },
+    displayLanguage(language) {
+    const lang = ({
+      en: 'English',
+      fr: 'Français',
+      de: 'Deutsch',
+      it: 'Italiano',
+      pl: 'Polski',
+      ru: 'Pусский',
+      uk: 'український',
+      et: 'eesti keel',
+    })[language];
+    return lang;
+  },
+  }
+}
+</script>
 
 <style>
 #app {

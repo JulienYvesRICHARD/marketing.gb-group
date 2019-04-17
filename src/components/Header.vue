@@ -1,5 +1,5 @@
 <template>
-<nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
         <a class="navbar-brand" href="#"><img src="" height="35px"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,10 +91,10 @@
 </template>
     
 <script>
-    export default {
-        name: 'HeaderVue',
-        props: {
-            msg: String
-        }
-    }
+export default {
+  name: 'HeaderVue',
+  props: {
+    msg: String
+  }
+}
 </script>

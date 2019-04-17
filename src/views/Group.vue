@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col">
           <h1>{{ $t('main_title') }}</h1>
-          <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@gb-group.co">webmaster@gb-group.co</a>.</p>  
+          <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@gb-group.co">webmaster@gb-group.co</a>.</p>
         </div>
       </div>
       <br>
@@ -29,11 +29,12 @@
         <IconsVue :icons="icons"></IconsVue>
     </div>
     <FooterVue></FooterVue>
-  </div> 
+  </div>
 </template>
 
 <script>
 // @ is an alias to /src
+/* eslint-disable */
 import LogoVue from '@/components/Layout/Logos.vue'
 import BrandingVue from '@/components/Layout/Branding.vue'
 import SoundVue from '@/components/Layout/Sound.vue'

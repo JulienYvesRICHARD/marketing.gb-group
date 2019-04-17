@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
   <div class="container" id="introOutro">
     <a class="anchor" name="introOutro"></a>
@@ -25,7 +26,7 @@ export default {
   name: 'LeafletVue',
   props: ['introOutros'],
   data () {
-    return {};
+    return {}
   }
 }
 </script>
@@ -34,4 +35,3 @@ export default {
 <style scoped>
 
 </style>
-  

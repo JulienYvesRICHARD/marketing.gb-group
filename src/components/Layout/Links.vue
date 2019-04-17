@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
     <div class="container" id="link">
       <a class="anchor" name="link"></a>
@@ -17,20 +18,19 @@
         </div>
       </div>
     </div>
-  </template>
-  
-  <script>
-  export default {
-    name: 'LinkVue',
-    props: ['socials'],
-    data () {
-      return {};
-    }
-  }
-  </script>
-  
-  <!-- Add "scoped" attribute to limit CSS to this component only -->
-  <style scoped>
+</template>
 
-  </style>
-  
+<script>
+export default {
+  name: 'LinkVue',
+  props: ['socials'],
+  data () {
+    return {}
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+
+</style>

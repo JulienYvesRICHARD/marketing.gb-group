@@ -131,19 +131,3 @@ export default {
   }
 }
 </script>
-
-<style>
-#app {
-  font-family: 'Noto sans', Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
-}
-
-button {
-    padding: 15px;
-    border: 1px solid green;
-    font-size: 18px;
-    margin: 15px;
-}
-</style>

@@ -2,7 +2,7 @@
   <div id="app">
       <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
           <div class="container">
-              <a class="navbar-brand" href="#"><img src="" height="35px"></a>
+              <a class="navbar-brand" href="#"><img src="/static/img/logos/logo-gb-group-white-ontranspbg.png" height="75px"></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
               </button>

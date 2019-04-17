@@ -6,13 +6,13 @@
                 {
                     "name": "Gradient on color",
                     "image": {
-                        "src": "public/img/logos/logo-gb-group-gradient-oncolor.jpg",
+                        "src": "public/img/logos/logo--gradient-oncolor.jpg",
                         "label": "logo GB Group, gradient"
                     },
-                    "jpg": "public/img/logos/logo-gb-group-gradient-oncolor.jpg",
-                    "png": "public/img/logos/logo-gb-group-gradient-oncolor.png",
-                    "eps": "public/img/logos/logo-gb-group-gradient-oncolor.eps",
-                    "svg": "public/img/logos/logo-gb-group-gradient-oncolor.svg"
+                    "jpg": "public/img/logos/logo--gradient-oncolor.jpg",
+                    "png": "public/img/logos/logo--gradient-oncolor.png",
+                    "eps": "public/img/logos/logo--gradient-oncolor.eps",
+                    "svg": "public/img/logos/logo--gradient-oncolor.svg"
                 },
                 {
                     "name": "Color on white",
@@ -39,13 +39,13 @@
                 {
                     "name": "White on black",
                     "image": {
-                        "src": "public/img/logos/logo-gb-group-white-onblack.jpg",
+                        "src": "public/img/logos/logo--white-onblack.jpg",
                         "label": "logo GB Group, white on black"
                     },
-                    "jpg": "public/img/logos/logo-gb-group-white-onblack.jpg",
-                    "png": "public/img/logos/logo-gb-group-white-onblack.png",
-                    "eps": "public/img/logos/logo-gb-group-white-onblack.eps",
-                    "svg": "public/img/logos/logo-gb-group-white-onblack.svg"
+                    "jpg": "public/img/logos/logo--white-onblack.jpg",
+                    "png": "public/img/logos/logo--white-onblack.png",
+                    "eps": "public/img/logos/logo--white-onblack.eps",
+                    "svg": "public/img/logos/logo--white-onblack.svg"
                 }
             ]
         }

@@ -5,7 +5,7 @@
                 <div class="col">
                 <a class="anchor" name="logo"></a>
                 <h1>{{ $t('main_title') }}</h1>
-                <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@gb-group.co">webmaster@gb-group.co</a>.</p>
+                <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@.co">webmaster@.co</a>.</p>
                 </div>
             </div>
             <br>
@@ -114,14 +114,14 @@ export default {
         {
         "title": "video_intro_title",
         "link_youtube": "https://www.youtube.com/embed/dThppLstL-0?rel=0&amp;showinfo=0",
-        "link_mp4": "https://marketing.gb-group.co/videos/agriway-intro.mp4",
-        "link_mov": "https://marketing.gb-group.co/videos/agriway-intro.mov"
+        "link_mp4": "https://marketing..co/videos/agriway-intro.mp4",
+        "link_mov": "https://marketing..co/videos/agriway-intro.mov"
         },
         {
         "title": "video_outro_title",
         "link_youtube": "https://www.youtube.com/embed/fKP9viHB238?rel=0&amp;showinfo=0",
-        "link_mp4": "https://marketing.gb-group.co/videos/agriway-outro.mp4",
-        "link_mov": "https://marketing.gb-group.co/videos/agriway-outro.mov"
+        "link_mp4": "https://marketing..co/videos/agriway-outro.mp4",
+        "link_mov": "https://marketing..co/videos/agriway-outro.mov"
         }
     ],
     socials: [

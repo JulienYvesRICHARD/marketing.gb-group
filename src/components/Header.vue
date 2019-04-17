@@ -43,7 +43,7 @@
                 <a class="dropdown-item" href="#gregoirebessonVideos">Videos</a>
                 <a class="dropdown-item" href="#gregoirebessonPricelists">Pricelists</a>
                 <a class="dropdown-item" href="#gregoirebessonPosters">Posters</a>
-                <a class="dropdown-item" href="https://parts.gb-group.co" target="_blank">Parts</a>
+                <a class="dropdown-item" href="https://parts..co" target="_blank">Parts</a>
             </div>
             </li>
             <li class="nav-item dropdown">
@@ -59,7 +59,7 @@
                 <a class="dropdown-item" href="#rabeLeaflets">Leaflets</a>
                 <a class="dropdown-item" href="#rabeVideos">Videos</a>
                 <a class="dropdown-item" href="#rabePricelists">Pricelists</a>
-                <a class="dropdown-item" href="https://parts.gb-group.co" target="_blank">Parts</a>
+                <a class="dropdown-item" href="https://parts..co" target="_blank">Parts</a>
             </div>
             </li>
             <li class="nav-item dropdown">

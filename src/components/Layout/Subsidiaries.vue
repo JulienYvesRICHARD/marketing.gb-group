@@ -5,7 +5,7 @@
     <h3>{{ $t('subsidiaries_title') }}</h3>
     <div class="row subsidiary" v-for="subsidiarie in subsidiaries" :key="subsidiarie.name">
       <div class="col-4">
-        <img src="'https://maps.googleapis.com/maps/api/staticmap?center=' + subsidiarie.street + ',' + subsidiarie.city + ',' + subsidiarie.country + '&zoom=4&size=450x300&maptype=roadmap&markers=color:red%7C' + subsidiaries.gpscoordinate + '&key=AIzaSyBnVrN5f_hnVMr-IqbC-KCLVEaxxxSS4nc" class="img-fluid">
+        <img :src="'https://maps.googleapis.com/maps/api/staticmap?center=' + subsidiarie.street + ',' + subsidiarie.city + ',' + subsidiarie.country + '&zoom=4&size=450x300&maptype=roadmap&markers=color:red%7C' + subsidiaries.gpscoordinate + '&key=AIzaSyBnVrN5f_hnVMr-IqbC-KCLVEaxxxSS4nc'" class="img-fluid">
       </div>
       <div class="col-4">
         <h4>{{ subsidiarie.name }}</h4>

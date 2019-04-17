@@ -36,6 +36,10 @@ export default new Router({
       path: '/agriway',
       name: 'agriway',
       component: Agriway
+    },
+    {
+      path: '/*',
+      redirect: '/'
     }
   ]
 })

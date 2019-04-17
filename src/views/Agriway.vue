@@ -44,45 +44,45 @@ export default {
             {
             "name": "logo_white_on_color",
             "image": {
-                "src": "/img/logos/logo-agriway-white-oncolor.png",
+                "src": "/static/img/logos/logo-agriway-white-oncolor.png",
                 "label": "logo Agriway, couleur sur fon blanc"
             },
-            "jpg": "/img/logos/logo-agriway-white-oncolor.jpg",
-            "png": "/img/logos/logo-agriway-white-oncolor.png",
-            "eps": "/img/logos/logo-agriway-white-oncolor.eps",
-            "svg": "/img/logos/logo-agriway-white-oncolor.svg"
+            "jpg": "/static/img/logos/logo-agriway-white-oncolor.jpg",
+            "png": "/static/img/logos/logo-agriway-white-oncolor.png",
+            "eps": "/static/img/logos/logo-agriway-white-oncolor.eps",
+            "svg": "/static/img/logos/logo-agriway-white-oncolor.svg"
             },
             {
             "name": "logo_color_on_white",
             "image": {
-                "src": "/img/logos/logo-agriway-color-onwhite.png",
+                "src": "/static/img/logos/logo-agriway-color-onwhite.png",
                 "label": "logo Agriway, color on white"
             },
-            "jpg": "/img/logos/logo-agriway-color-onwhite.jpg",
-            "png": "/img/logos/logo-agriway-color-onwhite.png",
-            "eps": "/img/logos/logo-agriway-color-onwhite.eps",
-            "svg": "/img/logos/logo-agriway-color-onwhite.svg"
+            "jpg": "/static/img/logos/logo-agriway-color-onwhite.jpg",
+            "png": "/static/img/logos/logo-agriway-color-onwhite.png",
+            "eps": "/static/img/logos/logo-agriway-color-onwhite.eps",
+            "svg": "/static/img/logos/logo-agriway-color-onwhite.svg"
             },
             {
             "name": "logo_white_on_transparent",
             "image": {
-                "src": "/img/logos/logo-agriway-white-ontranspbg.png",
+                "src": "/static/img/logos/logo-agriway-white-ontranspbg.png",
                 "label": "logo Agriway, white on transparent"
             },
-            "png": "/img/logos/logo-agriway-white-ontranspbg.png",
-            "eps": "/img/logos/logo-agriway-white-ontranspbg.eps",
-            "svg": "/img/logos/logo-agriway-white-ontranspbg.svg"
+            "png": "/static/img/logos/logo-agriway-white-ontranspbg.png",
+            "eps": "/static/img/logos/logo-agriway-white-ontranspbg.eps",
+            "svg": "/static/img/logos/logo-agriway-white-ontranspbg.svg"
             },
             {
             "name": "logo_white_on_black",
             "image": {
-                "src": "/img/logos/logo-agriway-white-onblack.png",
+                "src": "/static/img/logos/logo-agriway-white-onblack.png",
                 "label": "logo Agriway, white on black"
             },
-            "jpg": "/img/logos/logo-agriway-white-onblack.jpg",
-            "png": "/img/logos/logo-agriway-white-onblack.png",
-            "eps": "/img/logos/logo-agriway-white-onblack.eps",
-            "svg": "/img/logos/logo-agriway-white-onblack.svg"
+            "jpg": "/static/img/logos/logo-agriway-white-onblack.jpg",
+            "png": "/static/img/logos/logo-agriway-white-onblack.png",
+            "eps": "/static/img/logos/logo-agriway-white-onblack.eps",
+            "svg": "/static/img/logos/logo-agriway-white-onblack.svg"
             }
         ],
         "class": "btn-Agriway"
@@ -128,7 +128,7 @@ export default {
       "title": "links_agriway_website_title",
       "link": "http://agriway.it",
       "image": {
-        "src": "/img/screen-captures/agriway-it.png",
+        "src": "/static/img/screen-captures/agriway-it.png",
         "label": "Website Agriway"
         },
         "description": "links_agriway_website_description"

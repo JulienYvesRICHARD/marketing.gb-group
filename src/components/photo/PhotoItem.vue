@@ -5,7 +5,7 @@
         <div class="modalPhoto" v-if="show === true">
             <div class="container" id="photoItem">
                 <h4 class="text-center" style="padding: 5%;">{{ $t(images.title) }}</h4>
-                <img src="/img/icons/icons8-cancel-48.png" @click="showmodal()" class="closingcross">
+                <img src="/static/img/icons/icons8-cancel-48.png" @click="showmodal()" class="closingcross">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-3 photos-card" v-for="image in images.item" :key="image.name">
                         <div class="ratio">

@@ -53,48 +53,48 @@ export default {
           {
             "name": "logo_white_on_color_description",
             "image": {
-                "src": "/img/logos/logo-gregoire-besson-white-oncolor.png",
+                "src": "/static/img/logos/logo-gregoire-besson-white-oncolor.png",
                 "label": "Travail du sol logo Gregoire Besson, gradient"
             },
-            "jpg": "/img/logos/logo-gregoire-besson-white-oncolor.jpg",
-            "png": "/img/logos/logo-gregoire-besson-white-oncolor.png",
-            "eps": "/img/logos/logo-gregoire-besson-white-oncolor.eps",
-            "svg": "/img/logos/logo-gregoire-besson-white-oncolor.svg"
+            "jpg": "/static/img/logos/logo-gregoire-besson-white-oncolor.jpg",
+            "png": "/static/img/logos/logo-gregoire-besson-white-oncolor.png",
+            "eps": "/static/img/logos/logo-gregoire-besson-white-oncolor.eps",
+            "svg": "/static/img/logos/logo-gregoire-besson-white-oncolor.svg"
           },
           {
             "name": "logo_color_on_white",
             "image": {
-                "src": "/img/logos/logo-gregoire-besson-color-onwhite.png",
+                "src": "/static/img/logos/logo-gregoire-besson-color-onwhite.png",
                 "label": "Travail du sol logo Gregoire Besson, color on white"
             },
-            "jpg": "/img/logos/logo-gregoire-besson-color-onwhite.jpg",
-            "png": "/img/logos/logo-gregoire-besson-color-onwhite.png",
-            "eps": "/img/logos/logo-gregoire-besson-color-onwhite.eps",
-            "svg": "/img/logos/logo-gregoire-besson-color-onwhite.svg"
+            "jpg": "/static/img/logos/logo-gregoire-besson-color-onwhite.jpg",
+            "png": "/static/img/logos/logo-gregoire-besson-color-onwhite.png",
+            "eps": "/static/img/logos/logo-gregoire-besson-color-onwhite.eps",
+            "svg": "/static/img/logos/logo-gregoire-besson-color-onwhite.svg"
           },
           {
             "name": "logo_white_on_transparent",
             "image": {
-                "src": "/img/logos/logo-gregoire-besson-white-ontranspbg.png",
+                "src": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.png",
                 "label": "Travail du sol logo Gregoire Besson, white on transparent"
             },
-            "png": "/img/logos/logo-gregoire-besson-white-ontranspbg.png",
-            "eps": "/img/logos/logo-gregoire-besson-white-ontranspbg.eps",
-            "svg": "/img/logos/logo-gregoire-besson-white-ontranspbg.svg"
+            "png": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.png",
+            "eps": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.eps",
+            "svg": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.svg"
           },
           {
             "name": "logo_white_on_black",
             "image": {
-                "src": "/img/logos/logo-gregoire-besson-white-onblack.png",
+                "src": "/static/img/logos/logo-gregoire-besson-white-onblack.png",
                 "label": "Travail du sol logo Gregoire Besson, white on black"
             },
-            "jpg": "/img/logos/logo-gregoire-besson-white-onblack.jpg",
-            "png": "/img/logos/logo-gregoire-besson-white-onblack.png",
-            "eps": "/img/logos/logo-gregoire-besson-white-onblack.eps",
-            "svg": "/img/logos/logo-gregoire-besson-white-onblack.svg"
+            "jpg": "/static/img/logos/logo-gregoire-besson-white-onblack.jpg",
+            "png": "/static/img/logos/logo-gregoire-besson-white-onblack.png",
+            "eps": "/static/img/logos/logo-gregoire-besson-white-onblack.eps",
+            "svg": "/static/img/logos/logo-gregoire-besson-white-onblack.svg"
           }
         ],
-        "href": "/img/old-logos-gregoire-besson.zip",
+        "href": "/static/img/old-logos-gregoire-besson.zip",
         "class": "btn-Gregoire"
       },
       brandings: {
@@ -138,7 +138,7 @@ export default {
           "title": "links_gregoire_website_title",
           "link": "http://gregoire-besson.com",
           "image": {
-            "src": "/img/screen-captures/gregoire-besson-com.png",
+            "src": "/static/img/screen-captures/gregoire-besson-com.png",
             "label": "Website Grégoire Besson"
           },
           "description": "links_gregoire_website_description"
@@ -147,7 +147,7 @@ export default {
           "title": "links_gregoire_facebook_title",
           "link": "https://www.facebook.com/GregoireBessonSAS/",
           "image": {
-            "src": "/img/screen-captures/facebook-gregoire-besson.png",
+            "src": "/static/img/screen-captures/facebook-gregoire-besson.png",
             "label": "Facebook Grégoire Besson"
           },
           "description": "links_gregoire_facebook_description"
@@ -156,7 +156,7 @@ export default {
           "title": "links_gregoire_youtube_title",
           "link": "https://www.youtube.com/c/GregoireBessonSASofficial/",
           "image": {
-            "src": "/img/screen-captures/youtube-gregoire-besson.png",
+            "src": "/static/img/screen-captures/youtube-gregoire-besson.png",
             "label": "You Tube Chanel Grégoire Besson"
           },
           "description": "links_gregoire_youtube_description"
@@ -165,7 +165,7 @@ export default {
           "title": "links_gregoire_twitter_title",
           "link": "https://twitter.com/gbessonsas/",
           "image": {
-            "src": "/img/screen-captures/twitter-gregoire-besson.png",
+            "src": "/static/img/screen-captures/twitter-gregoire-besson.png",
             "label": "Twitter Grégoire Besson"
           },
           "description": "links_gregoire_twitter_description"
@@ -174,7 +174,7 @@ export default {
           "title": "links_gregoire_instagram_title",
           "link": "https://instagram.com/gregoire.besson/",
           "image": {
-            "src": "/img/screen-captures/instagram-gregoire-besson.png",
+            "src": "/static/img/screen-captures/instagram-gregoire-besson.png",
             "label": "Instagram Grégoire Besson"
           },
           "description": "links_gregoire_instagram_description"
@@ -673,7 +673,7 @@ export default {
           "title": "Machines (EN) €",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en.pdf",
           "image": {
-            "src": "/img/pricelists/gb.jpg",
+            "src": "/static/img/pricelists/gb.jpg",
             "label": "Price liste Gregoire Besson 2018 in euros, english version"
           }
         },
@@ -681,7 +681,7 @@ export default {
           "title": "Machines (EN) £",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en-pounds.pdf",
           "image": {
-            "src": "/img/pricelists/gb.jpg",
+            "src": "/static/img/pricelists/gb.jpg",
             "label": "Price liste Gregoire Besson 2018 in pounds, english version"
           }
         },
@@ -689,7 +689,7 @@ export default {
           "title": "Machines (FR)",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr.pdf",
           "image": {
-            "src": "/img/pricelists/gb.jpg",
+            "src": "/static/img/pricelists/gb.jpg",
             "label": "Liste de prix Gregoire Besson 2018 en euros, version française"
           }
         },
@@ -697,7 +697,7 @@ export default {
           "title": "Machines (IT)",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-it.pdf",
           "image": {
-            "src": "/img/pricelists/gb.jpg",
+            "src": "/static/img/pricelists/gb.jpg",
             "label": "Listino prezzi Gregoire Besson 2018 in euros in italiano"
           }
         }
@@ -707,7 +707,7 @@ export default {
           "title": "Français",
           "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-FR.pdf",
           "image": {
-            "src": "/img/posters/gb.jpg",
+            "src": "/static/img/posters/gb.jpg",
             "label": "Poster de la gamme Gregoire Besson"
           }
         },
@@ -715,7 +715,7 @@ export default {
           "title": "Anglais",
           "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-EN.pdf",
           "image": {
-            "src": "/img/posters/gb.jpg",
+            "src": "/static/img/posters/gb.jpg",
             "label": "Poster of the range Gregoire Besson"
           }
         },
@@ -723,7 +723,7 @@ export default {
           "title": "Italiano",
           "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-IT.pdf",
           "image": {
-            "src": "/img/posters/gb.jpg",
+            "src": "/static/img/posters/gb.jpg",
             "label": "Poster de la gamme Gregoire Besson"
           }
         },
@@ -731,7 +731,7 @@ export default {
           "title": "український",
           "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-UA.pdf",
           "image": {
-            "src": "/img/posters/gb.jpg",
+            "src": "/static/img/posters/gb.jpg",
             "label": "Poster de la gamme Gregoire Besson український"
           }
         },

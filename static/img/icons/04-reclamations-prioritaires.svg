@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="250px" viewBox="0 0 250 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>04-reclamations-prioritaires</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-reclamations-prioritaires">
+            <circle id="Oval" stroke="#000000" stroke-width="10" cx="125" cy="125" r="120"></circle>
+            <g id="Group" transform="translate(59.000000, 46.000000)">
+                <circle id="Oval" stroke="#000000" stroke-width="10" cx="65" cy="80" r="60"></circle>
+                <rect id="Rectangle-5" fill="#000000" x="44" y="0" width="40" height="10" rx="5"></rect>
+                <rect id="Rectangle-5" fill="#000000" transform="translate(124.000000, 34.000000) rotate(45.000000) translate(-124.000000, -34.000000) " x="112" y="29" width="24" height="10" rx="5"></rect>
+                <rect id="Rectangle-5" fill="#000000" transform="translate(119.500000, 38.000000) rotate(-45.000000) translate(-119.500000, -38.000000) " x="112" y="33" width="15" height="10" rx="5"></rect>
+                <rect id="Rectangle-5" fill="#000000" transform="translate(64.000000, 12.000000) rotate(-90.000000) translate(-64.000000, -12.000000) " x="54" y="7" width="20" height="10" rx="5"></rect>
+                <path d="M80.0908573,92.4004191 C83.9568505,92.4004191 85.0908573,91.8643921 85.0908573,76.4004191 C85.0908573,60.9364461 83.9568505,34.4004191 80.0908573,34.4004191 C76.224864,34.4004191 75.0908573,60.9364461 75.0908573,76.4004191 C75.0908573,91.8643921 76.224864,92.4004191 80.0908573,92.4004191 Z" id="Oval-3" fill="#000000" transform="translate(80.090857, 63.400419) rotate(36.000000) translate(-80.090857, -63.400419) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

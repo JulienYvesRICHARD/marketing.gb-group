@@ -23,10 +23,10 @@
           <div class="card">
             <div class="card-body">
               <h4>{{ $t(brandings.name2) }}</h4>
-              <h5 class="card-title"><span class="correct"><img src="/img/correct.png"></span> {{ brandings.brandname }}</h5>
+              <h5 class="card-title"><span class="correct"><img src="/static/img/correct.png"></span> {{ brandings.brandname }}</h5>
               <p>
                 <span v-for="item in brandings.item" :key="item">
-                  <img src="/img/wrong.png"><span class="wrong">  {{ item.name }}</span>,<br>
+                  <img src="/static/img/wrong.png"><span class="wrong">  {{ item.name }}</span>,<br>
                 </span>
                 ...
               </p>

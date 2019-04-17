@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title>GB Group Marketing Tools ¹amp; Brand Assests - Grégoire Besson, Rabe, Agriway</title>
+    <meta name="description" content="Check out GB Group Marketing Tools &amp; Brand Assets (logos, colours, fonts...), a company for soil preparation machinery">
+    <meta name="author" content="GB Group">
+
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=cyrillic,cyrillic-ext,latin-ext|Kanit:500" rel="stylesheet">
+    <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../css/style.css" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108104860-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-108104860-7');
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but internationalization doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+    <script src="../js/jquery-3.2.1.slim.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/ie10-viewport-bug-workaround.js"></script>
+    <script src="../js/script.js"></script>
+
+    <script>
+    $(document).ready(function () {
+      if (location.hash){
+        $(location.hash).collapse('show');
+        $(location.hash).parents('.accordion').collapse('show');
+      }
+    });
+    </script>
+  </body>
+</html>

@@ -51,45 +51,45 @@ export default {
           {
             "name": "logo_white_on_color_description",
             "image": {
-                "src": "/img/logos/logo-rabe-white-oncolor.png",
+                "src": "/static/img/logos/logo-rabe-white-oncolor.png",
                 "label": "Travail du sol logo Rabe, blanc sur fond de couleur"
             },
-            "jpg": "/img/logos/logo-rabe-white-oncolor.jpg",
-            "png": "/img/logos/logo-rabe-white-oncolor.png",
-            "eps": "/img/logos/logo-rabe-white-oncolor.eps",
-            "svg": "/img/logos/logo-rabe-white-oncolor.svg"
+            "jpg": "/static/img/logos/logo-rabe-white-oncolor.jpg",
+            "png": "/static/img/logos/logo-rabe-white-oncolor.png",
+            "eps": "/static/img/logos/logo-rabe-white-oncolor.eps",
+            "svg": "/static/img/logos/logo-rabe-white-oncolor.svg"
           },
           {
             "name": "logo_color_on_white",
             "image": {
-                "src": "/img/logos/logo-rabe-color-onwhite.png",
+                "src": "/static/img/logos/logo-rabe-color-onwhite.png",
                 "label": "Travail du sol logo Rabe, color on white"
             },
-            "jpg": "/img/logos/logo-rabe-color-onwhite.jpg",
-            "png": "/img/logos/logo-rabe-color-onwhite.png",
-            "eps": "/img/logos/logo-rabe-color-onwhite.eps",
-            "svg": "/img/logos/logo-rabe-color-onwhite.svg"
+            "jpg": "/static/img/logos/logo-rabe-color-onwhite.jpg",
+            "png": "/static/img/logos/logo-rabe-color-onwhite.png",
+            "eps": "/static/img/logos/logo-rabe-color-onwhite.eps",
+            "svg": "/static/img/logos/logo-rabe-color-onwhite.svg"
           },
           {
             "name": "logo_white_on_transparent",
             "image": {
-                "src": "/img/logos/logo-rabe-white-ontranspbg.png",
+                "src": "/static/img/logos/logo-rabe-white-ontranspbg.png",
                 "label": "Travail du sol logo Rabe, white on transparent"
             },
-            "png": "/img/logos/logo-rabe-white-ontranspbg.png",
-            "eps": "/img/logos/logo-rabe-white-ontranspbg.eps",
-            "svg": "/img/logos/logo-rabe-white-ontranspbg.svg"
+            "png": "/static/img/logos/logo-rabe-white-ontranspbg.png",
+            "eps": "/static/img/logos/logo-rabe-white-ontranspbg.eps",
+            "svg": "/static/img/logos/logo-rabe-white-ontranspbg.svg"
           },
           {
             "name": "logo_white_on_black",
             "image": {
-                "src": "/img/logos/logo-rabe-white-onblack.png",
+                "src": "/static/img/logos/logo-rabe-white-onblack.png",
                 "label": "Travail du sol logo Rabe, white on black"
             },
-            "jpg": "/img/logos/logo-rabe-white-onblack.jpg",
-            "png": "/img/logos/logo-rabe-white-onblack.png",
-            "eps": "/img/logos/logo-rabe-white-onblack.eps",
-            "svg": "/img/logos/logo-rabe-white-onblack.svg"
+            "jpg": "/static/img/logos/logo-rabe-white-onblack.jpg",
+            "png": "/static/img/logos/logo-rabe-white-onblack.png",
+            "eps": "/static/img/logos/logo-rabe-white-onblack.eps",
+            "svg": "/static/img/logos/logo-rabe-white-onblack.svg"
           }
         ],
         "class": "btn-Rabe"
@@ -135,7 +135,7 @@ export default {
           "title": "links_rabe_website_title",
           "link": "http://rabe-gb.de",
           "image": {
-            "src": "/img/screen-captures/rabe-gb-de.png",
+            "src": "/static/img/screen-captures/rabe-gb-de.png",
             "label": "Website Rabe"
           },
           "description": "links_rabe_website_description"
@@ -144,7 +144,7 @@ export default {
           "title": "links_rabe_facebook_title",
           "link": "https://www.facebook.com/Rabe-Gregoire-Besson-GmbH-817104705125797/",
           "image": {
-            "src": "/img/screen-captures/facebook-rabe.png",
+            "src": "/static/img/screen-captures/facebook-rabe.png",
             "label": "Facebook Rabe"
           },
           "description": "links_rabe_facebook_description"
@@ -153,7 +153,7 @@ export default {
           "title": "links_rabe_youtube_title",
           "link": "https://www.youtube.com/user/RabeVideos/",
           "image": {
-            "src": "/img/screen-captures/youtube-rabe.png",
+            "src": "/static/img/screen-captures/youtube-rabe.png",
             "label": "You Tube Chanel Rabe"
           },
           "description": "links_rabe_youtube_description"
@@ -424,7 +424,7 @@ export default {
           "title": "Machines (EN) € 2018",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-rabe-en-eur.pdf",
           "image": {
-            "src": "/img/pricelists/rabe_FR_3.png",
+            "src": "/static/img/pricelists/rabe_FR_3.png",
             "label": "Price list Rabe 2018 in euros, english version"
           }
         },
@@ -432,7 +432,7 @@ export default {
           "title": "Machines (EN) £ 2018",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-rabe-en-pounds.pdf",
           "image": {
-            "src": "/img/pricelists/rabe_FR_3.png",
+            "src": "/static/img/pricelists/rabe_FR_3.png",
             "label": "Price list Rabe 2018 in pounds, english version"
           }
         },
@@ -440,7 +440,7 @@ export default {
           "title": "Machines (FR) 2018",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-rabe-fr.pdf",
           "image": {
-            "src": "/img/pricelists/rabe_FR_3.png",
+            "src": "/static/img/pricelists/rabe_FR_3.png",
             "label": "Liste de prix Rabe 2018 en euros, version française"
           }
         },
@@ -448,7 +448,7 @@ export default {
           "title": "Machines (DE)",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-de.pdf",
           "image": {
-            "src": "/img/pricelists/rabe.jpg",
+            "src": "/static/img/pricelists/rabe.jpg",
             "label": "PreisListe Rabe 2018 in euros auf Deutsch"
           }
         }

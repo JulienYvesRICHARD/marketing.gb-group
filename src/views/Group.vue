@@ -57,45 +57,45 @@ export default {
           {
             "name": "logo_gradient_description",
             "image": {
-                "src": "/img/logos/logo-gb-group-gradient-oncolor.jpg",
+                "src": "/static/img/logos/logo-gb-group-gradient-oncolor.jpg",
                 "label": "logo GB Group, gradient"
             },
-            "jpg": "/img/logos/logo-gb-group-gradient-oncolor.jpg",
-            "png": "/img/logos/logo-gb-group-gradient-oncolor.png",
-            "eps": "/img/logos/logo-gb-group-gradient-oncolor.eps",
-            "svg": "/img/logos/logo-gb-group-gradient-oncolor.svg"
+            "jpg": "/static/img/logos/logo-gb-group-gradient-oncolor.jpg",
+            "png": "/static/img/logos/logo-gb-group-gradient-oncolor.png",
+            "eps": "/static/img/logos/logo-gb-group-gradient-oncolor.eps",
+            "svg": "/static/img/logos/logo-gb-group-gradient-oncolor.svg"
           },
           {
             "name": "logo_color_on_white",
             "image": {
-                "src": "/img/logos/logo-gb-group-color-onwhite.jpg",
+                "src": "/static/img/logos/logo-gb-group-color-onwhite.jpg",
                 "label": "logo GB Group, color on white"
             },
-            "jpg": "/img/logos/logo-gb-group-color-onwhite.jpg",
-            "png": "/img/logos/logo-gb-group-color-onwhite.png",
-            "eps": "/img/logos/logo-gb-group-color-onwhite.eps",
-            "svg": "/img/logos/logo-gb-group-color-onwhite.svg"
+            "jpg": "/static/img/logos/logo-gb-group-color-onwhite.jpg",
+            "png": "/static/img/logos/logo-gb-group-color-onwhite.png",
+            "eps": "/static/img/logos/logo-gb-group-color-onwhite.eps",
+            "svg": "/static/img/logos/logo-gb-group-color-onwhite.svg"
           },
           {
             "name": "logo_white_on_transparent",
             "image": {
-                "src": "/img/logos/logo-gb-group-white-ontranspbg.jpg",
+                "src": "/static/img/logos/logo-gb-group-white-ontranspbg.jpg",
                 "label": "logo GB Group, white on transparent"
             },
-            "png": "/img/logos/logo-gb-group-white-ontranspbg.png",
-            "eps": "/img/logos/logo-gb-group-white-ontranspbg.eps",
-            "svg": "/img/logos/logo-gb-group-white-ontranspbg.svg"
+            "png": "/static/img/logos/logo-gb-group-white-ontranspbg.png",
+            "eps": "/static/img/logos/logo-gb-group-white-ontranspbg.eps",
+            "svg": "/static/img/logos/logo-gb-group-white-ontranspbg.svg"
           },
           {
             "name": "logo_white_on_black",
             "image": {
-                "src": "/img/logos/logo-gb-group-white-onblack.jpg",
+                "src": "/static/img/logos/logo-gb-group-white-onblack.jpg",
                 "label": "logo GB Group, white on black"
             },
-            "jpg": "/img/logos/logo-gb-group-white-onblack.jpg",
-            "png": "/img/logos/logo-gb-group-white-onblack.png",
-            "eps": "/img/logos/logo-gb-group-white-onblack.eps",
-            "svg": "/img/logos/logo-gb-group-white-onblack.svg"
+            "jpg": "/static/img/logos/logo-gb-group-white-onblack.jpg",
+            "png": "/static/img/logos/logo-gb-group-white-onblack.png",
+            "eps": "/static/img/logos/logo-gb-group-white-onblack.eps",
+            "svg": "/static/img/logos/logo-gb-group-white-onblack.svg"
           }
         ],
         "class": "btn-GB"
@@ -159,7 +159,7 @@ export default {
           "title": "links_group_website_title",
           "link": "https://gb-group.co",
           "image": {
-            "src": "/img/screen-captures/gb-group-co.png",
+            "src": "/static/img/screen-captures/gb-group-co.png",
             "label": "Website GB Group"
           },
           "description": "links_group_website_description"
@@ -168,7 +168,7 @@ export default {
           "title": "links_group_twitter_title",
           "link": "https://twitter.com/gbgroup_/",
           "image": {
-            "src": "/img/screen-captures/twitter-gbgroup.png",
+            "src": "/static/img/screen-captures/twitter-gbgroup.png",
             "label": "Twitter GB Group"
           },
           "description": "links_group_twitter_description"
@@ -183,7 +183,7 @@ export default {
           "phone": "+33 (0)2 41 64 72 67",
           "gpscoordinate": "47.084429, -1.135755",
           "image": {
-            "src": "/img/teams/gb-group-france-600.jpg",
+            "src": "/static/img/teams/gb-group-france-600.jpg",
             "label": "Machine de travail du sol Equipe commercial France",
           },
           "googlemaps": "rue+Victor+Gregoire,49230+Montigne+Montfaucon,France"
@@ -196,7 +196,7 @@ export default {
           "phone": "+44 1778 230020",
           "gpscoordinate": "52.771750, -0.334348",
           "image": {
-            "src": "/img/teams/gb-group-united-kingdom-600.jpg",
+            "src": "/static/img/teams/gb-group-united-kingdom-600.jpg",
             "label": "Soil preparation Salesman Team in U.K",
           },
           "googlemaps": "Spalding+Rd,Bourne+PE10+0AU,United+Kingdom"
@@ -209,7 +209,7 @@ export default {
           "phone": "+49 5472 7710",
           "gpscoordinate": "52.309007, 8.401389",
           "image": {
-            "src": "/img/teams/gb-group-germany-600.jpg",
+            "src": "/static/img/teams/gb-group-germany-600.jpg",
             "label": "Soil preparation Salesman Team in Germany",
           },
           "googlemaps": "Am+Rabewerk+1,49152+Bad+Essen,Deutschland"
@@ -222,7 +222,7 @@ export default {
           "phone": "+39 0731 375970",
           "gpscoordinate": "43.482243, 13.182024",
           "image": {
-            "src": "/img/teams/gb-group-italy-600.jpg",
+            "src": "/static/img/teams/gb-group-italy-600.jpg",
             "label": "Soil preparation Salesman Team in Italy",
           },
           "googlemaps": "Via+dell’industria+9,Monte+Roberto,Ancona,Italia"
@@ -235,7 +235,7 @@ export default {
           "phone": "+1 450-799-5615",
           "gpscoordinate": "45.652349, -72.945034",
           "image": {
-            "src": "/img/teams/gb-group-canada-600.jpg",
+            "src": "/static/img/teams/gb-group-canada-600.jpg",
             "label": "Soil preparation Salesman Team in Canada",
           },
           "googlemaps": "4480+Rue+Martineau,Saint-Hyacinthe,QC+J2R,Canada"
@@ -248,7 +248,7 @@ export default {
           "phone": "+48 61 297 75 30",
           "gpscoordinate": "52.667903, 16.846662",
           "image": {
-            "src": "/img/teams/gb-group-poland-600.jpg",
+            "src": "/static/img/teams/gb-group-poland-600.jpg",
             "label": "Soil preparation Salesman Team in Poland",
           },
           "googlemaps": "Kowanówko+ul.,Obornicka+1a,64-600+Oborniki,Polska"
@@ -262,7 +262,7 @@ export default {
           "phone": "+37 0 616 16 168",
           "gpscoordinate": "55.519934, 25.094365",
           "image": {
-            "src": "/img/teams/gb-group-baltics-scandinavia-600.jpg",
+            "src": "/static/img/teams/gb-group-baltics-scandinavia-600.jpg",
             "label": " Soil preparation Saleman in Baltics and Scandinavia",
           },
           "googlemaps": "Silelio 8,+Anyksciai+LT+29144+lithuania"
@@ -276,7 +276,7 @@ export default {
           "phone": "+36 30 373 9167",
           "gpscoordinate": "47.520283, 21.633754",
           "image": {
-            "src": "/img/teams/gb-group-eastern-europe-600.jpg",
+            "src": "/static/img/teams/gb-group-eastern-europe-600.jpg",
             "label": " Soil preparationSaleman in Eastern Europe",
           },
           "googlemaps": "Debrecen,+Híd+u.+4,+4030+Hongrie"
@@ -289,7 +289,7 @@ export default {
           "phone": "+7 472 240-22-10",
           "gpscoordinate": "50.590156, 36.627327",
           "image": {
-            "src": "/img/teams/gb-group-vostok-600.jpg",
+            "src": "/static/img/teams/gb-group-vostok-600.jpg",
             "label": "Soil preparation Salesman team in Russia",
           },
           "googlemaps": "Korochanskaya+Ulitsa,132А,Belgorod,Belgorodskaya+oblast,Russia,308006"
@@ -302,7 +302,7 @@ export default {
           "phone": "+38 0472 712 823",
           "gpscoordinate": "49.415296, 32.058639",
           "image": {
-            "src": "/img/teams/gb-group-ukraine-600.jpg",
+            "src": "/static/img/teams/gb-group-ukraine-600.jpg",
             "label": "Soil preparation Salesman team in Ukraine",
           },
           "googlemaps": "18028,Україна,Черкаська+обл.,м.+Черкаси,+вул.+Рози,Люксембург,буд+202,Ukraine"
@@ -315,7 +315,7 @@ export default {
           "phone": "+86 1065 08 06 40",
           "gpscoordinate": "39.915814, 116.485848",
           "image": {
-            "src": "/img/teams/gb-group-china-600.jpg",
+            "src": "/static/img/teams/gb-group-china-600.jpg",
             "label": "Soil preparation Salesman team in China",
           },
           "googlemaps": "%E6%B3%95%E5%9B%BD%E6%A0%BC%E5%8A%9B%E6%A0%BC%E5%B0%94-%E8%B4%9D%E6%9D%BE%E5%85%AC%E5%8F%B8+%E5%8C%97%E4%BA%AC%E4%BB%A3%E8%A1%A8%E5%A4%84++%E9%9D%99%E9%87%8C%E4%B8%AD%E8%A1%973%E5%8F%B7%E9%95%BF%E4%BF%A1%E5%A4%A7%E5%8E%A6220%E5%AE%A4++China"
@@ -426,7 +426,7 @@ export default {
       printCharters: [
         {
           "image": {
-            "src": "/img/graphic-charter/printgraphiccharter.png",
+            "src": "/static/img/graphic-charter/printgraphiccharter.png",
             "label": "Charte graphique GB Group"
           },
           "href": "https://marketing.cellar.services.clever-cloud.com/graphic-charter/gb-group-graphic-charter.pdf"
@@ -435,7 +435,7 @@ export default {
       powerPointTemplates:[
         {
           "image": {
-            "src": "/img/powerpoint-template/powerpointtemplate.png",
+            "src": "/static/img/powerpoint-template/powerpointtemplate.png",
             "label": "Power Point template fdr GB Group"
           },
           "href": {
@@ -447,7 +447,7 @@ export default {
       icons: [
         {
           "image": {
-            "src": "/img/icons/01-assistance-clientele.png",
+            "src": "/static/img/icons/01-assistance-clientele.png",
             "label": "Icon Customer GB Group"
           },
           "href": {
@@ -457,7 +457,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/02-assistance-online.png",
+            "src": "/static/img/icons/02-assistance-online.png",
             "label": "Icon Online service GB Group"
           },
           "href": {
@@ -467,7 +467,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/03-formations.png",
+            "src": "/static/img/icons/03-formations.png",
             "label": "Icon Training GB Group"
           },
           "href": {
@@ -477,7 +477,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/04-reclamations-prioritaires.png",
+            "src": "/static/img/icons/04-reclamations-prioritaires.png",
             "label": "Icon Reclamation prioritaire GB Group"
           },
           "href": {
@@ -487,7 +487,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/05-relation-privilegiee.png",
+            "src": "/static/img/icons/05-relation-privilegiee.png",
             "label": "Icon Relation privilégiée GB Group"
           },
           "href": {
@@ -497,7 +497,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/06-vip.png",
+            "src": "/static/img/icons/06-vip.png",
             "label": "Icon VIP GB Group"
           },
           "href": {
@@ -507,7 +507,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/07-offre-complete.png",
+            "src": "/static/img/icons/07-offre-complete.png",
             "label": "Icon Offre complete GB Group"
           },
           "href": {
@@ -517,7 +517,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/08-services.png",
+            "src": "/static/img/icons/08-services.png",
             "label": "Icon Services GB Group"
           },
           "href": {
@@ -527,7 +527,7 @@ export default {
         },
         {
           "image": {
-            "src": "/img/icons/09-europe.png",
+            "src": "/static/img/icons/09-europe.png",
             "label": "Icon Europe GB Group"
           },
           "href": {

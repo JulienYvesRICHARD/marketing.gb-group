@@ -3,6 +3,7 @@
     <div class="container" id="main">
       <div class="row">
         <div class="col">
+          <a class="anchor" name="logo"></a>
           <h1>{{ $t('main_title') }}</h1>
           <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@gb-group.co">webmaster@gb-group.co</a>.</p>
         </div>
@@ -49,7 +50,7 @@ export default {
       logos: {
         "item":[
           {
-            "name": "logo_white_on_color_description",
+            "name": "logo_white_on_color",
             "image": {
                 "src": "/static/img/logos/logo-rabe-white-oncolor.png",
                 "label": "Travail du sol logo Rabe, blanc sur fond de couleur"

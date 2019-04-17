@@ -3,6 +3,7 @@
     <div class="container" id="main">
       <div class="row">
         <div class="col">
+          <a class="anchor" name="logo"></a>
           <h1>{{ $t('main_title') }}</h1>
           <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@gb-group.co">webmaster@gb-group.co</a>.</p>
         </div>

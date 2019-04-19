@@ -131,3 +131,8 @@ export default {
   }
 }
 </script>
+
+<style>
+@import '../static/css/bootstrap.min.css';
+@import '../static/css/style.css';
+</style>

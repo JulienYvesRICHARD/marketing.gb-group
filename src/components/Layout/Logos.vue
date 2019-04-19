@@ -1,7 +1,6 @@
 /* eslint-disable */
 <template>
     <div class="container" id="logo">
-      <a class="anchor" name="logo"></a>
       <h3>{{ $t('logo_title') }}</h3>
       <div class="row logos-card">
         <div class="col-12 col-sm-6 col-md-3" v-for="logo in logos.item" :key="logo.name">

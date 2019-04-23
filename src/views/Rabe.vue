@@ -422,10 +422,10 @@ export default {
       },
       prices: [
         {
-          "title": "Machines (EN) € 2018",
+          "title": "Machines (EN) €",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-en-eur.pdf",
           "image": {
-            "src": "/static/img/pricelists/rabe_FR_3.png",
+            "src": "/static/img/pricelists/rabe.jpg",
             "label": "Price list Rabe 2018 in euros, english version"
           }
         },

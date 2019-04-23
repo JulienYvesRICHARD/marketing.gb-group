@@ -423,7 +423,7 @@ export default {
       prices: [
         {
           "title": "Machines (EN) € 2018",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-rabe-en-eur.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-en-eur.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe_FR_3.png",
             "label": "Price list Rabe 2018 in euros, english version"
@@ -431,7 +431,7 @@ export default {
         },
         {
           "title": "Machines (EN) £ 2018",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-rabe-en-pounds.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-en-gbp.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe_FR_3.png",
             "label": "Price list Rabe 2018 in pounds, english version"
@@ -439,7 +439,7 @@ export default {
         },
         {
           "title": "Machines (FR) 2018",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-rabe-fr.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-fr.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe_FR_3.png",
             "label": "Liste de prix Rabe 2018 en euros, version française"

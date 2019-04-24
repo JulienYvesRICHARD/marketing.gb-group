@@ -304,11 +304,11 @@ export default {
               },
               {
                 "trad": "leaflets_rabe_title13",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-en.pdf"
               },
               {
                 "trad": "leaflets_rabe_title14",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-fr.pdf"
               }
             ],
           }

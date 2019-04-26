@@ -108,7 +108,9 @@ export default {
         { language: 'fr', title: 'FR' },
         { language: 'en', title: 'EN' },
         { language: 'de', title: 'DE' },
-        { language: 'it', title: 'IT' }
+        { language: 'it', title: 'IT' },
+        { language: 'pl', title: 'PL' },
+        { language: 'ru', title: 'RU' }
       ]
     };
   },

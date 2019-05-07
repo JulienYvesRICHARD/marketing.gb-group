@@ -426,31 +426,23 @@ export default {
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-en-eur.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe.jpg",
-            "label": "Price list Rabe 2018 in euros, english version"
+            "label": "Price list Rabe 2019 in euros, english version"
           }
         },
         {
-          "title": "Machines (EN) £ 2018",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-en-gbp.pdf",
-          "image": {
-            "src": "/static/img/pricelists/rabe_FR_3.png",
-            "label": "Price list Rabe 2018 in pounds, english version"
-          }
-        },
-        {
-          "title": "Machines (FR) 2018",
+          "title": "Machines (FR) €",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-fr.pdf",
           "image": {
-            "src": "/static/img/pricelists/rabe_FR_3.png",
-            "label": "Liste de prix Rabe 2018 en euros, version française"
+            "src": "/static/img/pricelists/rabe.jpg",
+            "label": "Liste de prix Rabe 2019 en euros, version française"
           }
         },
         {
-          "title": "Machines (DE)",
+          "title": "Machines (DE) €",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-de.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe.jpg",
-            "label": "PreisListe Rabe 2018 in euros auf Deutsch"
+            "label": "PreisListe Rabe 2019 in euros auf Deutsch"
           }
         }
       ]

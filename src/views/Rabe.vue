@@ -104,7 +104,7 @@ export default {
         "ral": "5015",
         "pantone": "3005",
         "name2": "branding_spelling_title",
-        "brandname": "Grégoire Besson",
+        "brandname": "Rabe",
         "item": [
           {
             "name": "rabe"

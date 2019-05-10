@@ -4,10 +4,12 @@
     <a class="anchor" name="branding"></a>
     <h3>Range Spelling</h3>
     <div class="row" >
-        <div class="col-6 card" v-for="item in range" :key="item">
-          <div class="row p-2 ">
-            <div class="col-4 range p-3" v-for="machine in item.machine" :key="machine">
-              <div v-for="title in machine.title" :key="title">
+        <div class="col-6" v-for="item in range" :key="item">
+          <div class="m-1 card">
+            <div class="row p-2 ">
+              <div class="col-4 range p-3" v-for="machine in item.machine" :key="machine">
+                <h5 class="text-center" v-if="machine.title">Titre et espace</h5>
+                <div v-for="title in machine.title" :key="title">
                   <h5 v-if="title.goodspelling">
                       <img src="/static/img/correct.png">
                       <span class="correct">{{ title.goodspelling }}</span>
@@ -17,6 +19,7 @@
                       <span class="wrong rangeSpace">{{ title.wrongspelling }}</span><br>
                   </span>
                 </div>
+                <h5 class="text-center" v-if="machine.stickers">Stickers</h5>
                 <div v-for="sticker in machine.stickers" :key="sticker">
                   <h5 v-if="sticker.goodspelling">
                       <img src="/static/img/correct.png">
@@ -27,6 +30,7 @@
                       <span class="wrong rangeSpace">{{ sticker.wrongspelling }}</span><br>
                   </span>
                 </div>
+                <h5 class="text-center" v-if="machine.texts">Corps de texte</h5>
                 <div v-for="text in machine.texts" :key="text">
                   <h5 v-if="text.goodspelling">
                       <img src="/static/img/correct.png">
@@ -38,6 +42,7 @@
                   </span>
               </div>
             </div>
+          </div>
         </div>
       </div>
     </div>

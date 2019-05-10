@@ -4,10 +4,11 @@
     <a class="anchor" name="branding"></a>
     <h3>Range Spelling</h3>
     <div class="row" >
-        <div class="col-6" v-for="item in range" :key="item">
+        <div class="col-12 col-sm-6 col_md-6" v-for="item in range" :key="item">
+          <h4 class="text-center mt-2">{{ item.name }}</h4>
           <div class="m-1 card">
             <div class="row p-2 ">
-              <div class="col-4 range p-3" v-for="machine in item.machine" :key="machine">
+              <div class="col-12 col-sm-12 col-lg-4 range p-3" v-for="machine in item.machine" :key="machine">
                 <h5 class="text-center" v-if="machine.title">Titre et espace</h5>
                 <div v-for="title in machine.title" :key="title">
                   <h5 v-if="title.goodspelling">

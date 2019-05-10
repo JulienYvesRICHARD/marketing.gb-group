@@ -124,7 +124,7 @@ export default {
       },
       brandings_range: [
         {
-          "name": "prima",
+          "name": "PRIMA",
           "machine": [
             {
               "name": "Titre",
@@ -154,7 +154,7 @@ export default {
           ]
         },
         {
-          "name": "rover",
+          "name": "ROVER",
           "machine": [
             {"title": [
               {"goodspelling": "ROVER"},
@@ -182,7 +182,7 @@ export default {
           ]
         },
         {
-          "name": "rover",
+          "name": "VOYAGER",
           "machine": [
             {"title": [
               {"goodspelling": "VOYAGER"},
@@ -211,6 +211,288 @@ export default {
               {"wrongspelling": "voyagers60"},
               {"wrongspelling": "voyager s60"},
               {"wrongspelling": "VoyagerS60"},
+            ]}
+          ]
+        },
+        {
+          "name": "EXPLOR",
+          "machine": [
+            {"title": [
+              {"goodspelling": "EXPLOR"},
+              {"goodspelling": "EXPLOR T70"},
+              {"goodspelling": "EXPLOR T80"},
+              {"goodspelling": "EXPLOR T90"},
+              {"wrongspelling": "Explor"},
+              {"wrongspelling": "ExplorT70"},
+              {"wrongspelling": "EXPLORt70"},
+              {"wrongspelling": "EXPLORT 70"},
+              {"wrongspelling": "EXPLOR T 70"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "EXPLOR"},
+              {"wrongpelling": "EXPLOR T70"},
+              {"wrongspelling": "ExplorT70"},
+              {"wrongspelling": "EXPLOR T 70"}
+            ]},
+            {"texts": [
+              {"goodspelling": "Explor"},
+              {"goodspelling": "Explor T70"},
+              {"goodspelling": "Explor T80"},
+              {"goodspelling": "Explor T90"},
+              {"wrongspelling": "explorT70"},
+              {"wrongspelling": "explor t70"},
+              {"wrongspelling": "explor t 70"},
+            ]}
+          ]
+        },
+        {
+          "name": "EXPLOR",
+          "machine": [
+            {"title": [
+              {"goodspelling": "DISCORDON"},
+              {"goodspelling": "DISCORDON 60"},
+              {"goodspelling": "DISCORDON T70"},
+              {"goodspelling": "DISCORDON T80"},
+              {"wrongspelling": "Discordon"},
+              {"wrongspelling": "DiscordonT70"},
+              {"wrongspelling": "DISCORDONt70"},
+              {"wrongspelling": "DISCORDONT 70"},
+              {"wrongspelling": "DISCORDON T 70"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "DISCORDON"},
+              {"wrongpelling": "DISCORDON T70"},
+              {"wrongspelling": "DiscordonT70"},
+              {"wrongspelling": "DISCORDON T 70"}
+            ]},
+            {"texts": [
+              {"goodspelling": "Discordon"},
+              {"goodspelling": "Discordon T70"},
+              {"goodspelling": "Discordon T80"},
+              {"goodspelling": "Discordon T90"},
+              {"wrongspelling": "discordonT70"},
+              {"wrongspelling": "Discordon t70"},
+              {"wrongspelling": "discordon t 70"},
+            ]}
+          ]
+        },
+        {
+          "name": "TETRA",
+          "machine": [
+            {"title": [
+              {"goodspelling": "TETRA"},
+              {"goodspelling": "TETRA 50"},
+              {"goodspelling": "TETRA 60"},
+              {"goodspelling": "TETRA 70"},
+              {"goodspelling": "TETRA 80"},
+              {"wrongspelling": "TÉTRA"},
+              {"wrongspelling": "Tétra"},
+              {"wrongspelling": "Tetra70"},
+              {"wrongspelling": "Tetra 70"},
+              {"wrongspelling": "TETRA70"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "TETRA"},
+              {"wrongpelling": "TÉTRA"},
+              {"wrongspelling": "Tetra70"},
+              {"wrongspelling": "TETRA 70"}
+            ]},
+            {"texts": [
+              {"goodspelling": "Tetra"},
+              {"goodspelling": "Tetra 50"},
+              {"goodspelling": "Tetra 60"},
+              {"goodspelling": "Tetra 70"},
+              {"goodspelling": "Tetra 80"},
+              {"wrongspelling": "tetraT70"},
+              {"wrongspelling": "Tetra70"},
+              {"wrongspelling": "Tétra 70"},
+            ]}
+          ]
+        },
+        {
+          "name": "COVER",
+          "machine": [
+            {"title": [
+              {"goodspelling": "COVER"},
+              {"goodspelling": "COVER V"},
+              {"goodspelling": "COVER X"},
+              {"goodspelling": "COVER XL"},
+              {"goodspelling": "COVER V T50"},
+              {"goodspelling": "COVER V T60"},
+              {"goodspelling": "COVER V T70"},
+              {"goodspelling": "COVER X T50"},
+              {"goodspelling": "COVER X T60"},
+              {"goodspelling": "COVER X T70"},
+              {"goodspelling": "COVER X T80"},
+              {"goodspelling": "COVER XL T60"},
+              {"goodspelling": "COVER XL T70"},
+              {"goodspelling": "COVER XL T80"},
+              {"goodspelling": "COVER XL T90"},
+              {"wrongspelling": "Cover"},
+              {"wrongspelling": "CoverX T70"},
+              {"wrongspelling": "COVER XT70"},
+              {"wrongspelling": "CoverX T 70"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "COVER"},
+              {"wrongpelling": "COVER X"},
+              {"wrongpelling": "COVER X T70"},
+              {"wrongspelling": "CoverT70"},
+              {"wrongspelling": "COVER X T 70"},
+              {"wrongspelling": "COVER XT 70"},
+              {"wrongspelling": "Cover X T 70"}
+            ]},
+            {"texts": [
+            {"goodspelling": "Cover"},
+              {"goodspelling": "Cover V"},
+              {"goodspelling": "Cover X"},
+              {"goodspelling": "Cover XL"},
+              {"goodspelling": "Cover V T50"},
+              {"goodspelling": "Cover V T60"},
+              {"goodspelling": "Cover V T70"},
+              {"goodspelling": "Cover X T50"},
+              {"goodspelling": "Cover X T60"},
+              {"goodspelling": "Cover X T70"},
+              {"goodspelling": "Cover X T80"},
+              {"goodspelling": "Cover XL T60"},
+              {"goodspelling": "Cover XL T70"},
+              {"goodspelling": "Cover XL T80"},
+              {"goodspelling": "Cover XL T90"},
+              {"wrongspelling": "cover"},
+              {"wrongspelling": "CoverX T70"},
+              {"wrongspelling": "cover XT70"},
+              {"wrongspelling": "CoverX T 70"}
+            ]}
+          ]
+        },
+        {
+          "name": "HELIOS",
+          "machine": [
+            {"title": [
+              {"goodspelling": "HELIOS"},
+              {"goodspelling": "HELIOS MONO"},
+              {"goodspelling": "HELIOS DUO"},
+              {"goodspelling": "HELIOS CRACKER"},
+              {"goodspelling": "HELIOS MONO 60"},
+              {"goodspelling": "HELIOS MONO 70"},
+              {"goodspelling": "HELIOS DUO 60"},
+              {"goodspelling": "HELIOS DUO 70"},
+              {"goodspelling": "HELIOS DUO T80"},
+              {"goodspelling": "HELIOS DUO T90"},
+              {"goodspelling": "HELIOS CRACKER 60"},
+              {"goodspelling": "HELIOS CRACKER 70"},
+              {"goodspelling": "HELIOS CRACKER 80"},
+              {"wrongspelling": "Hélios"},
+              {"wrongspelling": "HÉLIOS"},
+              {"wrongspelling": "HELIOS duo60"},
+              {"wrongspelling": "HELIOS duo 60"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "HELIOS"},
+              {"wrongpelling": "HÉLIOS DUO"},
+              {"wrongpelling": "Helios DUO"},
+              {"wrongspelling": "HELIOS DUO70"},
+              {"wrongspelling": "Hélios 70"},
+              {"wrongspelling": "HELIOS DUO T 80"},
+              {"wrongspelling": "HELIOSDUO 70"}
+            ]},
+            {"texts": [
+            {"goodspelling": "Helios"},
+              {"goodspelling": "Helios Mono"},
+              {"goodspelling": "Helios Duo"},
+              {"goodspelling": "Helios Cracker"},
+              {"goodspelling": "Helios Mono 60"},
+              {"goodspelling": "Helios Mono 70"},
+              {"goodspelling": "Helios Duo 60"},
+              {"goodspelling": "Helios Duo 70"},
+              {"goodspelling": "Helios Duo T80"},
+              {"goodspelling": "Helios Duo T90"},
+              {"goodspelling": "Helios Cracker 60"},
+              {"goodspelling": "Helios Cracker 70"},
+              {"goodspelling": "Helios Cracker 80"},
+              {"wrongspelling": "Hélios"},
+              {"wrongspelling": "hélios"},
+              {"wrongspelling": "helios duo"},
+              {"wrongspelling": "HeliosDuo 60"},
+              {"wrongspelling": "Helios duo 60"},
+              {"wrongspelling": "Helios Duo60"},
+              {"wrongspelling": "Helios Duo t80"},
+            ]}
+          ]
+        },
+        {
+          "name": "NORMANDIE",
+          "machine": [
+            {"title": [
+              {"goodspelling": "NORMANDIE"},
+              {"goodspelling": "NORMANDIE 40"},
+              {"goodspelling": "NORMANDIE 50"},
+              {"goodspelling": "NORMANDIE 60"},
+              {"goodspelling": "NORMANDIE 70"},
+              {"goodspelling": "NORMANDIE T60"},
+              {"goodspelling": "NORMANDIE T70"},
+              {"goodspelling": "NORMANDIE T80"},
+              {"wrongspelling": "Normandie"},
+              {"wrongspelling": "Normandie T70"},
+              {"wrongspelling": "NORMANDIET70"},
+              {"wrongspelling": "NORMANDIE T 70"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "NORMANDIE"},
+              {"wrongpelling": "NORMANDIE 40"},
+              {"wrongpelling": "NORMANDIE40"},
+              {"wrongspelling": "Normandie"},
+              {"wrongspelling": "Normandie 40"}
+            ]},
+            {"texts": [
+              {"goodspelling": "Normandie"},
+              {"goodspelling": "Normandie 40"},
+              {"goodspelling": "Normandie 50"},
+              {"goodspelling": "Normandie 60"},
+              {"goodspelling": "Normandie 70"},
+              {"goodspelling": "Normandie T60"},
+              {"goodspelling": "Normandie T70"},
+              {"goodspelling": "Normandie T80"},
+              {"wrongspelling": "normandie"},
+              {"wrongspelling": "NormandieT70"},
+              {"wrongspelling": "normandie T70"},
+              {"wrongspelling": "Normandie T 70"}
+            ]}
+          ]
+        },
+        {
+          "name": "CROSSLAND",
+          "machine": [
+            {"title": [
+              {"goodspelling": "CROSSLAND"},
+              {"goodspelling": "CROSSLAND 50"},
+              {"goodspelling": "CROSSLAND 60"},
+              {"goodspelling": "CROSSLAND T60"},
+              {"goodspelling": "CROSSLAND T70"},
+              {"goodspelling": "CROSSLANS T80"},
+              {"wrongspelling": "Crossland"},
+              {"wrongspelling": "Crossland T70"},
+              {"wrongspelling": "CROSSLANDT70"},
+              {"wrongspelling": "CROSSLAND T 70"}
+            ]},
+            {"stickers": [
+              {"goodspelling": "CROSSLAND"},
+              {"wrongpelling": "CROSSLAND 50"},
+              {"wrongpelling": "CROSSLAND50"},
+              {"wrongspelling": "Crossland"},
+              {"wrongspelling": "Crossland 40"}
+            ]},
+            {"texts": [
+              {"goodspelling": "Crossland"},
+              {"goodspelling": "Crossland 50"},
+              {"goodspelling": "Crossland 60"},
+              {"goodspelling": "Crossland T60"},
+              {"goodspelling": "Crossland T70"},
+              {"goodspelling": "Crossland T80"},
+              {"wrongspelling": "crossland"},
+              {"wrongspelling": "CrosslandT70"},
+              {"wrongspelling": "crossland T70"},
+              {"wrongspelling": "Crossland T 70"}
             ]}
           ]
         }

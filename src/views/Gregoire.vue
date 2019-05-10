@@ -120,6 +120,221 @@ export default {
         "text": "branding_font_text",
         "download": "branding_font_download"
       },
+      brandings_range: {
+        "spacing": [
+          {"block": [
+            {"goodspelling": "PRIMA"},
+            {"goodspelling": "PRIMA 40"},
+            {"wrongspelling": "PRIMA40"},
+          ]},
+          {"block": [
+            {"goodspelling": "ROVER"},
+            {"goodspelling": "ROVER 40"},
+            {"wrongspelling": "ROVER40"},
+          ]},
+          {"block": [
+            {"goodspelling": "VOYAGER"},
+            {"goodspelling": "VOYAGER S60"},
+            {"wrongspelling": "VOYAGERS60"},
+            {"wrongspelling": "VOYAGERS 60"},
+            {"wrongspelling": "VOYAGER S 60"},
+          ]},
+          {"block": [
+            {"goodspelling": "EXPLOR"},
+            {"goodspelling": "EXPLOR T70"},
+            {"wrongspelling": "EXPLORT70"},
+            {"wrongspelling": "EXPLORT 70"},
+            {"wrongspelling": "EXPLOR T 70"}
+          ]},
+          {"block": [
+            {"goodspelling": "DISCORDON"},
+            {"goodspelling": "DISCORDON T70"},
+            {"wrongspelling": "DISCORDONT70"},
+            {"wrongspelling": "DISCORDONT 70"},
+            {"wrongspelling": "DISCORDON T 70"},
+          ]},
+          {"block": [
+            {"goodspelling": "COVER"},
+            {"goodspelling": "COVER X"},
+            {"goodspelling": "COVER X T60"},
+            {"goodspelling": "COVER XL T60"},
+            {"wrongspelling": "COVERX"},
+            {"wrongspelling": "COVERXT60"},
+            {"wrongspelling": "COVER XT60"},
+            {"wrongspelling": "COVER XLT60"},
+            {"wrongspelling": "COVERX T60"},
+            {"wrongspelling": "COVER X T 60"},
+            {"wrongspelling": "COVER XT 60"},
+            {"wrongspelling": "COVER X L T60"},
+          ]},
+          {"block": [
+            {"goodspelling": "HELIOS"},
+            {"goodspelling": "HELIOS MONO"},
+            {"goodspelling": "HELIOS DUO"},
+            {"goodspelling": "HELIOS CRACKER"},
+            {"goodspelling": "HELIOS MONO 60"},
+            {"goodspelling": "HELIOS DUO 60"},
+            {"goodspelling": "HELIOS CRACKER 60"},
+            {"goodspelling": "HELIOS DUO T60"},
+            {"wrongspelling": "HÉLIOS"},
+            {"wrongspelling": "HELIOSMONO"},
+            {"wrongspelling": "HELIOSDUO"},
+            {"wrongspelling": "HELIOSCRACKER"},
+            {"wrongspelling": "HELIOSMONO60"},
+            {"wrongspelling": "HELIOSDUO60"},
+            {"wrongspelling": "HELIOSDUOT80"},
+            {"wrongspelling": "HELIOSCRACKER60"},
+            {"wrongspelling": "HELIOS MONO60"},
+            {"wrongspelling": "HELIOS DUO60"},
+            {"wrongspelling": "HELIOS CRACKER60"},
+            {"wrongspelling": "HELIOS DUOT80"},
+            {"wrongspelling": "HELIOS DUO T 80"},
+            {"wrongspelling": "HELIOS DUOT 80"},
+          ]},
+          {"block": [
+            {"goodspelling": "TETRA"},
+            {"goodspelling": "TETRA 60"},
+            {"wrongspelling": "TÉTRA"},
+            {"wrongspelling": "TETRA60"}
+          ]}
+        ],
+        "title": [
+          {"block": [
+            {"goodspelling": "PRIMA"},
+            {"goodspelling": "PRIMA 40"}
+          ]},
+          {"block": [
+            {"goodspelling": "ROVER"},
+            {"goodspelling": "ROVER 40"}
+          ]},
+          {"block": [
+            {"goodspelling": "VOYAGER"},
+            {"goodspelling": "VOYAGER S60"}
+          ]},
+          {"block": [
+            {"goodspelling": "EXPLOR"},
+            {"goodspelling": "EXPLOR T70"}
+          ]},
+          {"block": [
+            {"goodspelling": "DISCORDON"},
+            {"goodspelling": "DISCORDON T70"}
+          ]},
+          {"block": [
+            {"goodspelling": "COVER"},
+            {"goodspelling": "COVER X"},
+            {"goodspelling": "COVER XL"}
+          ]},
+          {"block": [
+            {"goodspelling": "NORMANDIE"},
+            {"goodspelling": "NORMANDIE 60"},
+            {"goodspelling": "NORMANDIE T60"}
+          ]},
+          {"block": [
+            {"goodspelling": "HELIOS"},
+            {"goodspelling": "HELIOS MONO"},
+            {"goodspelling": "HELIOS DUO"},
+            {"goodspelling": "HELIOS CRACKER"},
+            {"goodspelling": "HELIOS CRACKER 60"},
+            {"wrongspelling": "HÉLIOS"},
+          ]},
+          {"block": [
+            {"goodspelling": "CROSSLAND"},
+            {"goodspelling": "CROSSLAND 60"},
+            {"goodspelling": "CROSSLAND T60"}
+          ]},
+          {"block": [
+            {"goodspelling": "TETRA"},
+            {"goodspelling": "TETRA 60"},
+            {"wrongspelling": "TÉTRA"}
+          ]},
+        ],
+        "stickers": [
+          {"goodspelling": "PRIMA"},
+          {"goodspelling": "ROVER"},
+          {"goodspelling": "VOYAGER"},
+          {"goodspelling": "EXPLOR"},
+          {"goodspelling": "DISCORDON"},
+          {"goodspelling": "COVER"},
+          {"goodspelling": "NORMANDIE"},
+          {"goodspelling": "HELIOS"},
+          {"wrongspelling": "HÉLIOS"},
+          {"goodspelling": "CROSSLAND"},
+          {"goodspelling": "TETRA"},
+          {"wrongspelling": "TÉTRA"}
+        ],
+        "text": [
+          {"goodspelling": "Prima"},
+          {"goodspelling": "Rover"},
+          {"goodspelling": "Voyager"},
+          {"goodspelling": "Explor"},
+          {"goodspelling": "Discordon"},
+          {"goodspelling": "Cover"},
+          {"goodspelling": "Normandie"},
+          {"goodspelling": "Helios"},
+          {"wrongspelling": "Hélios"},
+          {"goodspelling": "Crossland"},
+          {"goodspelling": "Tetra"},
+          {"wrongspelling": "Tetra"}
+        ],
+        "complet_name": [
+          {"goodspelling": "Prima 40"},
+          {"goodspelling": "Prima 50"},
+          {"goodspelling": "Prima 70"},
+          {"goodspelling": "Prima 80"},
+          {"goodspelling": "Rover 50"},
+          {"goodspelling": "Rover 60"},
+          {"goodspelling": "Rover 70"},
+          {"goodspelling": "Rover 80"},
+          {"goodspelling": "Voyager S60"},
+          {"goodspelling": "Voyager C60"},
+          {"goodspelling": "Voyager S70"},
+          {"goodspelling": "Voyager C80"},
+          {"goodspelling": "Explor T70"},
+          {"goodspelling": "Explor T80"},
+          {"goodspelling": "Explor T90"},
+          {"goodspelling": "Discordon 60"},
+          {"goodspelling": "Discordon T70"},
+          {"goodspelling": "Discordon T80"},
+          {"goodspelling": "Cover V T50"},
+          {"goodspelling": "Cover V T60"},
+          {"goodspelling": "Cover V T70"},
+          {"goodspelling": "Cover X T50"},
+          {"goodspelling": "Cover X T60"},
+          {"goodspelling": "Cover X T70"},
+          {"goodspelling": "Cover X T80"},
+          {"goodspelling": "Cover XL T50"},
+          {"goodspelling": "Cover XL T60"},
+          {"goodspelling": "Cover XL T70"},
+          {"goodspelling": "Cover XL T80"},
+          {"goodspelling": "Cover XL T90"},
+          {"goodspelling": "Normandie 40"},
+          {"goodspelling": "Normandie 50"},
+          {"goodspelling": "Normandie 60"},
+          {"goodspelling": "Normandie 70"},
+          {"goodspelling": "Normandie T60"},
+          {"goodspelling": "Normandie T70"},
+          {"goodspelling": "Normandie T80"},
+          {"goodspelling": "Helios Mono 60"},
+          {"goodspelling": "Helios Mono 70"},
+          {"goodspelling": "Helios Duo 60"},
+          {"goodspelling": "Helios Duo 70"},
+          {"goodspelling": "Helios Duo 80"},
+          {"goodspelling": "Helios Duo T80"},
+          {"goodspelling": "Helios Duo T90"},
+          {"goodspelling": "Helios Cracker 60"},
+          {"goodspelling": "Helios Cracker 70"},
+          {"goodspelling": "Helios Cracker 80"},
+          {"goodspelling": "Crossland 50"},
+          {"goodspelling": "Crossland 60"},
+          {"goodspelling": "Crossland T60"},
+          {"goodspelling": "Crossland T70"},
+          {"goodspelling": "Crossland T80"},
+          {"goodspelling": "Tetra 50"},
+          {"goodspelling": "Tetra 60"},
+          {"goodspelling": "Tetra 70"},
+          {"goodspelling": "Tetra 80"}
+        ]
+      },
       introOutros: [
         {
           "title": "video_intro_title",

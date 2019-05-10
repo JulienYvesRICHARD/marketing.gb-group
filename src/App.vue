@@ -37,6 +37,7 @@
                       <div class="dropdown-menu dropdown-menu-right" aria-labelledby="gregoirebesson">
                           <a class="dropdown-item" href="/gregoire-besson#logo">Logos</a>
                           <a class="dropdown-item" href="/gregoire-besson#branding">Branding</a>
+                          <a class="dropdown-item" href="/gregoire-besson#range">Range</a>
                           <a class="dropdown-item" href="/gregoire-besson#introOutro">Video Intro/Outro</a>
                           <a class="dropdown-item" href="/gregoire-besson#link">Links</a>
                           <a class="dropdown-item" href="/gregoire-besson#photo">Photos</a>

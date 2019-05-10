@@ -36,6 +36,7 @@
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="gregoirebesson">
                 <a class="dropdown-item" href="#gregoirebessonLogos">Logos</a>
                 <a class="dropdown-item" href="#gregoirebessonBranding">Branding</a>
+                <a class="dropdown-item" href="#gregoirebessonRange">Range spelling</a>
                 <a class="dropdown-item" href="#gregoirebessonVideoInOut">Video Intro/Outro</a>
                 <a class="dropdown-item" href="#gregoirebessonLinks">Links</a>
                 <a class="dropdown-item" href="#gregoirebessonPhotos">Photos</a>

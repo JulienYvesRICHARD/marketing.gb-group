@@ -1,7 +1,7 @@
 /* eslint-disable */
 <template>
-  <div class="container" id="branding">
-    <a class="anchor" name="branding"></a>
+  <div class="container" id="range">
+    <a class="anchor" name="range"></a>
     <h3>Range Spelling</h3>
     <div class="row" >
         <div class="col-12 col-sm-6 col_md-6" v-for="item in range" :key="item">

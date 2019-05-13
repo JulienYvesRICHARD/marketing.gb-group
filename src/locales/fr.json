@@ -1,6 +1,6 @@
 {
   "main_title": "Outils marketing GB group",
-  "main_description": "Vous recherches nos logos? Couleurs? Police de caractère, photos? vidéo? Vous trouverez sur cette page tous les outils et éléments marketing du grope GB. Il vous manque quelque chose, envoyer nous un email à ",
+  "main_description": "Vous recherches nos logos? Couleurs? Police de caractère, photos? vidéo? Vous trouverez sur cette page tous les outils et éléments marketing du grope GB. Il vous manque quelque chose, envoyer nous un email à",
   "group-title": "GB Group",
   "logo_title": "Logos",
   "logo_gradient_description": "Dégradé sur couleur",
@@ -19,6 +19,10 @@
   "branding_font_title": "Police de caractère",
   "branding_font_text": "Texte",
   "branding_font_download": "Télécharger notre police de caractère",
+  "range_spelling_title": "Ecriture des machines",
+  "range_spelling_space": "Titre et espacement",
+  "range_spelling_sticker": "Stickers",
+  "range_spelling_text": "Corps de texte",
   "sound_title": "Son",
   "intro_outro_title": "Vidéo",
   "video_intro_title": "Intro vidéo",

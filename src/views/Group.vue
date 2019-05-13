@@ -324,6 +324,15 @@ export default {
       ],
       pressReleases: [
         {
+          "date": "13/05/2019",
+          "title": "Configurator App mobile",
+          "brand": "Gregoire Besson",
+          "langues": [
+            {"name": "press_release_french"}
+          ],
+          "href": "http://marketing.cellar.services.clever-cloud.com/press/1905_Application_mobile.pdf"
+        },
+        {
           "date": "05/04/2019",
           "title": "Serenity +",
           "brand": "Gregoire Besson",

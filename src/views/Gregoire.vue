@@ -469,7 +469,7 @@ export default {
               {"goodspelling": "CROSSLAND 60"},
               {"goodspelling": "CROSSLAND T60"},
               {"goodspelling": "CROSSLAND T70"},
-              {"goodspelling": "CROSSLANS T80"},
+              {"goodspelling": "CROSSLAND T80"},
               {"wrongspelling": "Crossland"},
               {"wrongspelling": "Crossland T70"},
               {"wrongspelling": "CROSSLANDT70"},

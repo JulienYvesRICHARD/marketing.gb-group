@@ -6,7 +6,7 @@
     <div class="row justify-content-center pricelists">
       <div class="col-6 col-md-2" v-for="price in prices" :key="price.title">
         <div class="card text-center">
-          <div class="card-body">
+          <div class="card-body" >
             <h6>{{ price.title }}</h6>
             <img class="img-fluid" :src="price.image.src" :atl="price.image.label">
             <p class="pricedl"><a :href="price.link"  target="_blank" download>{{ $t('pricelist_download') }}</a></p>

@@ -1067,8 +1067,8 @@ export default {
           "title": "Machines (FR)",
           "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr.pdf",
           "image": {
-            "src": "/static/img/pricelists/gb.jpg",
-            "label": "Liste de prix Gregoire Besson 2018 en euros, version française"
+            "src": "/static/img/pricelists/pricelist190_gregoire_besson.png",
+            "label": "Liste de prix Gregoire Besson 2019 en euros, version française"
           }
         },
         {

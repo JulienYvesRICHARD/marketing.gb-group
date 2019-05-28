@@ -5,11 +5,14 @@
     <h3>{{ $t(leaflets.title) }}</h3>
     <div class="row">
       <div class="col" v-for="leaflet in leaflets.item" :key="leaflet.key">
-        <h6 v-if="leaflet.subtitle != undefined">{{ $t(leaflet.subtitle)}}</h6>
+        <h6 v-if="leaflet.subtitle != undefined" class="text-center">{{ $t(leaflet.subtitle)}}</h6>
+        <div class="text-center m-1">
+          <img :src="leaflet.icon" v-if="leaflet.icon" style="height: 50px">
+        </div>
         <ul>
           <li v-for="block in leaflet.blocks" :key="block.name">
-            <a :href="block.link" download v-if="block.name != undefined">{{ block.name }}</a>
-            <a :href="block.link" download v-if="block.trad != undefined">{{ $t(block.trad) }}</a>
+            <a :href="block.link" download v-if="block.name != undefined" target="_blank">{{ block.name }}</a>
+            <a :href="block.link" download v-if="block.trad != undefined" target="_blank">{{ $t(block.trad) }}</a>
           </li>
         </ul>
       </div>

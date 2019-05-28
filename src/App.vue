@@ -111,7 +111,8 @@ export default {
         { language: 'de', title: 'DE' },
         { language: 'it', title: 'IT' },
         { language: 'pl', title: 'PL' },
-        { language: 'ru', title: 'RU' }
+        { language: 'ru', title: 'RU' },
+        { language: 'uk', title: 'UK' }
       ]
     };
   },

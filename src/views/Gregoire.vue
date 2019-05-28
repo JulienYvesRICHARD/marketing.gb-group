@@ -23,7 +23,8 @@
       <IntroOutroVue :introOutros="introOutros"></IntroOutroVue>
       <LinksVue :socials="socials"></LinksVue>
       <PhotoVue :photos="photos"></PhotoVue>
-      <LeafletsVue :leaflets="leaflets"></LeafletsVue>
+      <LeafletsVue :leaflets="leafletsNew"></LeafletsVue>
+      <LeafletsVue :leaflets="leafletsOld"></LeafletsVue>
       <VideosVue :videos="videos"></VideosVue>
       <PricesVue :prices="prices"></PricesVue>
       <PostersVue :posters="posters"></PostersVue>
@@ -611,8 +612,47 @@ export default {
           }
         ]
       },
-      leaflets: {
-        "title": "leaflets_title",
+      leafletsNew: {
+        "title": "leaflets_title_new",
+        "item":[
+          {
+            "key": "element1",
+            "subtitle": "ploughing_title",
+            "icon": "static/img/icons/plough_picto.png",
+            "blocks": [
+              {
+                "name": "Index 40 / 50 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_40_50_280519.pdf"
+              },
+              {
+                "name": "Index 60 / 70 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_60_70_280519.pdf"
+              },
+              {
+                "name": "Index 80 / 90 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_80_90_280519.pdf"
+              }
+            ],
+          },
+          {
+            "key": "element2"
+           //"subtitle": "restructuring_title",
+           //"icon": "static/img/icons/restructuration_picto.png"
+         },
+         {
+            "key": "element3"
+            //"subtitle": "stubble_cultivation_title",
+            //"icon": "static/img/icons/seed_bed_preparation_picto.png"
+          },
+          {
+           "key": "element4"
+           //subtitle": "soil_preparation_title",
+           //"icon": "static/img/icons/stubble_cultivation_picto.png"
+          }
+        ]
+      },
+      leafletsOld: {
+        "title": "leaflets_title_old",
         "item":[
           {
             "key": "element1",

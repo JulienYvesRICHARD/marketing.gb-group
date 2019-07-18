@@ -1146,6 +1146,14 @@ export default {
           }
         },
         {
+          "title": "русский",
+          "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-RU.pdf",
+          "image": {
+            "src": "/static/img/posters/gb.jpg",
+            "label": "Poster de la gamme Gregoire Besson русский"
+          }
+        },
+        {
           "title": "український",
           "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-UA.pdf",
           "image": {
@@ -1153,7 +1161,14 @@ export default {
             "label": "Poster de la gamme Gregoire Besson український"
           }
         },
-       
+        {
+          "title": "Deutsch",
+          "link": "https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-DE.pdf",
+          "image": {
+            "src": "/static/img/posters/gb.jpg",
+            "label": "Poster de la gamme Gregoire Besson Deutsch"
+          }
+        },
       ]
     };
   },

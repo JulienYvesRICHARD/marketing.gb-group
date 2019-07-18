@@ -44,7 +44,7 @@
                           <a class="dropdown-item" href="/gregoire-besson#leaflet">Leaflets</a>
                           <a class="dropdown-item" href="/gregoire-besson#video">Videos</a>
                           <a class="dropdown-item" href="/gregoire-besson#price">Pricelists</a>
-                          <a class="dropdown-item">Posters</a>
+                          <a class="dropdown-item" href="/gregoire-besson#poster">Posters</a>
                           <router-link to="/gregoire-besson"></router-link>
                       </div>
                   </li>

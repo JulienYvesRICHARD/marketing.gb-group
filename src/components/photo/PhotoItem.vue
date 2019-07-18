@@ -1,11 +1,11 @@
 <template>
     <div>
         <h5>{{ $t(title)}}</h5>
-        <p><a @click="showmodal()">{{ $t('photos_view_photos') }}</a></p>
+        <a @click="showmodal()"><p class="link">{{ $t('photos_view_photos') }}</p></a>
         <div class="modalPhoto" v-if="show === true">
             <div class="container" id="photoItem">
                 <h4 class="text-center" style="padding: 5%;">{{ $t(images.title) }}</h4>
-                <img src="/static/img/icons/icons8-cancel-48.png" @click="showmodal()" class="closingcross">
+                <a><img src="/static/img/icons/icons8-cancel-48.png" @click="showmodal()" class="closingcross"></a>
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-3 photos-card" v-for="image in images.item" :key="image.name">
                         <div class="ratio">
@@ -65,7 +65,18 @@ export default {
     .closingcross {
       position: fixed;
       right: 12%;
-      top: 7%;
+      top: 15%;
+    }
+
+    .closingcross:hover {
+      cursor: pointer;
+      border: 2px solid darkgray;
+      border-radius: 100%;
+    }
+
+    .link:hover {
+      text-decoration: underline;
+      cursor: pointer;
     }
 
     .ratio {

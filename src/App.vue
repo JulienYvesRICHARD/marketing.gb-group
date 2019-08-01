@@ -112,7 +112,7 @@ export default {
         { language: 'it', title: 'IT' },
         { language: 'pl', title: 'PL' },
         { language: 'ru', title: 'RU' },
-        { language: 'uk', title: 'UK' }
+        { language: 'ua', title: 'UA' }
       ]
     };
   },
@@ -128,7 +128,7 @@ export default {
       it: 'Italiano',
       pl: 'Polski',
       ru: 'Pусский',
-      uk: 'український',
+      ua: 'український',
       et: 'eesti keel',
     })[language];
     return lang;

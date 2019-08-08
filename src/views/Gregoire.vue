@@ -682,6 +682,10 @@ export default {
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/bigx-ru.pdf"
               },
               {
+                "name": "Class VR [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/classVR-fr.pdf"
+              },
+              {
                 "name": "Class V [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/classv-fr.pdf"
               },

@@ -939,11 +939,11 @@ export default {
               },
               {
                 "name": "SPF9 SPL9 [RU]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-ru.pdf"
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-ru.pdf"
               },
               {
                 "name": "SPMF SPML [RU]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spmf-spml-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spmf-spml-ru.pdf"
               },
               {
                 "name": "SXPro [FR]",

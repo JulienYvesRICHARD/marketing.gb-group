@@ -635,9 +635,23 @@ export default {
             ],
           },
           {
-            "key": "element2"
-           //"subtitle": "restructuring_title",
-           //"icon": "static/img/icons/restructuration_picto.png"
+            "key": "element2",
+            "subtitle": "stubble_cultivation_title",
+            "icon": "static/img/icons/stubble_cultivation_picto.png",
+            "blocks": [
+              {
+                "name": "Index 40 / 50 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40_50_190823.pdf"
+              },
+              {
+                "name": "Index 60 / 70 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60_70_190823.pdf"
+              },
+              {
+                "name": "Index 80 / 90 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80_90_190823.pdf"
+              }
+            ]
          },
          {
             "key": "element3"
@@ -1093,7 +1107,7 @@ export default {
       prices: [
         {
           "title": "Machines (EN) €",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en-190624.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en-190823.pdf",
           "image": {
             "src": "/static/img/pricelists/pricelist190_gregoire_besson.png",
             "label": "Price liste Gregoire Besson 2018 in euros, english version"
@@ -1109,7 +1123,7 @@ export default {
         },
         {
           "title": "Machines (FR)",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-190620.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-190823.pdf",
           "image": {
             "src": "/static/img/pricelists/pricelist190_gregoire_besson.png",
             "label": "Liste de prix Gregoire Besson 2019 en euros, version française"

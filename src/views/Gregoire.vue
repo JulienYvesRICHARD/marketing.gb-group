@@ -613,6 +613,7 @@ export default {
         ]
       },
       leafletsNew: {
+        "id": "newleaflet",
         "title": "leaflets_title_new",
         "item":[
           {
@@ -678,6 +679,7 @@ export default {
         ]
       },
       leafletsOld: {
+        "id": "oldleaflet",
         "title": "leaflets_title_old",
         "item":[
           {

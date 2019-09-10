@@ -1,7 +1,7 @@
 /* eslint-disable */
 <template>
-  <div class="container" id="leaflet">
-    <a class="anchor" name="leaflet"></a>
+  <div class="container" :id="leaflets.id">
+    <a class="anchor" :name="leaflets.id"></a>
     <h3>{{ $t(leaflets.title) }}</h3>
     <div class="row">
       <div class="col" v-for="leaflet in leaflets.item" :key="leaflet.key">

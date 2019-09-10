@@ -757,6 +757,7 @@ export default {
         ]
       },
       leaflets: {
+        "id": "leaflet",
         "title": "leaflets_title_old",
         "item":[
           {

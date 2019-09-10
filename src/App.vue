@@ -41,7 +41,8 @@
                           <a class="dropdown-item" href="/gregoire-besson#introOutro">Video Intro/Outro</a>
                           <a class="dropdown-item" href="/gregoire-besson#link">Links</a>
                           <a class="dropdown-item" href="/gregoire-besson#photo">Photos</a>
-                          <a class="dropdown-item" href="/gregoire-besson#leaflet">Leaflets</a>
+                          <a class="dropdown-item" href="/gregoire-besson#newleaflet">New Leaflets</a>
+                          <a class="dropdown-item" href="/gregoire-besson#oldleaflet">Old Leaflets</a>
                           <a class="dropdown-item" href="/gregoire-besson#video">Videos</a>
                           <a class="dropdown-item" href="/gregoire-besson#price">Pricelists</a>
                           <a class="dropdown-item" href="/gregoire-besson#poster">Posters</a>

@@ -897,6 +897,10 @@ export default {
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-ru.pdf"
               },
               {
+                "name": "Rover 40/60/70 [RU]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/Rover-40-60-70-RU-190918.pdf"
+              },
+              {
                 "name": "RW6 RW8 RW9 [EN]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-en.pdf"
               },

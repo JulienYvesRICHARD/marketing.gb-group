@@ -795,6 +795,26 @@ export default {
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/dxrv-ru.pdf"
               },
               {
+                "name": "SXPRO [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sxpro-fr.pdf"
+              },
+              {
+                "name": "SXPRO [RU]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sxpro-ru.pdf"
+              },
+              {
+                "name": "VPRC [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/vprc-fr-en.pdf"
+              },
+              {
+                "name": "VSL [FR -EN ]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/vsl-fr-en.pdf"
+              },
+              {
+                "name": "VSL [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/vsl-fr.pdf"
+              },
+              {
                 "name": "Extreme Conditions [EN-FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/extremeconditions-fr-en.pdf"
               },
@@ -844,6 +864,14 @@ export default {
           {
             "key": "element3",
             "blocks": [
+              {
+                "name": "PRIMA [EN]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-en.pdf"
+              },
+              {
+                "name": "PR7 [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/pr7-fr.pdf"
+              },
               {
                 "name": "R4 [DE]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r4-de.pdf"
@@ -942,11 +970,11 @@ export default {
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sp8-fr.pdf"
               },
               {
-                "name": "Sper81 [EN]",
+                "name": "Sper 81 [EN]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sper8-EN.pdf"
               },
               {
-                "name": "Sper81 [FR]",
+                "name": "Sper 81 [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sper8-FR.pdf"
               },
               {
@@ -988,6 +1016,10 @@ export default {
               {
                 "name": "Tetra [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-fr.pdf"
+              },
+              {
+                "name": "Tetra [EN]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-en.pdf"
               },
               {
                 "name": "XL XXL XXLWide [DE]",

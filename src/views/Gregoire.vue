@@ -675,9 +675,19 @@ export default {
             ]
          },
          {
-            "key": "element3"
-            //"subtitle": "stubble_cultivation_title",
-            //"icon": "static/img/icons/seed_bed_preparation_picto.png"
+            "key": "element3",
+            "subtitle": "restructuring_title",
+            "icon": "static/img/icons/restructuration_picto.png",
+            "blocks": [
+              {
+                "name": "Index 60 / 70 [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_60_70_FR_191016.pdf"
+              },
+              {
+                "name": "Index 80 / 90 [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80_90_FR_191016.pdf"
+              }
+            ]
           },
           {
            "key": "element4"
@@ -756,6 +766,22 @@ export default {
               {
                 "name": "Crossland [RU]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-ru.pdf"
+              },
+              {
+                "name": "Plani-serie [FR]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_fr.pdf"
+              },
+              {
+                "name": "Plani-serie [EN]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_en.pdf"
+              },
+              {
+                "name": "Plani-serie [DE]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_de.pdf"
+              },
+              {
+                "name": "Plani-serie [ES]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_es.pdf"
               }
             ],
           },

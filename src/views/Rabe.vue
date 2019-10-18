@@ -644,14 +644,14 @@ export default {
         {
           "title": "video_intro_title",
           "link_youtube": "https://www.youtube.com/embed/OHJ4RfjAdoQ?rel=0&amp;showinfo=0",
-          "link_mp4": "https://marketing.gb-group.co/videos/rabe-intro.mp4",
-          "link_mov": "https://marketing.gb-group.co/videos/rabe-intro.mov"
+          "link_mp4": "https://marketing.gb-group.co/static/videos/rabe-intro.mp4",
+          "link_mov": "https://marketing.gb-group.co/static/videos/rabe-intro.mov"
         },
         {
           "title": "video_outro_title",
           "link_youtube": "https://www.youtube.com/embed/eOCvgr0chKI?rel=0&amp;showinfo=0",
-          "link_mp4": "https://marketing.gb-group.co/videos/rabe-outro.mp4",
-          "link_mov": "https://marketing.gb-group.co/videos/rabe-outro.mov"
+          "link_mp4": "https://marketing.gb-group.co/static/videos/rabe-outro.mp4",
+          "link_mov": "https://marketing.gb-group.co/static/videos/rabe-outro.mov"
         }
       ],
       socials: [
@@ -675,7 +675,7 @@ export default {
         },
         {
           "title": "links_rabe_youtube_title",
-          "link": "https://www.youtube.com/user/RabeVideos/",
+          "link": "https://www.youtube.com/user/Rabestatic/videos/",
           "image": {
             "src": "/static/img/screen-captures/youtube-rabe.png",
             "label": "You Tube Chanel Rabe"
@@ -848,23 +848,23 @@ export default {
              
               {
                 "name": "Albatros",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/albatros.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/albatros.mp4"
               },
               {
                 "name": "Condor",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/condor.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/condor.mp4"
               },
               {
                 "name": "Marabu",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/marabu.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/marabu.mp4"
               },
               {
                 "name": "Kormoran",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/kormoran.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/kormoran.mp4"
               },
               {
                 "name": "Kormoran 2",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/kormoran-2.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/kormoran-2.mp4"
               }
             ]
           },
@@ -874,35 +874,35 @@ export default {
             "blocks": [
               {
                 "name": "Adler",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/adler.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/adler.mp4"
               },
               {
                 "name": "Corvus PKE + Turboseed",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/combi-digger-corvus-vke-turboseed.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/combi-digger-corvus-vke-turboseed.mp4"
               },
               {
                 "name": "Corvus PKE + Planipack",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/corvus-pke-planipack.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/corvus-pke-planipack.mp4"
               },
               {
                 "name": "Bluebird",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/bluebird.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/bluebird.mp4"
               },
               {
                 "name": "Sturmvogel",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/sturmvogel.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/sturmvogel.mp4"
               },
               {
                 "name": "Sunbird",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/sunbird.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/sunbird.mp4"
               },
               {
                 "name": "Tigris",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/tigris.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/tigris.mp4"
               },
               {
                 "name": "Turboseed",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/turboseed.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/turboseed.mp4"
               }
             ]
           },
@@ -912,23 +912,23 @@ export default {
             "blocks": [
               {
                 "name": "Fieldbird F",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/fieldbird-f.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-f.mp4"
               },
               {
                 "name": "Fieldbird R",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/fieldbird-r.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-r.mp4"
               },
               {
                 "name": "Fieldbird SP2",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/fieldbird-sp2.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-sp2.mp4"
               },
               {
                 "name": "Fieldbird SP3",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/fieldbird-sp3.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-sp3.mp4"
               },
               {
                 "name": "Fieldbird SP4",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/fieldbird-sp4.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-sp4.mp4"
               }
             ]
           },
@@ -938,7 +938,7 @@ export default {
             "blocks": [
               {
                 "name": "Corporate",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/rabe/corporate.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/corporate.mp4"
               }
             ]
           }

@@ -145,14 +145,14 @@ export default {
         {
           "title": "video_intro_title",
           "link_youtube": "https://www.youtube.com/embed/x4LoyFZWMZU?rel=0&amp;showinfo=0",
-          "link_mp4": "https://marketing.gb-group.co/videos/gb-group-intro.mp4",
-          "link_mov": "https://marketing.gb-group.co/videos/gb-group-intro.mov"
+          "link_mp4": "https://marketing.gb-group.co/static/videos/gb-group-intro.mp4",
+          "link_mov": "https://marketing.gb-group.co/static/videos/gb-group-intro.mov"
         },
         {
           "title": "video_outro_title",
           "link_youtube": "https://www.youtube.com/embed/7Ot2YHjemUA?rel=0&amp;showinfo=0",
           "link_mp4": "https://marketing.gb-group.co/videoss/gb-group-outro.mp4",
-          "link_mov": "https://marketing.gb-group.co/videos/gb-group-outro.mov"
+          "link_mov": "https://marketing.gb-group.co/static/videos/gb-group-outro.mov"
         }
       ],
       socials: [

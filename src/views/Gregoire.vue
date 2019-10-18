@@ -1187,7 +1187,7 @@ export default {
       prices: [
         {
           "title": "Machines (EN) €",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en-190920.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en-191017.pdf",
           "image": {
             "src": "/static/img/pricelists/pricelist190_gregoire_besson.png",
             "label": "Price liste Gregoire Besson 2018 in euros, english version"

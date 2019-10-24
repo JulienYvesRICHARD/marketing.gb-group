@@ -635,11 +635,11 @@ export default {
               },
               {
                 "name": "Index 40 / 50 [EN]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_40_50_EN_191024.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_40_50_EN_090919.pdf"
               },
               {
                 "name": "Index 60 / 70 [EN]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_60_70_EN_090919.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_60_70_EN_191024.pdf"
               },
               {
                 "name": "Index 80 / 90 [EN]",

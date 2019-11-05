@@ -765,23 +765,23 @@ export default {
             "blocks": [
               {
                 "trad": "leaflets_rabe_title1",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/bestsellers-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/bestsellers-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title2",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/parts-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/parts-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title3",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/genuineparts-flyer-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/genuineparts-flyer-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title4",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/spreader-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/spreader-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title5",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/striptill-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/striptill-de.pdf"
               }
             ],
           },
@@ -790,15 +790,15 @@ export default {
             "blocks": [
               {
                 "trad": "leaflets_rabe_title6",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/ploughs-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/ploughs-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title7",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/ploughs-en.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/ploughs-en.pdf"
               },
               {
                 "trad": "leaflets_rabe_title8",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/ploughs-fr.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/ploughs-fr.pdf"
               },
             ],
           },
@@ -807,15 +807,15 @@ export default {
             "blocks": [
               {
                 "trad": "leaflets_rabe_title9",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/seeding-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/seeding-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title10",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/seeding-en.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/seeding-en.pdf"
               },
               {
                 "trad": "leaflets_rabe_title11",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/seeding-fr.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/seeding-fr.pdf"
               }
             ],
           },
@@ -824,15 +824,15 @@ export default {
             "blocks": [
               {
                 "trad": "leaflets_rabe_title12",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-de.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/stubble-cultivation-de.pdf"
               },
               {
                 "trad": "leaflets_rabe_title13",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-en.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/stubble-cultivation-en.pdf"
               },
               {
                 "trad": "leaflets_rabe_title14",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/rabe/stubble-cultivation-fr.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/leaflets/stubble-cultivation-fr.pdf"
               }
             ],
           }

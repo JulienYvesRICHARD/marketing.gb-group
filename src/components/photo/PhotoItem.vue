@@ -8,10 +8,15 @@
                 <a><img src="/static/img/icons/icons8-cancel-48.png" @click="showmodal()" class="closingcross"></a>
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-3 photos-card" v-for="image in images.item" :key="image.name">
-                        <div class="ratio">
+                        <div class="ratio" v-if="brand !== 'rabe'">
                             <img :src="'https://marketing.cellar.services.clever-cloud.com/photos/' + brand + '/small/' + image.name" alt="images.subtitle" class="thumbnail">
                             <p class='text-center' style='margin: 0; padding: 0.5rem; font-size:0.7rem;\'><small>{{ image.name }}</small></p>
                             <a class='text-center' :href="'https://marketing.cellar.services.clever-cloud.com/photos/' + brand + '/original/' + image.name" download target='_blank'><small style='font-weight: bold; padding-bottom: 0.5rem; display: block;'>Download &darr;</small></a>
+                        </div>
+                        <div class="ratio" v-if="brand === 'rabe'">
+                            <img :src="'https://marketing.cellar.services.clever-cloud.com/RABE/photos/small/' + image.name" alt="images.subtitle" class="thumbnail">
+                            <p class='text-center' style='margin: 0; padding: 0.5rem; font-size:0.7rem;\'><small>{{ image.name }}</small></p>
+                            <a class='text-center' :href="'https://marketing.cellar.services.clever-cloud.com/RABE/photos/original/' + image.name" download target='_blank'><small style='font-weight: bold; padding-bottom: 0.5rem; display: block;'>Download &darr;</small></a>
                         </div>
                     </div>
                 </div>

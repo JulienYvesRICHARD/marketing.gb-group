@@ -648,8 +648,8 @@ export default {
               {
                 "name": "Rover 40/60/70 [RU]",
                 "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/Rover-40-60-70-RU-190918.pdf"
-              },
-            ],
+              }
+            ]
           },
           {
             "key": "element2",
@@ -671,6 +671,18 @@ export default {
               {
                 "name": "DDIHC [FR]",
                 "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_DDIHC_FR_190918.pdf"
+              },
+               {
+                "name": "Index 40 / 50 [EN]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_EN_191106.pdf"
+              },
+              {
+                "name": "Index 60 / 70 [EN]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_EN_191106.pdf"
+              },
+              {
+                "name": "Index 80 / 90 [EN]",
+                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_EN_191106.pdf"
               }
             ]
          },

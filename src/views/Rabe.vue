@@ -848,23 +848,23 @@ export default {
              
               {
                 "name": "Albatros",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/albatros.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/albatros.mp4"
               },
               {
                 "name": "Condor",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/condor.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/condor.mp4"
               },
               {
                 "name": "Marabu",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/marabu.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/marabu.mp4"
               },
               {
                 "name": "Kormoran",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/kormoran.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/kormoran.mp4"
               },
               {
                 "name": "Kormoran 2",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/kormoran-2.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/kormoran-2.mp4"
               }
             ]
           },
@@ -874,35 +874,35 @@ export default {
             "blocks": [
               {
                 "name": "Adler",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/adler.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/adler.mp4"
               },
               {
                 "name": "Corvus PKE + Turboseed",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/combi-digger-corvus-vke-turboseed.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/combi-digger-corvus-vke-turboseed.mp4"
               },
               {
                 "name": "Corvus PKE + Planipack",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/corvus-pke-planipack.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/corvus-pke-planipack.mp4"
               },
               {
                 "name": "Bluebird",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/bluebird.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/bluebird.mp4"
               },
               {
                 "name": "Sturmvogel",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/sturmvogel.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/sturmvogel.mp4"
               },
               {
                 "name": "Sunbird",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/sunbird.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/sunbird.mp4"
               },
               {
                 "name": "Tigris",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/tigris.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/tigris.mp4"
               },
               {
                 "name": "Turboseed",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/turboseed.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/turboseed.mp4"
               }
             ]
           },
@@ -912,23 +912,23 @@ export default {
             "blocks": [
               {
                 "name": "Fieldbird F",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-f.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/fieldbird-f.mp4"
               },
               {
                 "name": "Fieldbird R",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-r.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/fieldbird-r.mp4"
               },
               {
                 "name": "Fieldbird SP2",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-sp2.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/fieldbird-sp2.mp4"
               },
               {
                 "name": "Fieldbird SP3",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-sp3.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/fieldbird-sp3.mp4"
               },
               {
                 "name": "Fieldbird SP4",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/fieldbird-sp4.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/fieldbird-sp4.mp4"
               }
             ]
           },
@@ -938,7 +938,7 @@ export default {
             "blocks": [
               {
                 "name": "Corporate",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/rabe/corporate.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/RABE/videos/corporate.mp4"
               }
             ]
           }
@@ -947,7 +947,7 @@ export default {
       prices: [
         {
           "title": "Machines (EN) €",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-en-eur.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/RABE/pricelists/pricelist-rabe-en-eur.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe.jpg",
             "label": "Price list Rabe 2019 in euros, english version"
@@ -955,7 +955,7 @@ export default {
         },
         {
           "title": "Machines (FR) €",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-fr.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/RABE/pricelists/pricelist-rabe-fr.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe.jpg",
             "label": "Liste de prix Rabe 2019 en euros, version française"
@@ -963,7 +963,7 @@ export default {
         },
         {
           "title": "Machines (DE) €",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/rabe/pricelist-rabe-de.pdf",
+          "link": "http://marketing.cellar.services.clever-cloud.com/RABE/pricelists/pricelist-rabe-de.pdf",
           "image": {
             "src": "/static/img/pricelists/rabe.jpg",
             "label": "PreisListe Rabe 2019 in euros auf Deutsch"

@@ -693,11 +693,11 @@ export default {
             "blocks": [
               {
                 "name": "Index 60 / 70 [FR]",
-                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_60_70_FR_191016.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_60_70_191115_FR.pdf"
               },
               {
                 "name": "Index 80 / 90 [FR]",
-                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80_90_FR_191016.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80_90_191115_FR.pdf"
               }
             ]
           },

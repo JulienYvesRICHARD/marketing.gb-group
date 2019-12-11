@@ -1206,14 +1206,6 @@ export default {
           }
         },
         {
-          "title": "Machines (EN) £",
-          "link": "http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-en-pounds.pdf",
-          "image": {
-            "src": "/static/img/pricelists/gb.jpg",
-            "label": "Price liste Gregoire Besson 2018 in pounds, english version"
-          }
-        },
-        {
           "title": "Machines (FR)",
           "link": "https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-191119.pdf",
           "image": {

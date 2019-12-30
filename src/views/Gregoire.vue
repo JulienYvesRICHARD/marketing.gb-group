@@ -658,15 +658,15 @@ export default {
             "blocks": [
               {
                 "name": "Index 40 / 50 [FR]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40_50_190909.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_FR_191230.pdf"
               },
               {
                 "name": "Index 60 / 70 [FR]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60_70_190823.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_FR_191230.pdf"
               },
               {
                 "name": "Index 80 / 90 [FR]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80_90_190823.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_FR_191230.pdf"
               },
               {
                 "name": "DDIHC [FR]",
@@ -674,15 +674,15 @@ export default {
               },
                {
                 "name": "Index 40 / 50 [EN]",
-                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_EN_191106.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_EN_191230.pdf"
               },
               {
                 "name": "Index 60 / 70 [EN]",
-                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_EN_191106.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_FR_191230.pdf"
               },
               {
                 "name": "Index 80 / 90 [EN]",
-                "link": "http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_EN_191106.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_EN_191230.pdf"
               }
             ]
          },

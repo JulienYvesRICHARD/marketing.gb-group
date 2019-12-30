@@ -678,7 +678,7 @@ export default {
               },
               {
                 "name": "Index 60 / 70 [EN]",
-                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_FR_191230.pdf"
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_EN_191230.pdf"
               },
               {
                 "name": "Index 80 / 90 [EN]",

@@ -1126,43 +1126,43 @@ export default {
             "blocks": [
               {
                 "name": "Prima",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-prima.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-prima.mp4"
               },
               {
                 "name": "Rover",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-rover.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-rover.mp4"
               },
               {
                 "name": "Voyager",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-voyager.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-voyager.mp4"
               },
               {
                 "name": "Explor",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-explor.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-explor.mp4"
               },
               {
                 "name": "Discordon",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-discordon.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-discordon.mp4"
               },
               {
                 "name": "Cover",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-cover.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-cover.mp4"
               },
               {
                 "name": "Normandie",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/product-normandie.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-normandie.mp4"
               },
               {
                 "name": "Helios",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-WalkAround/product-helios.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/product-helios.mp4"
               },
               {
                 "name": "Crossland",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-WalkAround/product-crossland.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/product-crossland.mp4"
               },
               {
                 "name": "Tetra",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-WalkAround/product-tetra.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/product-tetra.mp4"
               }
             ]
           },
@@ -1172,15 +1172,15 @@ export default {
             "blocks": [
               {
                 "name": "Prima",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-CustomerTestimonials/prima-thierry-gaec-la-vache-landaise.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/prima-thierry-gaec-la-vache-landaise.mp4"
               },
               {
                 "name": "Cover",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-CustomerTestimonials/cover-fabrice-gaec-roches-blanches.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/cover-fabrice-gaec-roches-blanches.mp4"
               },
               {
                 "name": "Crossland",
-                "link": "https://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-CustomerTestimonials/crossland-cedric-cuma-isseenne.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/crossland-cedric-cuma-isseenne.mp4"
               }
             ]
           },
@@ -1190,7 +1190,7 @@ export default {
             "blocks": [
               {
                 "trad": "videos_techno_1_name",
-                "link": "http://marketing.cellar.services.clever-cloud.com/static/videos/gregoire-besson/Videos-Product/crank-leg-tendille-deportee.mp4"
+                "link": "http://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/crank-leg-tendille-deportee.mp4"
               }
             ]
           }

@@ -1146,7 +1146,7 @@ export default {
               },
               {
                 "name": "Cover",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-cover.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-cover.m4v"
               },
               {
                 "name": "Normandie",
@@ -1154,15 +1154,15 @@ export default {
               },
               {
                 "name": "Helios",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/product-helios.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-helios.mp4"
               },
               {
                 "name": "Crossland",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/product-crossland.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-crossland.mp4"
               },
               {
                 "name": "Tetra",
-                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/product-tetra.mp4"
+                "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-tetra.mp4"
               }
             ]
           },

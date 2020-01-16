@@ -698,6 +698,14 @@ export default {
               {
                 "name": "Index 80 / 90 [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80-90_FR_191230.pdf"
+              },
+              {
+                "name": "Index 60 / 70 [EN]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_60-70_EN_200116.pdf"
+              },
+              {
+                "name": "Index 80 / 90 [FR]",
+                "link": "https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80-90_EN_200116.pdf"
               }
             ]
           },

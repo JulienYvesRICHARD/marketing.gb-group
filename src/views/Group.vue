@@ -190,19 +190,6 @@ export default {
           "googlemaps": "rue+Victor+Gregoire,49230+Montigne+Montfaucon,France"
         },
         {
-          "name": "GB Group United Kingdom",
-          "street": "Spalding Road",
-          "city": "Bourne - Lincs PE10 0AU",
-          "country": "United Kingdom",
-          "phone": "+44 1778 230020",
-          "gpscoordinate": "52.771750, -0.334348",
-          "image": {
-            "src": "/static/img/teams/gb-group-united-kingdom-600.jpg",
-            "label": "Soil preparation Salesman Team in U.K",
-          },
-          "googlemaps": "Spalding+Rd,Bourne+PE10+0AU,United+Kingdom"
-        },
-        {
           "name": "GB Group Germany",
           "street": "Am Rabewerk 1",
           "city": "49152 Bad Essen",

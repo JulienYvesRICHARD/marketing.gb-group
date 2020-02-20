@@ -597,10 +597,6 @@ export default {
           {
             "title": "photo_3d_details",
             "range": "3d"
-          },
-          {
-            "title": "photo_michelin_title",
-            "range": "michelin"
           }
         ]
       },

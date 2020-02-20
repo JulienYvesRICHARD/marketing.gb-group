@@ -54,7 +54,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style>
     .modalPhoto {
-        background-color: lightgray;
+        background-color: #f1f1f1;
         opacity: 0.95;
         position: fixed;
         top: 5%;

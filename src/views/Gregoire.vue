@@ -17,17 +17,17 @@
         </div>
       </div>
       <br>
+      <PhotoVue :photos="photos"></PhotoVue>
+      <VideosVue :videos="videos"></VideosVue>
+      <LinksVue :socials="socials"></LinksVue>
+      <LeafletsVue :leaflets="leafletsNew"></LeafletsVue>
+      <LeafletsVue :leaflets="leafletsOld"></LeafletsVue>
+      <PricesVue :prices="prices"></PricesVue>
+      <PostersVue :posters="posters"></PostersVue>
       <LogoVue :logos="logos"></LogoVue>
       <BrandingVue :brandings="brandings"></BrandingVue>
       <RangeNameVue :range="brandings_range"></RangeNameVue>
       <IntroOutroVue :introOutros="introOutros"></IntroOutroVue>
-      <LinksVue :socials="socials"></LinksVue>
-      <PhotoVue :photos="photos"></PhotoVue>
-      <LeafletsVue :leaflets="leafletsNew"></LeafletsVue>
-      <LeafletsVue :leaflets="leafletsOld"></LeafletsVue>
-      <VideosVue :videos="videos"></VideosVue>
-      <PricesVue :prices="prices"></PricesVue>
-      <PostersVue :posters="posters"></PostersVue>
     </div>
     <FooterVue></FooterVue>
   </div>
@@ -36,16 +36,16 @@
 <script>
 // @ is an alias to /src
 /* eslint-disable */
+import PhotoVue from '@/components/Layout/Photo.vue'
+import VideosVue from '@/components/Layout/Videos.vue'
+import LinksVue from '@/components/Layout/Links.vue'
+import LeafletsVue from '@/components/Layout/Leaflets.vue'
+import PricesVue from '@/components/Layout/Price.vue'
+import PostersVue from '@/components/Layout/Poster.vue'
 import LogoVue from '@/components/Layout/Logos.vue'
 import BrandingVue from '@/components/Layout/Branding.vue'
 import RangeNameVue from '@/components/Layout/Range_name.vue'
 import IntroOutroVue from '@/components/Layout/Intro-Outro.vue'
-import LinksVue from '@/components/Layout/Links.vue'
-import PhotoVue from '@/components/Layout/Photo.vue'
-import LeafletsVue from '@/components/Layout/Leaflets.vue'
-import VideosVue from '@/components/Layout/Videos.vue'
-import PricesVue from '@/components/Layout/Price.vue'
-import PostersVue from '@/components/Layout/Poster.vue'
 import FooterVue from '@/components/Footer.vue'
 
 export default {

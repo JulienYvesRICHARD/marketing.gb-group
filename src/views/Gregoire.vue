@@ -4,19 +4,11 @@
       <div class="row">
         <div class="col">
           <a class="anchor" name="logo"></a>
-          <h1>{{ $t('main_title') }}</h1>
+          <h2>{{ $t('main_title') }}</h2>
           <p class="lead">{{ $t('main_description') }}<a href="mailto:webmaster@.co">webmaster@.co</a>.</p>
         </div>
       </div>
-      <br>
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-              <h2>Grégoire Besson</h2>
-          </div>
-        </div>
       </div>
-      <br>
       <PhotoVue :photos="photos"></PhotoVue>
       <VideosVue :videos="videos"></VideosVue>
       <LinksVue :socials="socials"></LinksVue>

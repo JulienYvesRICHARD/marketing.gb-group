@@ -35,17 +35,17 @@
                           <img src="" width="25"> Grégoire Besson
                       </a>
                       <div class="dropdown-menu dropdown-menu-right" aria-labelledby="gregoirebesson">
+                          <a class="dropdown-item" href="/gregoire-besson#photo">{{ $t('menu_photos') }}</a>
+                          <a class="dropdown-item" href="/gregoire-besson#video">{{ $t('menu_videos') }}</a>
+                          <a class="dropdown-item" href="/gregoire-besson#link">{{ $t('menu_links') }}</a>
+                          <a class="dropdown-item" href="/gregoire-besson#newleaflet">{{ $t('menu_new_leaflets') }}</a>
+                          <a class="dropdown-item" href="/gregoire-besson#oldleaflet">{{ $t('menu_old_leaflets') }}</a>
+                          <a class="dropdown-item" href="/gregoire-besson#price">{{ $t('menu_pricelist') }}</a>
+                          <a class="dropdown-item" href="/gregoire-besson#poster">{{ $t('menu_posters') }}</a>
                           <a class="dropdown-item" href="/gregoire-besson#logo">{{ $t('menu_logos') }}</a>
                           <a class="dropdown-item" href="/gregoire-besson#branding">{{ $t('menu_branding') }}</a>
                           <a class="dropdown-item" href="/gregoire-besson#range">{{ $t('menu_range') }}</a>
                           <a class="dropdown-item" href="/gregoire-besson#introOutro">{{ $t('menu_video_intro') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#link">{{ $t('menu_links') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#photo">{{ $t('menu_photos') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#newleaflet">{{ $t('menu_new_leaflets') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#oldleaflet">{{ $t('menu_old_leaflets') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#video">{{ $t('menu_videos') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#price">{{ $t('menu_pricelist') }}</a>
-                          <a class="dropdown-item" href="/gregoire-besson#poster">{{ $t('menu_posters') }}</a>
                           <router-link to="/gregoire-besson"></router-link>
                       </div>
                   </li>

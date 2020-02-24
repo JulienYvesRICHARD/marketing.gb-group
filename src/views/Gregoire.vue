@@ -1083,36 +1083,60 @@ export default {
             "subtitle": "videos_walkaround_title",
             "blocks": [
               {
-                "name": "Prima",
+                "name": "Prima [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-prima.mp4"
               },
               {
-                "name": "Rover",
+                "name": "Rover [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-rover.mp4"
               },
               {
-                "name": "Voyager",
+                "name": "Rover [RU]",
+                "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-rover-60.mp4"
+              },
+              {
+                "name": "Voyager [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-voyager.mp4"
               },
               {
-                "name": "Explor",
+                "name": "Voyager [RU]",
+                "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-voyager-s70.mp4"
+              },
+              {
+                "name": "Explor [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-explor.mp4"
               },
               {
-                "name": "Discordon",
+                "name": "Discordon [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-discordon.mp4"
               },
               {
-                "name": "Normandie",
+                "name": "Discordon [RU]",
+                "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-discordon-t70.mp4"
+              },
+              {
+                "name": "Normandie [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-normandie.mp4"
               },
               {
-                "name": "Helios",
+                "name": "Normandie [RU]",
+                "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-normandie-60.mp4"
+              },
+              {
+                "name": "Helios [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-helios.mp4"
               },
               {
-                "name": "Crossland",
+                "name": "Helios [RU]",
+                "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-helios-cracker-70.mp4"
+              },
+              {
+                "name": "Crossland [FR]",
                 "link": "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-crossland.mp4"
+              },
+              {
+                "name": "Cover [RU]",
+                "https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-cover-x-t70.mp4"
               }
             ]
           },

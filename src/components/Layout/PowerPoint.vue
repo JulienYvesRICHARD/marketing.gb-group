@@ -4,8 +4,8 @@
     <h3>{{ $t("powerpoint_title") }}</h3>
     <div
       class="row graphichcarter"
-      v-for="powerPointTemplate in powerPointTemplates"
-      :key="powerPointTemplate"
+      v-for="(powerPointTemplate, index) in powerPointTemplates"
+      :key="index"
     >
       <div class="col-6">
         <img :src="powerPointTemplate.image.src" :alt="powerPointTemplate.image.label" />

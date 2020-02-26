@@ -14,7 +14,7 @@
             </tr>
           </thead>
           <tbody>
-            <tr scope="row" v-for="pressRelease in pressReleases" :key="pressRelease.date">
+            <tr scope="row" v-for="(pressRelease, index) in pressReleases" :key="index">
               <td>{{ pressRelease.date }}</td>
               <td>
                 <a :href="pressRelease.href" style="text-decoration: underline;" download>{{
@@ -23,7 +23,7 @@
               </td>
               <td>{{ pressRelease.brand }}</td>
               <td>
-                <span v-for="langue in pressRelease.langues" :key="langue"
+                <span v-for="(langue, index) in pressRelease.langues" :key="index"
                   >{{ $t(langue.name) }},
                 </span>
               </td>

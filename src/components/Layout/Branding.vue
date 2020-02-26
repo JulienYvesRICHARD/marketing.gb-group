@@ -31,7 +31,7 @@
               {{ brandings.brandname }}
             </h5>
             <p>
-              <span v-for="item in brandings.item" :key="item">
+              <span v-for="(item, index) in brandings.item" :key="index">
                 <img src="/static/img/wrong.png" /><span class="wrong"> {{ item.name }}</span
                 >,<br />
               </span>

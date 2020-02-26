@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="branding">
-    <a class="anchor" name="branding"></a>
+  <div class="container">
+    <a class="anchor" name="branding" id="branding"></a>
     <h3>{{ $t("branding_title") }}</h3>
     <div class="row branding">
       <div class="col-12 col-sm-6 col-md-4">

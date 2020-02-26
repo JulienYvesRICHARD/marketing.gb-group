@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="link">
-    <a class="anchor" name="link"></a>
+  <div class="container">
+    <a class="anchor" name="link" id="link"></a>
     <h3>{{ $t("links_title") }}</h3>
     <div class="row links">
       <div class="col-12 col-sm-6 col-md-3" v-for="social in socials" :key="social.title">

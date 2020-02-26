@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="range">
-    <a class="anchor" name="range"></a>
+  <div class="container">
+    <a class="anchor" name="range" id="range"></a>
     <h3>{{ $t("range_spelling_title") }}</h3>
     <div class="row">
       <div class="col-12 col-sm-6 col_md-6" v-for="item in range" :key="item">

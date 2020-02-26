@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="press">
-    <a class="anchor" name="press"></a>
+  <div class="container">
+    <a class="anchor" name="press" id="press"></a>
     <h3>{{ $t("press_release_title") }}</h3>
     <div class="row pressreleases">
       <div class="col-12">

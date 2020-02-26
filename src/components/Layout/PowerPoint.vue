@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="powerpoint">
-    <a class="anchor" name="powerpoint"></a>
+  <div class="container">
+    <a class="anchor" name="powerpoint" id="powerpoint"></a>
     <h3>{{ $t("powerpoint_title") }}</h3>
     <div
       class="row graphichcarter"

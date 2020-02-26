@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="introOutro">
-    <a class="anchor" name="introOutro"></a>
+  <div class="container">
+    <a class="anchor" name="introOutro" id="introOutro"></a>
     <h3>{{ $t("intro_outro_title") }}</h3>
     <div class="row links">
       <div

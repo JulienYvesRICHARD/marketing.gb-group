@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="sound">
-    <a class="anchor" name="sound"></a>
+  <div class="container">
+    <a class="anchor" name="sound" id="sound"></a>
     <h3>{{ $t("sound_title") }}</h3>
     <div class="row links">
       <div class="col-12 col-sm-6 col-md-4">

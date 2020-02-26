@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="print">
-    <a class="anchor" name="print"></a>
+  <div class="container">
+    <a class="anchor" name="print" id="print"></a>
     <h3>{{ $t("print_charter_title") }}</h3>
     <div class="row graphichcarter" v-for="printCharter in printCharters" :key="printCharter.href">
       <div class="col-6">

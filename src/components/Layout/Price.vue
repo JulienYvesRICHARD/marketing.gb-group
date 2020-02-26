@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="price">
-    <a class="anchor" name="price"></a>
+  <div class="container">
+    <a class="anchor" name="price" id="price"></a>
     <h3>{{ $t("pricelist_title") }}</h3>
     <div class="row justify-content-center pricelists">
       <div class="col-6 col-md-2" v-for="price in prices" :key="price.title">

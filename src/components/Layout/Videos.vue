@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="video">
-    <a class="anchor" name="video"></a>
+  <div class="container">
+    <a class="anchor" name="video" id="video"></a>
     <h3>{{ $t(videos.title) }}</h3>
     <div class="row">
       <div class="col" v-for="video in videos.item" :key="video.key">

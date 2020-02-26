@@ -1,5 +1,6 @@
 <template>
-  <div class="container" id="logo">
+  <div class="container">
+    <a class="anchor" name="logo" id="logo"></a>
     <h3>{{ $t("logo_title") }}</h3>
     <div class="row logos-card">
       <div class="col-12 col-sm-6 col-md-3" v-for="logo in logos.item" :key="logo.name">

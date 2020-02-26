@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="subsidiarie">
-    <a class="anchor" name="subsidiarie"></a>
+  <div class="container">
+    <a class="anchor" name="subsidiarie" id="subsidiarie"></a>
     <h3>{{ $t("subsidiaries_title") }}</h3>
     <div class="row subsidiary" v-for="subsidiarie in subsidiaries" :key="subsidiarie.name">
       <div class="col-4">

@@ -34,7 +34,7 @@
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="gbgroup">
                 <a class="dropdown-item" href="/#logo">{{ $t("menu_logos") }}</a>
                 <a class="dropdown-item" href="/#branding">{{ $t("menu_branding") }}</a>
-                <a class="dropdown-item" href="/#audio">{{ $t("menu_audio") }}</a>
+                <a class="dropdown-item" href="/#sound">{{ $t("menu_audio") }}</a>
                 <a class="dropdown-item" href="/#introOutro">{{ $t("menu_video_intro") }}</a>
                 <a class="dropdown-item" href="/#link">{{ $t("menu_links") }}</a>
                 <a class="dropdown-item" href="/#subsidiarie">{{ $t("menu_subsidiaries") }}</a>
@@ -92,7 +92,7 @@
                 <img src="" width="25" /> Rabe
               </a>
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="rabe">
-                <a class="dropdown-item" href="/rabe#ogo">{{ $t("menu_logos") }}</a>
+                <a class="dropdown-item" href="/rabe#logo">{{ $t("menu_logos") }}</a>
                 <a class="dropdown-item" href="/rabe#branding">{{ $t("menu_branding") }}</a>
                 <a class="dropdown-item" href="/rabe#introOutro">{{ $t("menu_video_intro") }}</a>
                 <a class="dropdown-item" href="/rabe#link">{{ $t("menu_links") }}</a>
@@ -116,7 +116,7 @@
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="agriway">
                 <a class="dropdown-item" href="/agriway#logo">{{ $t("menu_logos") }}</a>
                 <a class="dropdown-item" href="/agriway#branding">{{ $t("menu_branding") }}</a>
-                <a class="dropdown-item" href="/agriway#video">{{ $t("menu_video_intro") }}</a>
+                <a class="dropdown-item" href="/agriway#introOutro">{{ $t("menu_video_intro") }}</a>
                 <a class="dropdown-item" href="/agriway#link">{{ $t("menu_links") }}</a>
                 <router-link to="/agriway"></router-link>
               </div>

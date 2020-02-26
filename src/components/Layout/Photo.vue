@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="photo">
-    <a class="anchor" name="photo"></a>
+  <div class="container">
+    <a class="anchor" id="photo" name="photo"></a>
     <h3>{{ $t("photos_title") }}</h3>
     <div class="row photos">
       <div class="col-6" v-for="photo in photos.item" :key="photo.title">

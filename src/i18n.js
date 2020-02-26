@@ -17,8 +17,11 @@ function loadLocaleMessages () {
   return messages
 }
 
+const navigatorLanguage = window.navigator.language.split('-')[0]
+const availableLanguages = ['de', 'en', 'fr', 'it', 'pl', 'ru', 'ua']
+
 export default new VueI18n({
-  locale: process.env.VUE_APP_I18N_LOCALE || 'en',
-  fallbackLocale: process.env.VUE_APP_I18N_FALLBACK_LOCALE || 'en',
+  locale: availableLanguages.includes(navigatorLanguage) ? navigatorLanguage : 'en',
+  fallbackLocale: availableLanguages.includes(navigatorLanguage) ? navigatorLanguage : 'en',
   messages: loadLocaleMessages()
 })

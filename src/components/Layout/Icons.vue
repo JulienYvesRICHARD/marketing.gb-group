@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="icon">
-    <a class="anchor" name="icon"></a>
+  <div class="container">
+    <a class="anchor" name="icon" id="icon"></a>
     <h3>{{ $t("icons_title") }}</h3>
     <div class="row">
       <div class="col-2" v-for="icon in icons" :key="icon.image.label">

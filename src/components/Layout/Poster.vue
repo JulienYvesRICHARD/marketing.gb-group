@@ -1,6 +1,6 @@
 <template>
-  <div class="container" id="poster">
-    <a class="anchor" name="poster"></a>
+  <div class="container">
+    <a class="anchor" name="poster" id="poster"></a>
     <h3>{{ $t("poster_title") }}</h3>
     <div class="row justify-content-center pricelists">
       <div class="col-6 col-md-2" v-for="poster in posters" :key="poster.title">

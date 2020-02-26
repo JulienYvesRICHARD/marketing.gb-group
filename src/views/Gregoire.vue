@@ -1,9 +1,9 @@
 <template>
   <div class="home">
-    <div class="container" id="main">
+    <div class="container">
       <div class="row">
         <div class="col">
-          <a class="anchor" name="logo"></a>
+          <a class="anchor" name="logo" id="main"></a>
           <h1>{{ $t('main_title') }}</h1>
           <p class="lead">
             {{ $t('main_description')

@@ -1,53 +1,53 @@
 {
-    "blocks": [
+  "blocks": [
+    {
+      "type": "logo",
+      "item": [
         {
-            "type": "logo",
-            "item": [
-                {
-                    "name": "Gradient on color",
-                    "image": {
-                        "src": "public/img/logos/logo--gradient-oncolor.jpg",
-                        "label": "logo GB Group, gradient"
-                    },
-                    "jpg": "public/img/logos/logo--gradient-oncolor.jpg",
-                    "png": "public/img/logos/logo--gradient-oncolor.png",
-                    "eps": "public/img/logos/logo--gradient-oncolor.eps",
-                    "svg": "public/img/logos/logo--gradient-oncolor.svg"
-                },
-                {
-                    "name": "Color on white",
-                    "image": {
-                        "src": "public/img/logos/logo-gregoire-besson-white-oncolor.png",
-                        "label": "logo GB Group, color on white"
-                    },
-                    "jpg": "public/img/logos/logo-gregoire-besson-white-oncolor.jpg",
-                    "png": "public/img/logos/logo-gregoire-besson-white-oncolor.png",
-                    "eps": "public/img/logos/logo-gregoire-besson-white-oncolor.eps",
-                    "svg": "public/img/logos/logo-gregoire-besson-white-oncolor.svg"
-                },
-                {
-                    "name": "White on transparent",
-                    "image": {
-                        "src": "public/img/logos/logo-gregoire-besson-white-ontranspbg.jpg",
-                        "label": "logo GB Group, white on transparent"
-                    },
-                    "jpg": "public/img/logos/logo-gregoire-besson-white-ontranspbg.jpg",
-                    "png": "public/img/logos/logo-gregoire-besson-white-ontranspbg.png",
-                    "eps": "public/img/logos/logo-gregoire-besson-white-ontranspbg.eps",
-                    "svg": "public/img/logos/logo-gregoire-besson-white-ontranspbg.svg"
-                },
-                {
-                    "name": "White on black",
-                    "image": {
-                        "src": "public/img/logos/logo--white-onblack.jpg",
-                        "label": "logo GB Group, white on black"
-                    },
-                    "jpg": "public/img/logos/logo--white-onblack.jpg",
-                    "png": "public/img/logos/logo--white-onblack.png",
-                    "eps": "public/img/logos/logo--white-onblack.eps",
-                    "svg": "public/img/logos/logo--white-onblack.svg"
-                }
-            ]
+          "name": "Gradient on color",
+          "image": {
+            "src": "public/img/logos/logo--gradient-oncolor.jpg",
+            "label": "logo GB Group, gradient"
+          },
+          "jpg": "public/img/logos/logo--gradient-oncolor.jpg",
+          "png": "public/img/logos/logo--gradient-oncolor.png",
+          "eps": "public/img/logos/logo--gradient-oncolor.eps",
+          "svg": "public/img/logos/logo--gradient-oncolor.svg"
+        },
+        {
+          "name": "Color on white",
+          "image": {
+            "src": "public/img/logos/logo-gregoire-besson-white-oncolor.png",
+            "label": "logo GB Group, color on white"
+          },
+          "jpg": "public/img/logos/logo-gregoire-besson-white-oncolor.jpg",
+          "png": "public/img/logos/logo-gregoire-besson-white-oncolor.png",
+          "eps": "public/img/logos/logo-gregoire-besson-white-oncolor.eps",
+          "svg": "public/img/logos/logo-gregoire-besson-white-oncolor.svg"
+        },
+        {
+          "name": "White on transparent",
+          "image": {
+            "src": "public/img/logos/logo-gregoire-besson-white-ontranspbg.jpg",
+            "label": "logo GB Group, white on transparent"
+          },
+          "jpg": "public/img/logos/logo-gregoire-besson-white-ontranspbg.jpg",
+          "png": "public/img/logos/logo-gregoire-besson-white-ontranspbg.png",
+          "eps": "public/img/logos/logo-gregoire-besson-white-ontranspbg.eps",
+          "svg": "public/img/logos/logo-gregoire-besson-white-ontranspbg.svg"
+        },
+        {
+          "name": "White on black",
+          "image": {
+            "src": "public/img/logos/logo--white-onblack.jpg",
+            "label": "logo GB Group, white on black"
+          },
+          "jpg": "public/img/logos/logo--white-onblack.jpg",
+          "png": "public/img/logos/logo--white-onblack.png",
+          "eps": "public/img/logos/logo--white-onblack.eps",
+          "svg": "public/img/logos/logo--white-onblack.svg"
         }
-    ]
+      ]
+    }
+  ]
 }

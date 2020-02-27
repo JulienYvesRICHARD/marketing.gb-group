@@ -27,7 +27,6 @@
         <PhotoVue :photos="photos"></PhotoVue>
         <PrintVue :printCharters="printCharters"></PrintVue>
         <PowerPointVue :powerPointTemplates="powerPointTemplates"></PowerPointVue>
-        <IconsVue :icons="icons"></IconsVue>
     </div>
     <FooterVue></FooterVue>
   </div>

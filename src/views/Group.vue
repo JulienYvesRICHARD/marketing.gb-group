@@ -46,7 +46,6 @@ import PressVue from '@/components/Layout/Press.vue'
 import PhotoVue from '@/components/Layout/Photo.vue'
 import PrintVue from '@/components/Layout/Print.vue'
 import PowerPointVue from '@/components/Layout/PowerPoint.vue'
-import IconsVue from '@/components/Layout/Icons.vue'
 import FooterVue from '@/components/Footer.vue'
 
 export default {
@@ -440,98 +439,6 @@ export default {
             "src2": "https://marketing.cellar.services.clever-cloud.com/powerpoint-template/gb-group-powerpoint-template-4-3.pptx"
           }
         }
-      ],
-      icons: [
-        {
-          "image": {
-            "src": "/static/img/icons/01-assistance-clientele.png",
-            "label": "Icon Customer GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/01-assistance-clientele.png",
-            "src2": "https://marketing.gb-group.co/img/icons/01-assistance-clientele.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/02-assistance-online.png",
-            "label": "Icon Online service GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/02-assistance-online.png",
-            "src2": "https://marketing.gb-group.co/img/icons/02-assistance-online.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/03-formations.png",
-            "label": "Icon Training GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/03-formations.png",
-            "src2": "https://marketing.gb-group.co/img/icons/03-formations.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/04-reclamations-prioritaires.png",
-            "label": "Icon Reclamation prioritaire GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/04-reclamations-prioritaires.png",
-            "src2": "https://marketing.gb-group.co/img/icons/04-reclamations-prioritaires.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/05-relation-privilegiee.png",
-            "label": "Icon Relation privilégiée GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/05-relation-privilegiee.png",
-            "src2": "https://marketing.gb-group.co/img/icons/05-relation-privilegiee.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/06-vip.png",
-            "label": "Icon VIP GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/06-vip.png",
-            "src2": "https://marketing.gb-group.co/img/icons/06-vip.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/07-offre-complete.png",
-            "label": "Icon Offre complete GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/07-offre-complete.png",
-            "src2": "https://marketing.gb-group.co/img/icons/07-offre-complete.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/08-services.png",
-            "label": "Icon Services GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/08-services.png",
-            "src2": "https://marketing.gb-group.co/img/icons/08-services.svg"
-          }
-        },
-        {
-          "image": {
-            "src": "/static/img/icons/09-europe.png",
-            "label": "Icon Europe GB Group"
-          },
-          "href": {
-            "src1": "https://marketing.gb-group.co/img/icons/09-europe.png",
-            "src2": "https://marketing.gb-group.co/img/icons/09-europe.svg"
-          }
-        }
       ]
     };
   },
@@ -546,7 +453,6 @@ export default {
     PhotoVue,
     PrintVue,
     PowerPointVue,
-    IconsVue,
     FooterVue
   }
 }

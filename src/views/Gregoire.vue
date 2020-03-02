@@ -1427,7 +1427,7 @@ export default {
         {
           title: 'Machines (FR)',
           link:
-            'hhttps://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-200227.pdf',
+            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-200227.pdf',
           image: {
             src: '/static/img/pricelists/pricelist190_gregoire_besson.png',
             label:

@@ -734,17 +734,17 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_FR_191230.pdf'
               },
               {
-                name: 'Stubble cultivation 40 / 50 [EN]',
+                name: 'Stubble cultivat. 40 / 50 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_EN_191230.pdf'
               },
               {
-                name: 'Stubble cultivation 60 / 70 [EN]',
+                name: 'Stubble cultivat. 60 / 70 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_EN_191230.pdf'
               },
               {
-                name: 'Stubble cultivation 80 / 90 [EN]',
+                name: 'Stubble cultivat. 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_EN_191230.pdf'
               }

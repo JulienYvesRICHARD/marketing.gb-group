@@ -660,10 +660,6 @@ export default {
           {
             title: 'photo_tetra_title',
             range: 'tetra'
-          },
-          {
-            title: 'photo_3d_details',
-            range: '3d'
           }
         ]
       },

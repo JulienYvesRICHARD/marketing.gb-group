@@ -675,32 +675,32 @@ export default {
               {
                 name: 'Labour 40 / 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_40_50_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-40-50-fr.pdf'
               },
               {
                 name: 'Labour 60 / 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_60-70_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-60-70-fr.pdf'
               },
               {
                 name: 'Labour 80 / 90 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_80-90_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-fr.pdf'
               },
               {
                 name: 'Ploughing 40 / 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_40_50_EN_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-40-50-en.pdf'
               },
               {
                 name: 'Ploughing 60 / 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_60_70_EN_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-60-70-en.pdf'
               },
               {
                 name: 'Ploughing 80 / 90 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing_index_80-90_EN_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-en.pdf'
               },
               {
                 name: 'Rover 40/60/70 [RU]',
@@ -717,32 +717,32 @@ export default {
               {
                 name: 'Déchaumage 40 / 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-40-50-fr.pdf'
               },
               {
                 name: 'Déchaumage 60 / 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-60-70-fr.pdf'
               },
               {
                 name: 'Déchaumage 80 / 90 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-80-90-fr.pdf'
               },
               {
                 name: 'Stubble cultivat. 40 / 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_40-50_EN_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-40-50-en.pdf'
               },
               {
                 name: 'Stubble cultivat. 60 / 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_60-70_EN_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-60-70-en.pdf'
               },
               {
                 name: 'Stubble cultivat. 80 / 90 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble_cultivation_index_80-90_EN_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-80-90-en.pdf'
               }
             ]
           },
@@ -754,22 +754,22 @@ export default {
               {
                 name: 'Restructuration 60 / 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_60-70_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-60-70-fr.pdf'
               },
               {
                 name: 'Restructuration 80 / 90 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80-90_FR_191230.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-80-90-fr.pdf'
               },
               {
                 name: 'Restructuring 60 / 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_60-70_EN_200116.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-60-70-en.pdf'
               },
               {
                 name: 'Restructuring 80 / 90 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring_index_80-90_EN_200116.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-80-90-en.pdf'
               }
             ]
           },

@@ -193,19 +193,6 @@ export default {
           googlemaps: "rue+Victor+Gregoire,49230+Montigne+Montfaucon,France"
         },
         {
-          name: "GB Group Germany",
-          street: "Am Rabewerk 1",
-          city: "49152 Bad Essen",
-          country: "Deutschland",
-          phone: "+49 5472 7710",
-          gpscoordinate: "52.309007, 8.401389",
-          image: {
-            src: "/static/img/teams/gb-group-germany-600.jpg",
-            label: "Soil preparation Salesman Team in Germany"
-          },
-          googlemaps: "Am+Rabewerk+1,49152+Bad+Essen,Deutschland"
-        },
-        {
           name: "GB Group Italy",
           street: "Via dell’industria, 9–9/A–9/B",
           city: "Monte Roberto (AN)",
@@ -243,20 +230,6 @@ export default {
             label: "Soil preparation Salesman Team in Poland"
           },
           googlemaps: "Kowanówko+ul.,Obornicka+1a,64-600+Oborniki,Polska"
-        },
-        {
-          name: "GB Group Baltics &amp; Scandinavia",
-          street: "Silelio 8",
-          city: "Anyksciai LT 29144",
-          country: "Lithuania",
-          country_covered: "Norway, Sweden, Finland, Denmark, Lithuania, Estonia, Latvia.",
-          phone: "+37 0 616 16 168",
-          gpscoordinate: "55.519934, 25.094365",
-          image: {
-            src: "/static/img/teams/gb-group-baltics-scandinavia-600.jpg",
-            label: " Soil preparation Saleman in Baltics and Scandinavia"
-          },
-          googlemaps: "Silelio 8,+Anyksciai+LT+29144+lithuania"
         },
         {
           name: "GB Group Eastern Europe",

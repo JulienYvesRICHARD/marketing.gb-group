@@ -89,28 +89,6 @@
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                <img src="" width="25" /> Rabe
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="rabe">
-                <a class="dropdown-item" href="/rabe#logo">{{ $t("menu_logos") }}</a>
-                <a class="dropdown-item" href="/rabe#branding">{{ $t("menu_branding") }}</a>
-                <a class="dropdown-item" href="/rabe#introOutro">{{ $t("menu_video_intro") }}</a>
-                <a class="dropdown-item" href="/rabe#link">{{ $t("menu_links") }}</a>
-                <a class="dropdown-item" href="/rabe#photo">{{ $t("menu_photos") }}</a>
-                <a class="dropdown-item" href="/rabe#leaflet">{{ $t("menu_leaflets") }}</a>
-                <a class="dropdown-item" href="/rabe#video">{{ $t("menu_videos") }}</a>
-                <a class="dropdown-item" href="/rabe#price">{{ $t("menu_pricelist") }}</a>
-                <router-link to="/rabe"></router-link>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a
-                class="nav-link dropdown-toggle"
-                id="agriway"
-                data-toggle="dropdown"
-                aria-haspopup="true"
-                aria-expanded="false"
-              >
                 <img src="" width="25" /> Agriway
               </a>
               <div class="dropdown-menu dropdown-menu-right" aria-labelledby="agriway">

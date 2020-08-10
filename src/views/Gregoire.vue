@@ -701,11 +701,6 @@ export default {
                 name: 'Ploughing 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-en.pdf'
-              },
-              {
-                name: 'Rover 40/60/70 [RU]',
-                link:
-                  'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/Rover-40-60-70-RU-190918.pdf'
               }
             ]
           },
@@ -813,11 +808,6 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/bigx-fr.pdf'
               },
               {
-                name: 'Big X [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/bigx-ru.pdf'
-              },
-              {
                 name: 'Class VR [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/classVR-fr.pdf'
@@ -843,6 +833,16 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/combimix-fr.pdf'
               },
               {
+                name: 'Cover X [RU]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-ru.pdf'
+              },
+              {
+                name: 'Cover XL [RU]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-ru.pdf'
+              },
+              {
                 name: 'Crossland [DE]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-de.pdf'
@@ -863,7 +863,7 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-it.pdf'
               },
               {
-                name: 'Crossland [RU]',
+                  name: 'Crossland [RU]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-ru.pdf'
               },
@@ -915,7 +915,7 @@ export default {
               {
                 name: 'Discodent [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discodent-ru.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-ru.pdf'
               },
               {
                 name: 'Discomix [FR]',
@@ -928,19 +928,9 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discomix-en.pdf'
               },
               {
-                name: 'DXRV [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/dxrv-ru.pdf'
-              },
-              {
                 name: 'SXPRO [FR]',
                 link:
                   'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sxpro-fr.pdf'
-              },
-              {
-                name: 'SXPRO [RU]',
-                link:
-                  'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sxpro-ru.pdf'
               },
               {
                 name: 'VPRC [FR]',
@@ -956,16 +946,16 @@ export default {
                 name: 'VSL [FR]',
                 link:
                   'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/vsl-fr.pdf'
+                                },
+              {
+                name: 'Explor [RU]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-ru.pdf'
               },
               {
                 name: 'Extreme Conditions [EN-FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/extremeconditions-fr-en.pdf'
-              },
-              {
-                name: 'Extreme Conditions [RU-UK]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/extremeconditions-ru-uk.pdf'
               },
               {
                 name: 'Helios - Heliplow [DE]',
@@ -983,14 +973,9 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-heliplow-fr.pdf'
               },
               {
-                name: 'Helios - Heliplow [RU]',
+                name: 'Helios [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-heliplow-ru.pdf'
-              },
-              {
-                name: 'Helios - Helikrak [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-helikrak-ru.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-ru.pdf'
               },
               {
                 name: 'Normandie [EN]',
@@ -1021,6 +1006,11 @@ export default {
                 name: 'PRIMA [EN]',
                 link:
                   'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-en.pdf'
+              },
+              {
+                name: 'Prima 70 [RU]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-70-ru.pdf'
               },
               {
                 name: 'PR7 [FR]',
@@ -1068,11 +1058,6 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r41-r71-fr.pdf'
               },
               {
-                name: 'R41 R71 [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r41-r71-ru.pdf'
-              },
-              {
                 name: 'R6 R8 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-en.pdf'
@@ -1098,11 +1083,6 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-it.pdf'
               },
               {
-                name: 'R6 R8 [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-ru.pdf'
-              },
-              {
                 name: 'RW6 RW8 RW9 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-en.pdf'
@@ -1123,14 +1103,14 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-it.pdf'
               },
               {
-                name: 'RW6 RW8 RW9 [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-ru.pdf'
-              },
-              {
                 name: 'RW6 RW8 RW9 [DE]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-de.pdf'
+              },
+              {
+                name: 'Rover 40/60/70 [RU]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-40-60-70-ru.pdf'
               }
             ]
           },
@@ -1168,11 +1148,6 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sp9-fr.pdf'
               },
               {
-                name: 'SP9 [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/sp9-ru.pdf'
-              },
-              {
                 name: 'SPF9 SPL9 [DE]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-de.pdf'
@@ -1188,14 +1163,14 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-fr.pdf'
               },
               {
-                name: 'SPF9 SPL9 [RU]',
+                name: 'Voyager S70 [RU]',
                 link:
-                  'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-ru.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-ru.pdf'
               },
               {
-                name: 'SPMF SPML [RU]',
+                name: 'Voyager C80 [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spmf-spml-ru.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-ru.pdf'
               },
               {
                 name: 'SXPro [FR]',
@@ -1226,11 +1201,6 @@ export default {
                 name: 'XL XXL XXLWide [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/xl-xxl-xxlwide-fr.pdf'
-              },
-              {
-                name: 'XL XXL XXLWide [RU]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/xl-xxl-xxlwide-ru.pdf'
               }
             ]
           }

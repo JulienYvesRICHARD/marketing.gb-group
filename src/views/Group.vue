@@ -233,8 +233,6 @@ export default {
         },
         {
           name: "GB Group Eastern Europe",
-          street: "DMM, Híd u. 4-6.",
-          city: "Debrecen 4030",
           country: "Hungary",
           country_covered:
             "Hungary, Slovakia, Check Republic, Slovenia, Croatia, Serbia, Romania, Bulgaria.",

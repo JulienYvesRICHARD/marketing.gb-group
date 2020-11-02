@@ -769,9 +769,9 @@ export default {
             ]
           },
           {
-            key: 'element4'
-            subtitle": "soil_preparation_title",
-            "icon": "static/img/icons/seed_bed_preparation_picto.png"
+            key: 'element4',
+            subtitle: 'soil_preparation_title',
+            icon: 'static/img/icons/seed_bed_preparation_picto.png',
             blocks: [
               {
                 name: 'Préparation de sol 40 / 50 [FR]',

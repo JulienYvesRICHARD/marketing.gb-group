@@ -787,6 +787,8 @@ export default {
                 name: 'Préparation de sol 80 / 90 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-80-90-fr.pdf'
+              }
+            ]
           }
         ]
       },
@@ -1392,9 +1394,9 @@ export default {
       },
       prices: [
         {
-          title: 'Machines (IN) €',
+          title: 'Machines (EN) €',
           link:
-            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-in-2020-11-30.pdf',
+            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-in-200227.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-in-img.jpg',
             label: 'Price list Gregoire Besson 2020 in euros, english version'
@@ -1419,6 +1421,62 @@ export default {
             label: 'Listino prezzi Gregoire Besson 2019 in euros in italiano'
           }
         }
+      ],
+      posters: [
+        // {
+        //   title: 'Français',
+        //   link:
+        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-FR.pdf',
+        //   image: {
+        //     src: '/static/img/posters/gb.jpg',
+        //     label: 'Poster de la gamme Gregoire Besson'
+        //   }
+        // },
+        // {
+        //   title: 'Anglais',
+        //   link:
+        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-EN.pdf',
+        //   image: {
+        //     src: '/static/img/posters/gb.jpg',
+        //     label: 'Poster of the range Gregoire Besson'
+        //   }
+        // },
+        // {
+        //   title: 'Italiano',
+        //   link:
+        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-IT.pdf',
+        //   image: {
+        //     src: '/static/img/posters/gb.jpg',
+        //     label: 'Poster de la gamme Gregoire Besson'
+        //   }
+        // },
+        // {
+        //   title: 'русский',
+        //   link:
+        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-RU.pdf',
+        //   image: {
+        //     src: '/static/img/posters/gb.jpg',
+        //     label: 'Poster de la gamme Gregoire Besson русский'
+        //   }
+        // },
+        // {
+        //   title: 'український',
+        //   link:
+        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-UA.pdf',
+        //   image: {
+        //     src: '/static/img/posters/gb.jpg',
+        //     label: 'Poster de la gamme Gregoire Besson український'
+        //   }
+        // },
+        // {
+        //   title: 'Deutsch',
+        //   link:
+        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-DE.pdf',
+        //   image: {
+        //     src: '/static/img/posters/gb.jpg',
+        //     label: 'Poster de la gamme Gregoire Besson Deutsch'
+        //   }
+        // }
       ]
     };
   },

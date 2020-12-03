@@ -774,17 +774,17 @@ export default {
             icon: 'static/img/icons/seed_bed_preparation_picto.png',
             blocks: [
               {
-                name: 'Préparation de sol 40 / 50 [FR]',
+                name: 'Prépa. de sol 40 / 50 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-40-50-fr.pdf'
               },
               {
-                name: 'Préparation de sol 60 / 70 [FR]',
+                name: 'Prépa. de sol 60 / 70 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-60-70-fr.pdf'
               },
               {
-                name: 'Préparation de sol 80 / 90 [FR]',
+                name: 'Prépa. de sol 80 / 90 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-80-90-fr.pdf'
               }

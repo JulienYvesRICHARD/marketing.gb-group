@@ -1408,17 +1408,7 @@ export default {
             'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-2020-10-16.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-fr-img.jpg',
-            label:
-              'Liste de prix Gregoire Besson 2020 en euros, version française'
-          }
-        },
-        {
-          title: 'Machines (IT)',
-          link:
-            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-it-200227.pdf',
-          image: {
-            src: '/static/img/pricelists/gb-pricelist-it-img.jpg',
-            label: 'Listino prezzi Gregoire Besson 2019 in euros in italiano'
+            label: 'Liste de prix Gregoire Besson 2020 en euros, version française'
           }
         }
       ],

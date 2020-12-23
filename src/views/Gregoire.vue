@@ -650,6 +650,10 @@ export default {
             range: 'normandie'
           },
           {
+            title: 'photo_occitan_title',
+            range: 'occitan'
+          },
+          {
             title: 'photo_helios_title',
             range: 'helios'
           },

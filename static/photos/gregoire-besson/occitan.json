@@ -2,13 +2,10 @@
     "title": "photo_tetra_title",
     "subtitle": "photo_tetra_title",
     "item": [
-        {"name": "tetra-00002.jpg"},
-        {"name": "tetra-00004.jpg"},
-        {"name": "tetra-00005.jpg"},
-        {"name": "tetra-00010.jpg"},
-        {"name": "tetra-00011.jpg"},
-        {"name": "tetra-00012.jpg"},
-        {"name": "tetra-00013.jpg"},
-        {"name": "tetra-00014.jpg"}
+        {"name": "occitan-60-001.jpg"},
+        {"name": "occitan-60-002.jpg"},
+        {"name": "occitan-60-003.jpg"},
+        {"name": "occitan-60-004.jpg"},
+        {"name": "occitan-60-005.jpg"}
     ]
 }

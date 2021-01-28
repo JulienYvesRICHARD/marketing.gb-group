@@ -1409,7 +1409,7 @@ export default {
         {
           title: 'Machines (FR)',
           link:
-            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-2020-10-16.pdf',
+            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-fr-2021-01-28.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-fr-img.jpg',
             label: 'Liste de prix Gregoire Besson 2020 en euros, version française'

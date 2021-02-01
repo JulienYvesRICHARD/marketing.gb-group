@@ -1400,7 +1400,7 @@ export default {
         {
           title: 'Machines (IN) €',
           link:
-            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-in-2021-01-11.pdf',
+            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/pricelist-gregoirebesson-in-2021-02-01.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-in-img.jpg',
             label: 'Price list Gregoire Besson 2020 in euros, english version'

@@ -707,8 +707,6 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-en.pdf'
               },
               {
-              },
-              {
                 name: 'Prima 50 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-fr.pdf'
@@ -762,8 +760,6 @@ export default {
                 name: 'Voyager S70 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-fr.pdf'
-              },
-              {
               },
               {
                 name: 'Prima 50 [EN]',

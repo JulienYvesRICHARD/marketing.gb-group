@@ -705,9 +705,7 @@ export default {
                 name: 'Ploughing 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-en.pdf'
-              },
-              {
-              },
+              }
               {
                 name: 'Prima 50 [FR]',
                 link:

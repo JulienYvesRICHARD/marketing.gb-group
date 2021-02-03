@@ -16,6 +16,7 @@
     <VideosVue :videos="videos"></VideosVue>
     <LinksVue :socials="socials"></LinksVue>
     <LeafletsVue :leaflets="leafletsNew"></LeafletsVue>
+    <LeafletsVue :leaflets="leafletsNew"></LeafletsVue>
     <LeafletsVue :leaflets="leafletsOld"></LeafletsVue>
     <PricesVue :prices="prices"></PricesVue>
     <PostersVue :posters="posters"></PostersVue>
@@ -32,6 +33,7 @@
 import PhotoVue from '@/components/Layout/Photo.vue';
 import VideosVue from '@/components/Layout/Videos.vue';
 import LinksVue from '@/components/Layout/Links.vue';
+import LeafletsVue from '@/components/Layout/Leaflets.vue';
 import LeafletsVue from '@/components/Layout/Leaflets.vue';
 import PricesVue from '@/components/Layout/Price.vue';
 import PostersVue from '@/components/Layout/Poster.vue';
@@ -791,6 +793,73 @@ export default {
                 name: 'Prépa. de sol 80 / 90 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-80-90-fr.pdf'
+              }
+            ]
+          }
+        ]
+      },
+            leafletsNew: {
+        id: 'newleaflet',
+        title: 'leaflets_title_new',
+        item: [
+          {
+            key: 'element1',
+            subtitle: 'ploughing_title',
+            blocks: [
+              {
+                name: 'Prima 50 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-fr.pdf'
+              },
+              {
+                name: 'Prima 70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-70-fr.pdf'
+              },
+              {
+                name: 'Rover 40 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-40-fr.pdf'
+              },
+              {
+                name: 'Rover 50 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-50-fr.pdf'
+              },
+              {
+                name: 'Rover 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-60-fr.pdf'
+              },
+              {
+                name: 'Rover 70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-70-fr.pdf'
+              },
+              {
+                name: 'Rover 80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-80-fr.pdf'
+              },
+              {
+                name: 'Voyager C60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c60-fr.pdf'
+              },
+              {
+                name: 'Voyager C80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-fr.pdf'
+              },
+              {
+                name: 'Voyager S60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s60-fr.pdf'
+              },
+              {
+                name: 'Voyager S70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-fr.pdf'
               }
             ]
           }

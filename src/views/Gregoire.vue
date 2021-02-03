@@ -264,7 +264,7 @@ export default {
           ]
         },
         {
-          name: 'EXPLOR',
+          name: 'DISCORDON',
           machine: [
             {
               title: [

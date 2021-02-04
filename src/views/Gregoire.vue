@@ -692,6 +692,8 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-fr.pdf'
               },
               {
+              },
+              {
                 name: 'Ploughing 40 / 50 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-40-50-en.pdf'
@@ -705,6 +707,8 @@ export default {
                 name: 'Ploughing 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/ploughing-index-80-90-en.pdf'
+              },
+              {
               },
               {
                 name: 'Prima 50 [FR]',
@@ -760,6 +764,8 @@ export default {
                 name: 'Voyager S70 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-fr.pdf'
+              },
+              {
               },
               {
                 name: 'Prima 50 [EN]',
@@ -839,6 +845,8 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-80-90-fr.pdf'
               },
               {
+              },
+              {
                 name: 'Stubble cultivat. 40 / 50 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-40-50-en.pdf'
@@ -869,6 +877,8 @@ export default {
                 name: 'Restructuration 80 / 90 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-80-90-fr.pdf'
+              },
+              {
               },
               {
                 name: 'Restructuring 60 / 70 [EN]',

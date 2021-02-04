@@ -860,6 +860,131 @@ export default {
                 name: 'Stubble cultivat. 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-80-90-en.pdf'
+                                  name: 'Prima 50 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-en.pdf'
+              },
+              {
+              },
+              {
+                name: 'Dekoflex 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/dekoflex-60-fr.pdf'
+              },
+              {
+                name: 'Crossland 50 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-50-fr.pdf'
+              },
+              {
+                name: 'Crossland 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-60-fr.pdf'
+              },
+              {
+                name: 'Crossland T60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t60-fr.pdf'
+              },
+              {
+                name: 'Crossland T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t70-fr.pdf'
+              },
+              {
+                name: 'Crossland T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t80-fr.pdf'
+              },
+              {
+                name: 'Cover V T50 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t50-fr.pdf'
+              },
+              {
+                name: 'Cover V T60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t60-fr.pdf'
+              },
+              {
+                name: 'Cover V T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t70-fr.pdf'
+              },
+              {
+                name: 'Cover X T60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t60-fr.pdf'
+              },
+              {
+                name: 'Cover X T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t70-fr.pdf'
+              },
+              {
+                name: 'Cover X T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t80-fr.pdf'
+              },
+              {
+                name: 'Cover XL T60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t60-fr.pdf'
+              },
+              {
+                name: 'Cover XL T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t70-fr.pdf'
+              },
+              {
+                name: 'Cover XL T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t80-fr.pdf'
+              },
+              {
+                name: 'Cover XL T90 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t90-fr.pdf'
+              },
+              {
+                name: 'Occitan 50 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-50-fr.pdf'
+              },
+              {
+                name: 'Occitan 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-60-fr.pdf'
+              },
+              {
+                name: 'Occitan T60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-t60-fr.pdf'
+              },
+              {
+                name: 'Normandie 50 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-50-fr.pdf'
+              },
+              {
+                name: 'Normandie 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-60-fr.pdf'
+              },
+              {
+                name: 'Normandie T60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t60-fr.pdf'
+              },
+              {
+                name: 'Normandie T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t70-fr.pdff'
+              },
+              {
+                name: 'Normandie T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t80-fr.pdf'
               }
             ]
           },

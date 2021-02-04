@@ -860,9 +860,6 @@ export default {
                 name: 'Stubble cultivat. 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/stubble-cultivation-index-80-90-en.pdf'
-                                  name: 'Prima 50 [EN]',
-                link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-en.pdf'
               },
               {
               },

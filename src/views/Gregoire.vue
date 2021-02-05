@@ -1313,6 +1313,8 @@ export default {
               {
               },
               {
+              },
+              {
                 name: 'Tetra 50 [FR]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-50-fr.pdf'

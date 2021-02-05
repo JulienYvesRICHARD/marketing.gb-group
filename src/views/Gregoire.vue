@@ -1125,6 +1125,8 @@ export default {
               {
               },
               {
+              },
+              {
                 name: 'Restructuring 60 / 70 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-60-70-en.pdf'
@@ -1133,6 +1135,152 @@ export default {
                 name: 'Restructuring 80 / 90 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/restructuring-index-80-90-en.pdf'
+              },
+              {
+              },
+              {
+              },
+              {
+                name: 'Helios Mono 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-mono-60-fr.pdf'
+              },
+              {
+                name: 'Helios Duo 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-60-fr.pdf'
+              },
+              {
+                name: 'Helios Duo 70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-70-fr.pdf'
+              },
+              {
+                name: 'Helios Duo 80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-80-fr.pdf'
+              },
+              {
+                name: 'Helios Duo T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t80-fr.pdf'
+              },
+              {
+                name: 'Helios Duo T90 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-fr.pdf'
+              },
+              {
+                name: 'Helios Cracker 70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-fr.pdf'
+              },
+              {
+                name: 'Helios Cracker 80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-fr.pdf'
+              },
+              {
+                name: 'Explor T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t70-fr.pdf'
+              },
+              {
+                name: 'Explor T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t80-fr.pdf'
+              },
+              {
+                name: 'Explor T90 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t90-fr.pdf'
+              },
+              {
+                name: 'Discordon 60 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-60-fr.pdf'
+              },
+              {
+                name: 'Discordon T70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t70-fr.pdf'
+              },
+              {
+                name: 'Discordon T80 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t80-fr.pdf'
+              },
+              {
+              },
+              {
+                name: 'Helios Mono 60 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-mono-60-en.pdf'
+              },
+              {
+                name: 'Helios Duo 60 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-60-en.pdf'
+              },
+              {
+                name: 'Helios Duo 70 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-70-en.pdf'
+              },
+              {
+                name: 'Helios Duo 80 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-80-en.pdf'
+              },
+              {
+                name: 'Helios Duo T80 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t80-en.pdf'
+              },
+              {
+                name: 'Helios Duo T90 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-en.pdf'
+              },
+              {
+                name: 'Helios Cracker 70 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-en.pdf'
+              },
+              {
+                name: 'Helios Cracker 80 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-en.pdf'
+              },
+              {
+                name: 'Explor T70 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t70-en.pdf'
+              },
+              {
+                name: 'Explor T80 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t80-en.pdf'
+              },
+              {
+                name: 'Explor T90 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t90-en.pdf'
+              },
+              {
+                name: 'Discordon 60 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-60-en.pdf'
+              },
+              {
+                name: 'Discordon T70 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t70-en.pdf'
+              },
+              {
+                name: 'Discordon T80 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t80-en.pdf'
               }
             ]
           },

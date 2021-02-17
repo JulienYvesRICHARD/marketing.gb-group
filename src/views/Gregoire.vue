@@ -1307,10 +1307,19 @@ export default {
               {
               },
               {
+                name: 'Soil preparation 40 / 50 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-40-50-en.pdf'
               },
               {
+                name: 'Soil preparation 60 / 70 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-60-70-en.pdf'
               },
               {
+                name: 'Soil preparation 80 / 90 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/soil-preparation-index-80-90-en.pdf'
               },
               {
               },
@@ -1345,9 +1354,41 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-fr.pdf'
               },
               {
-                name: 'Planipack 70 [FR]',
+              },
+              {
+                name: 'Tetra 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-fr.pdf'
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-50-en.pdf'
+              },
+              {
+                name: 'Tetra 60 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-60-en.pdf'
+              },
+              {
+                name: 'Tetra 70 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-70-en.pdf'
+              },
+              {
+                name: 'Tetra 80 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-80-en.pdf'
+              },
+              {
+                name: 'Planipack 50 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-50-en.pdf'
+              },
+              {
+                name: 'Planipack 60 [EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-en.pdf'
+              },
+              {
+                name: 'Planipack 70 EN]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-en.pdf'
               }
             ]
           }

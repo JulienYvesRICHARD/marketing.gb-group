@@ -1354,6 +1354,11 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-fr.pdf'
               },
               {
+                name: 'Planipack 70 [FR]',
+                link:
+                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-fr.pdf'
+              },
+              {
               },
               {
                 name: 'Tetra 50 [EN]',
@@ -1386,7 +1391,7 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-en.pdf'
               },
               {
-                name: 'Planipack 70 EN]',
+                name: 'Planipack 70 [EN]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-en.pdf'
               }

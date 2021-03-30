@@ -2005,8 +2005,8 @@ export default {
           link:
             'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-03-30-pricelist-gregoirebesson-in.pdf',
           image: {
-            src: '/static/img/pricelists/gb-pricelist-in-img.jpg',
-            label: 'Price list Gregoire Besson 2020 in euros, english version'
+            src: '/static/img/pricelists/gb-pricelist-in-202-img.jpg',
+            label: 'Price list Gregoire Besson 2021 in euros, english version'
           }
         },
         {
@@ -2014,8 +2014,8 @@ export default {
           link:
             'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-03-29-pricelist-gregoirebesson-fr.pdf',
           image: {
-            src: '/static/img/pricelists/gb-pricelist-fr-img.jpg',
-            label: 'Liste de prix Gregoire Besson 2020 en euros, version française'
+            src: '/static/img/pricelists/gb-pricelist-fr-202-img.jpg',
+            label: 'Liste de prix Gregoire Besson 2021 en euros, version française'
           }
         }
       ],

@@ -61,20 +61,19 @@
                 <a class="dropdown-item" href="/gregoire-besson#video">{{ $t("menu_videos") }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#link">{{ $t("menu_links") }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#newleaflet">{{
-                  $t("menu_new_leaflets")
+                  $t("menu_leaflets")
                 }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#oldleaflet">{{
-                  $t("menu_old_leaflets")
+                  $t("ranges")
                 }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#price">{{
                   $t("menu_pricelist")
                 }}</a>
-                <a class="dropdown-item" href="/gregoire-besson#poster">{{ $t("menu_posters") }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#logo">{{ $t("menu_logos") }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#branding">{{
                   $t("menu_branding")
                 }}</a>
-                <a class="dropdown-item" href="/gregoire-besson#range">{{ $t("menu_range") }}</a>
+                <a class="dropdown-item" href="/gregoire-besson#range">{{ $t("range_spelling_title") }}</a>
                 <a class="dropdown-item" href="/gregoire-besson#introOutro">{{
                   $t("menu_video_intro")
                 }}</a>

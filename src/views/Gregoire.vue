@@ -18,7 +18,6 @@
     <LeafletsVue :leaflets="leafletsNew"></LeafletsVue>
     <LeafletsVue :leaflets="leafletsOld"></LeafletsVue>
     <PricesVue :prices="prices"></PricesVue>
-    <PostersVue :posters="posters"></PostersVue>
     <LogoVue :logos="logos"></LogoVue>
     <BrandingVue :brandings="brandings"></BrandingVue>
     <RangeNameVue :range="brandings_range"></RangeNameVue>
@@ -1401,10 +1400,11 @@ export default {
       },
       leafletsOld: {
         id: 'oldleaflet',
-        title: 'leaflets_title_old',
+        title: 'ranges',
         item: [
           {
             key: 'element1',
+            subtitle: 'ploughing_title',
             blocks: [
               {
                 name: 'Andpak [EN]',
@@ -1515,6 +1515,7 @@ export default {
           },
           {
             key: 'element2',
+            subtitle: 'stubble_cultivation_title',
             blocks: [
               {
                 name: 'Discodent [DE]',
@@ -1625,6 +1626,7 @@ export default {
           },
           {
             key: 'element3',
+            subtitle: 'restructuring_title',
             blocks: [
               {
                 name: 'PRIMA [EN]',
@@ -1740,6 +1742,7 @@ export default {
           },
           {
             key: 'element4',
+            subtitle: 'soil_preparation_title',
             blocks: [
               {
                 name: 'SP8 [EN]',

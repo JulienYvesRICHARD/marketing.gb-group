@@ -862,22 +862,22 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-80-fr.pdf'
               },
               {
-                name: 'Voyager C60 [FR]',
+                name: 'Voyager C60 [FRENCH]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c60-fr.pdf'
               },
               {
-                name: 'Voyager C80 [FR]',
+                name: 'Voyager C80 [FRENCH]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-fr.pdf'
               },
               {
-                name: 'Voyager S60 [FR]',
+                name: 'Voyager S60 [FRENCH]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s60-fr.pdf'
               },
               {
-                name: 'Voyager S70 [FR]',
+                name: 'Voyager S70 [FRENCH]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-fr.pdf'
               },
@@ -1293,12 +1293,12 @@ export default {
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-fr.pdf'
               },
               {
-                name: 'Helios Cracker 70 [FR]',
+                name: 'Helios Cracker 70 [FRENCH]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-fr.pdf'
               },
               {
-                name: 'Helios Cracker 80 [FR]',
+                name: 'Helios Cracker 80 [FRENCH]',
                 link:
                   'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-fr.pdf'
               },

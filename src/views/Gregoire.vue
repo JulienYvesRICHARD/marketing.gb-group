@@ -1730,7 +1730,7 @@ export default {
         {
           title: 'Machines (FR) €',
           link:
-            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-09-29-pricelist-gregoirebesson-fr.pdf',
+            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-10-07-pricelist-gregoirebesson-fr.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-fr-210-img.jpg',
             label: 'Liste de prix Gregoire Besson 2021 en euros, version française'

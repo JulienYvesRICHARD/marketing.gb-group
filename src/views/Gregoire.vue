@@ -1735,6 +1735,15 @@ export default {
             src: '/static/img/pricelists/gb-pricelist-fr-210-img.jpg',
             label: 'Liste de prix Gregoire Besson 2021 en euros, version française'
           }
+        },
+        {
+          title: 'Machines (DE) €',
+          link:
+            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-11-09-pricelist-gregoirebesson-de.pdf',
+          image: {
+            src: '/static/img/pricelists/gb-pricelist-de-210-img.jpg',
+            label: 'Preisliste Gregoire Besson 2021 in Euro, deutsche Fassung'
+          }
         }
       ],
       posters: [

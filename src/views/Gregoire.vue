@@ -1721,7 +1721,7 @@ export default {
         {
           title: 'Machines (IN) €',
           link:
-            'https://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-09-29-pricelist-gregoirebesson-in.pdf',
+            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-in.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-in-210-img.jpg',
             label: 'Price list Gregoire Besson 2021 in euros, english version'
@@ -1730,7 +1730,7 @@ export default {
         {
           title: 'Machines (FR) €',
           link:
-            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-10-07-pricelist-gregoirebesson-fr.pdf',
+            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-fr.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-fr-210-img.jpg',
             label: 'Liste de prix Gregoire Besson 2021 en euros, version française'
@@ -1739,7 +1739,7 @@ export default {
         {
           title: 'Machines (DE) €',
           link:
-            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-11-09-pricelist-gregoirebesson-de.pdf',
+            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-de.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-de-210-img.jpg',
             label: 'Preisliste Gregoire Besson 2021 in Euro, deutsche Fassung'

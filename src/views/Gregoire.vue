@@ -1723,7 +1723,7 @@ export default {
           link:
             'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-in.pdf',
           image: {
-            src: '/static/img/pricelists/gb-pricelist-in-210-img.jpg',
+            src: '/static/img/pricelists/gb-pricelist-220-in-img.jpg',
             label: 'Price list Gregoire Besson 2021 in euros, english version'
           }
         },
@@ -1732,7 +1732,7 @@ export default {
           link:
             'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-fr.pdf',
           image: {
-            src: '/static/img/pricelists/gb-pricelist-fr-210-img.jpg',
+            src: '/static/img/pricelists/gb-pricelist-220-fr-img.jpg',
             label: 'Liste de prix Gregoire Besson 2021 en euros, version française'
           }
         },
@@ -1741,7 +1741,7 @@ export default {
           link:
             'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-de.pdf',
           image: {
-            src: '/static/img/pricelists/gb-pricelist-de-210-img.jpg',
+            src: '/static/img/pricelists/gb-pricelist-220-de-img.jpg',
             label: 'Preisliste Gregoire Besson 2021 in Euro, deutsche Fassung'
           }
         }

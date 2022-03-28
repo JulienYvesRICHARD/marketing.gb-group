@@ -371,8 +371,6 @@ export default {
   components: {
     LogoVue,
     BrandingVue,
-    SoundVue,
-    IntroOutroVue,
     LinksVue,
     SubsidiariesVue,
     PressVue,

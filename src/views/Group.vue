@@ -129,17 +129,17 @@ export default {
           "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/399968445&amp;color=%233b3b3c&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false",
         title2: "MP3",
         subtitle2: "256kpbs.mp3",
-        link2: "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-256kpbs.mp3",
+        link2: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-256kpbs.mp3",
         title3: "WAV",
         subtitle3_1: "CCIT-LOI-A.wav",
-        link3_1: "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-CCITT-Loi-A.wav",
+        link3_1: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-CCITT-Loi-A.wav",
         subtitle3_2: "CCITT-uLaw.wav",
-        link3_2: "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-CCITT-uLaw.wav",
+        link3_2: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-CCITT-uLaw.wav",
         subtitle3_3: "GSM-6-10.wav",
-        link3_3: "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-GSM-6-10.wav",
+        link3_3: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-GSM-6-10.wav",
         subtitle3_4: "PCM-8kHz-8b-mono.wav",
         link3_4:
-          "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-PCM-8kHz-8b-mono.wav",
+          "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-PCM-8kHz-8b-mono.wav",
         subtitle3_5: "PCM-8kHz-16b-mono.wav",
         link3_5:
           "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-PCM-8kHz-16b-mono.wav"
@@ -293,14 +293,14 @@ export default {
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
           href:
-            "http://marketing.cellar.services.clever-cloud.com/press/1905_Application_mobile.pdf"
+            "http://marketing.cellar-c2.services.clever-cloud.com/press/1905_Application_mobile.pdf"
         },
         {
           date: "05/04/2019",
           title: "Serenity +",
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
-          href: "http://marketing.cellar.services.clever-cloud.com/press/1904_Serenity_%2B.pdf"
+          href: "http://marketing.cellar-c2.services.clever-cloud.com/press/1904_Serenity_%2B.pdf"
         },
         {
           date: "15/03/2019",
@@ -308,14 +308,14 @@ export default {
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
           href:
-            "http://marketing.cellar.services.clever-cloud.com/press/1903_Journ%C3%A9es_aux_champs.pdf"
+            "http://marketing.cellar-c2.services.clever-cloud.com/press/1903_Journ%C3%A9es_aux_champs.pdf"
         },
         {
           date: "18/01/2019",
           title: "GB Tracking",
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
-          href: "http://marketing.cellar.services.clever-cloud.com/press/1812%20GB%20Tracking.pdf"
+          href: "http://marketing.cellar-c2.services.clever-cloud.com/press/1812%20GB%20Tracking.pdf"
         },
         {
           date: "07/10/2018",
@@ -323,7 +323,7 @@ export default {
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
           href:
-            "http://marketing.cellar.services.clever-cloud.com/press/1810_communiqu%C3%A9_4_saisons.pdf"
+            "http://marketing.cellar-c2.services.clever-cloud.com/press/1810_communiqu%C3%A9_4_saisons.pdf"
         },
         {
           date: "22/09/2018",
@@ -331,7 +331,7 @@ export default {
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
           href:
-            "https://marketing.cellar.services.clever-cloud.com/press/Configurateur-en-ligne.pdf"
+            "https://marketing.cellar-c2.services.clever-cloud.com/press/Configurateur-en-ligne.pdf"
         },
         {
           date: "20/09/2018",
@@ -339,35 +339,35 @@ export default {
           brand: "Gregoire Besson",
           langues: [{ name: "press_release_french" }],
           href:
-            "https://marketing.cellar.services.clever-cloud.com/press/Naming%20and%20products.zip"
+            "https://marketing.cellar-c2.services.clever-cloud.com/press/Naming%20and%20products.zip"
         },
         {
           date: "14/09/2018",
           title: "SIMA 2019",
           brand: "GB Group",
           langues: [{ name: "press_release_french" }],
-          href: "https://marketing.cellar.services.clever-cloud.com/press/SIMA-2019.pdf"
+          href: "https://marketing.cellar-c2.services.clever-cloud.com/press/SIMA-2019.pdf"
         },
         {
           date: "03/09/2018",
           title: "InnovAgri 2018",
           brand: "GB Group",
           langues: [{ name: "press_release_french" }],
-          href: "https://marketing.cellar.services.clever-cloud.com/press/innov-agri.pdf"
+          href: "https://marketing.cellar-c2.services.clever-cloud.com/press/innov-agri.pdf"
         },
         {
           date: "25/04/2018",
           title: "GB Dealers Days & DriveTheChange",
           brand: "GB Group",
           langues: [{ name: "press_release_french" }],
-          href: "https://marketing.cellar.services.clever-cloud.com/press/gb-dealers-days-fr.zip"
+          href: "https://marketing.cellar-c2.services.clever-cloud.com/press/gb-dealers-days-fr.zip"
         },
         {
           date: "10/11/2017",
           title: "Agritechnica 2017: Press Book / Dossier de Presse",
           brand: "GB Group",
           langues: [{ name: "press_release_english" }, { name: "press_release_french" }],
-          href: "https://marketing.cellar.services.clever-cloud.com/press/agritechnica-2017.zip"
+          href: "https://marketing.cellar-c2.services.clever-cloud.com/press/agritechnica-2017.zip"
         }
       ],
       photos: {
@@ -386,7 +386,7 @@ export default {
             label: "Charte graphique GB Group"
           },
           href:
-            "https://marketing.cellar.services.clever-cloud.com/graphic-charter/gb-group-graphic-charter.pdf"
+            "https://marketing.cellar-c2.services.clever-cloud.com/graphic-charter/gb-group-graphic-charter.pdf"
         }
       ],
       powerPointTemplates: [
@@ -397,9 +397,9 @@ export default {
           },
           href: {
             src1:
-              "https://marketing.cellar.services.clever-cloud.com/powerpoint-template/gb-group-powerpoint-template-16-9.pptx",
+              "https://marketing.cellar-c2.services.clever-cloud.com/powerpoint-template/gb-group-powerpoint-template-16-9.pptx",
             src2:
-              "https://marketing.cellar.services.clever-cloud.com/powerpoint-template/gb-group-powerpoint-template-4-3.pptx"
+              "https://marketing.cellar-c2.services.clever-cloud.com/powerpoint-template/gb-group-powerpoint-template-4-3.pptx"
           }
         }
       ],

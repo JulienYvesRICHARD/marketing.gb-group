@@ -550,22 +550,6 @@ export default {
           ]
         }
       ],
-      introOutros: [
-        {
-          title: 'video_intro_title',
-          link_mp4:
-            'https://marketing.gb-group.co/static/videos/gregoire-besson-intro.mp4',
-          link_mov:
-            'https://marketing.gb-group.co/static/videos/gregoire-besson-intro.mov'
-        },
-        {
-          title: 'video_outro_title',
-          link_mp4:
-            'https://marketing.gb-group.co/static/videos/gregoire-besson-outro.mp4',
-          link_mov:
-            'https://marketing.gb-group.co/static/videos/gregoire-besson-outro.mov'
-        }
-      ],
       socials: [
         {
           title: 'links_gregoire_website_title',

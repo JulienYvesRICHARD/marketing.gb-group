@@ -24,10 +24,6 @@
       <BrandingVue :brandings="brandings"></BrandingVue>
       <LinksVue :socials="socials"></LinksVue>
       <SubsidiariesVue :subsidiaries="subsidiaries"></SubsidiariesVue>
-      <PressVue :pressReleases="pressReleases"></PressVue>
-      <PhotoVue :photos="photos"></PhotoVue>
-      <PrintVue :printCharters="printCharters"></PrintVue>
-      <PowerPointVue :powerPointTemplates="powerPointTemplates"></PowerPointVue>
     </div>
     <FooterVue></FooterVue>
   </div>
@@ -39,10 +35,6 @@ import LogoVue from '@/components/Layout/Logos.vue'
 import BrandingVue from '@/components/Layout/Branding.vue'
 import LinksVue from '@/components/Layout/Links.vue'
 import SubsidiariesVue from '@/components/Layout/Subsidiaries.vue'
-import PressVue from '@/components/Layout/Press.vue'
-import PhotoVue from '@/components/Layout/Photo.vue'
-import PrintVue from '@/components/Layout/Print.vue'
-import PowerPointVue from '@/components/Layout/PowerPoint.vue'
 import FooterVue from '@/components/Footer.vue'
 
 export default {
@@ -371,10 +363,6 @@ export default {
     BrandingVue,
     LinksVue,
     SubsidiariesVue,
-    PressVue,
-    PhotoVue,
-    PrintVue,
-    PowerPointVue,
     FooterVue
   }
 };

@@ -22,7 +22,7 @@
             <div class="ratio" v-if="brand !== 'rabe'">
               <img
                 :src="
-                  'https://marketing.cellar.services.clever-cloud.com/photos/' +
+                  'https://marketing.cellar-c2.services.clever-cloud.com/photos/' +
                     brand +
                     '/small/' +
                     image.name
@@ -36,7 +36,7 @@
               <a
                 class="text-center"
                 :href="
-                  'https://marketing.cellar.services.clever-cloud.com/photos/' +
+                  'https://marketing.cellar-c2.services.clever-cloud.com/photos/' +
                     brand +
                     '/original/' +
                     image.name
@@ -51,7 +51,7 @@
             <div class="ratio" v-if="brand === 'rabe'">
               <img
                 :src="
-                  'https://marketing.cellar.services.clever-cloud.com/RABE/photos/small/' +
+                  'https://marketing.cellar-c2.services.clever-cloud.com/RABE/photos/small/' +
                     image.name
                 "
                 alt="images.subtitle"
@@ -63,7 +63,7 @@
               <a
                 class="text-center"
                 :href="
-                  'https://marketing.cellar.services.clever-cloud.com/RABE/photos/original/' +
+                  'https://marketing.cellar-c2.services.clever-cloud.com/RABE/photos/original/' +
                     image.name
                 "
                 download

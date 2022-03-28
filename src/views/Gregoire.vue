@@ -829,167 +829,167 @@ export default {
           {
                 name: 'Prima 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-fr.pdf'
               },
               {
                 name: 'Prima 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/prima-70-fr.pdf'
               },
               {
                 name: 'Rover 40 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-40-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-40-fr.pdf'
               },
               {
                 name: 'Rover 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-50-fr.pdf'
               },
               {
                 name: 'Rover 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-60-fr.pdf'
               },
               {
                 name: 'Rover 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-70-fr.pdf'
               },
               {
                 name: 'Rover 80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-80-fr.pdf'
               },
               {
                 name: 'Voyager C60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c60-fr.pdf'
               },
               {
                 name: 'Voyager C80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-fr.pdf'
               },
               {
                 name: 'Voyager S60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s60-fr.pdf'
               },
               {
                 name: 'Voyager S70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-fr.pdf'
               },
               {
                 name: 'Prima 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/prima-50-en.pdf'
               },
               {
                 name: 'Prima 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/prima-70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/prima-70-en.pdf'
               },
               {
                 name: 'Rover 40 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-40-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-40-en.pdf'
               },
               {
                 name: 'Rover 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-50-en.pdf'
               },
               {
                 name: 'Rover 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-60-en.pdf'
               },
               {
                 name: 'Rover 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-70-en.pdf'
               },
               {
                 name: 'Rover 80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rover-80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rover-80-en.pdf'
               },
               {
                 name: 'Voyager C60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c60-en.pdf'
               },
               {
                 name: 'Voyager C80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-c80-en.pdf'
               },
               {
                 name: 'Voyager S60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s60-en.pdf'
               },
               {
                 name: 'Voyager S70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/voyager-s70-en.pdf'
               },
               {
                 name: 'R6 R8 [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-de.pdf'
               },
               {
                 name: 'RW6 RW8 RW9 [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-de.pdf'
               },
               {
                 name: 'SPF9 SPL9 [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/spf9-spl9-de.pdf'
               },
               {
                 name: 'RW6 RW8 RW9 [ES]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-es.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-es.pdf'
               },
               {
                 name: 'R6 R8 [IT]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-it.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-it.pdf'
               },
               {
                 name: 'RW6 RW8 RW9 [IT]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-it.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/rw6-rw8-rw9-it.pdf'
               },
               {
                 name: 'R6 R8 [HU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-hu.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/r6-r8-hu.pdf'
               },
               {
                 name: 'Prima 70 [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/pl-prima-70-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/pl-prima-70-ru.pdf'
               },
               {
                 name: 'Rover [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/pl-rover-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/pl-rover-ru.pdf'
               },
               {
                 name: 'Voyager S70 [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/pl-voyager-s70-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/pl-voyager-s70-ru.pdf'
               },
               {
                 name: 'Voyager C80 [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/pl-voyager-c80-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/pl-voyager-c80-ru.pdf'
               }
             ]
           },
@@ -1000,287 +1000,287 @@ export default {
           {
                 name: 'Dekoflex 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/dekoflex-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/dekoflex-60-fr.pdf'
               },
               {
                 name: 'Crossland 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-50-fr.pdf'
               },
               {
                 name: 'Crossland 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-60-fr.pdf'
               },
               {
                 name: 'Crossland T60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t60-fr.pdf'
               },
               {
                 name: 'Crossland T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t70-fr.pdf'
               },
               {
                 name: 'Crossland T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t80-fr.pdf'
               },
               {
                 name: 'Cover V T50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t50-fr.pdf'
               },
               {
                 name: 'Cover V T60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t60-fr.pdf'
               },
               {
                 name: 'Cover V T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t70-fr.pdf'
               },
               {
                 name: 'Cover X T60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t60-fr.pdf'
               },
               {
                 name: 'Cover X T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t70-fr.pdf'
               },
               {
                 name: 'Cover X T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t80-fr.pdf'
               },
               {
                 name: 'Cover XL T60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t60-fr.pdf'
               },
               {
                 name: 'Cover XL T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t70-fr.pdf'
               },
               {
                 name: 'Cover XL T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t80-fr.pdf'
               },
               {
                 name: 'Cover XL T90 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t90-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t90-fr.pdf'
               },
               {
                 name: 'Occitan 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/occitan-50-fr.pdf'
               },
               {
                 name: 'Occitan 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/occitan-60-fr.pdf'
               },
               {
                 name: 'Occitan T60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-t60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/occitan-t60-fr.pdf'
               },
               {
                 name: 'Normandie 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-50-fr.pdf'
               },
               {
                 name: 'Normandie 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-60-fr.pdf'
               },
               {
                 name: 'Normandie T60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t60-fr.pdf'
               },
               {
                 name: 'Normandie T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t70-fr.pdf'
               },
               {
                 name: 'Normandie T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t80-fr.pdf'
               },
               {
                 name: 'Dekoflex 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/dekoflex-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/dekoflex-60-en.pdf'
               },
               {
                 name: 'Crossland 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-50-en.pdf'
               },
               {
                 name: 'Crossland 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-60-en.pdf'
               },
               {
                 name: 'Crossland T60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t60-en.pdf'
               },
               {
                 name: 'Crossland T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t70-en.pdf'
               },
               {
                 name: 'Crossland T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-t80-en.pdf'
               },
               {
                 name: 'Cover V T50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t50-en.pdf'
               },
               {
                 name: 'Cover V T60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t60-en.pdf'
               },
               {
                 name: 'Cover V T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-v-t70-en.pdf'
               },
               {
                 name: 'Cover X T60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t60-en.pdf'
               },
               {
                 name: 'Cover X T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t70-en.pdf'
               },
               {
                 name: 'Cover X T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-x-t80-en.pdf'
               },
               {
                 name: 'Cover XL T60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t60-en.pdf'
               },
               {
                 name: 'Cover XL T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t70-en.pdf'
               },
               {
                 name: 'Cover XL T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t80-en.pdf'
               },
               {
                 name: 'Cover XL T90 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t90-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/cover-xl-t90-en.pdf'
               },
               {
                 name: 'Occitan 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/occitan-50-en.pdf'
               },
               {
                 name: 'Occitan 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/occitan-60-en.pdf'
               },
               {
                 name: 'Occitan T60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/occitan-t60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/occitan-t60-en.pdf'
               },
               {
                 name: 'Normandie 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-50-en.pdf'
               },
               {
                 name: 'Normandie 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-60-en.pdf'
               },
               {
                 name: 'Normandie T60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t60-en.pdf'
               },
               {
                 name: 'Normandie T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t70-en.pdf'
               },
               {
                 name: 'Normandie T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-t80-en.pdf'
               },
               {
                 name: 'Crossland [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-de.pdf'
               },
               {
                 name: 'XL XXL XXLWide [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/xl-xxl-xxlwide-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/xl-xxl-xxlwide-de.pdf'
               },
               {
                 name: 'Crossland [IT]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/crossland-it.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/crossland-it.pdf'
               },
               {
                 name: 'Normandie [IT]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/normandie-it.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/normandie-it.pdf'
               },
               {
                 name: 'Crossland [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/st-crossland-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/st-crossland-ru.pdf'
               },
               {
                 name: 'Cover X [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/st-cover-x-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/st-cover-x-ru.pdf'
               },
               {
                 name: 'Cover XL [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/st-cover-xl-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/st-cover-xl-ru.pdf'
               },
               {
                 name: 'Occitan [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/st-occitan-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/st-occitan-ru.pdf'
               },
               {
                 name: 'Normandie [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/st-normandie-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/st-normandie-ru.pdf'
               }
             ]
           },
@@ -1291,172 +1291,172 @@ export default {
               {
                 name: 'Helios Mono 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-mono-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-mono-60-fr.pdf'
               },
               {
                 name: 'Helios Duo 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-60-fr.pdf'
               },
               {
                 name: 'Helios Duo 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-70-fr.pdf'
               },
               {
                 name: 'Helios Duo 80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-80-fr.pdf'
               },
               {
                 name: 'Helios Duo T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t80-fr.pdf'
               },
               {
                 name: 'Helios Duo T90 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-fr.pdf'
               },
               {
                 name: 'Helios Cracker 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-fr.pdf'
               },
               {
                 name: 'Helios Cracker 80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-fr.pdf'
               },
               {
                 name: 'Explor T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/explor-t70-fr.pdf'
               },
               {
                 name: 'Explor T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/explor-t80-fr.pdf'
               },
               {
                 name: 'Explor T90 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t90-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/explor-t90-fr.pdf'
               },
               {
                 name: 'Discordon 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discordon-60-fr.pdf'
               },
               {
                 name: 'Discordon T70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t70-fr.pdf'
               },
               {
                 name: 'Discordon T80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t80-fr.pdf'
               },
               {
                 name: 'Helios Mono 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-mono-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-mono-60-en.pdf'
               },
               {
                 name: 'Helios Duo 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-60-en.pdf'
               },
               {
                 name: 'Helios Duo 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-70-en.pdf'
               },
               {
                 name: 'Helios Duo 80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-80-en.pdf'
               },
               {
                 name: 'Helios Duo T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t80-en.pdf'
               },
               {
                 name: 'Helios Duo T90 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-duo-t90-en.pdf'
               },
               {
                 name: 'Helios Cracker 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-70-en.pdf'
               },
               {
                 name: 'Helios Cracker 80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-cracker-80-en.pdf'
               },
               {
                 name: 'Explor T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/explor-t70-en.pdf'
               },
               {
                 name: 'Explor T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/explor-t80-en.pdf'
               },
               {
                 name: 'Explor T90 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/explor-t90-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/explor-t90-en.pdf'
               },
               {
                 name: 'Discordon 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discordon-60-en.pdf'
               },
               {
                 name: 'Discordon T70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t70-en.pdf'
               },
               {
                 name: 'Discordon T80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discordon-t80-en.pdf'
               },
               {
                 name: 'Discordon [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discodent-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discodent-de.pdf'
               },
               {
                 name: 'Helios [DE]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/helios-heliplow-de.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/helios-heliplow-de.pdf'
               },
               {
                 name: 'Discordon [IT]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/discodent-it.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/discodent-it.pdf'
               },
               {
                 name: 'Helios [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/re-helios-duo-helikrak.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/re-helios-duo-helikrak.pdf'
               },
               {
                 name: 'Explor [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/re-explor-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/re-explor-ru.pdf'
               },
               {
                 name: 'Discordon [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/re-discordon-t70-t80-ru.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/re-discordon-t70-t80-ru.pdf'
               }
             ]
           },
@@ -1467,82 +1467,82 @@ export default {
               {
                 name: 'Tetra 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-50-fr.pdf'
               },
               {
                 name: 'Tetra 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-60-fr.pdf'
               },
               {
                 name: 'Tetra 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-70-fr.pdf'
               },
               {
                 name: 'Tetra 80 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-80-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-80-fr.pdf'
               },
               {
                 name: 'Planipack 50 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-50-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planipack-50-fr.pdf'
               },
               {
                 name: 'Planipack 60 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-fr.pdf'
               },
               {
                 name: 'Planipack 70 [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-fr.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-fr.pdf'
               },
               {
                 name: 'Tetra 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-50-en.pdf'
               },
               {
                 name: 'Tetra 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-60-en.pdf'
               },
               {
                 name: 'Tetra 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-70-en.pdf'
               },
               {
                 name: 'Tetra 80 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/tetra-80-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/tetra-80-en.pdf'
               },
               {
                 name: 'Planipack 50 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-50-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planipack-50-en.pdf'
               },
               {
                 name: 'Planipack 60 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planipack-60-en.pdf'
               },
               {
                 name: 'Planipack 70 [EN]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-en.pdf'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planipack-70-en.pdf'
               },
               {
                 name: 'Plani-serie [DE]',
                 link:
-                  'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_de.pdf'
+                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_de.pdf'
               },
               {
                 name: 'Plani-serie [ES]',
                 link:
-                  'http://marketing.cellar.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_es.pdf'
+                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/planiserie_es.pdf'
               }
             ]
           }
@@ -1558,72 +1558,72 @@ export default {
               {
                 name: 'Prima [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-prima.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-prima.mp4'
               },
               {
                 name: 'Rover [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-rover.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-rover.mp4'
               },
               {
                 name: 'Rover [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-rover-60.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-rover-60.mp4'
               },
               {
                 name: 'Voyager [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-voyager.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-voyager.mp4'
               },
               {
                 name: 'Voyager [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-voyager-s70.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-voyager-s70.mp4'
               },
               {
                 name: 'Explor [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-explor.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-explor.mp4'
               },
               {
                 name: 'Discordon [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-discordon.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-discordon.mp4'
               },
               {
                 name: 'Discordon [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-discordon-t70.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-discordon-t70.mp4'
               },
               {
                 name: 'Normandie [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-normandie.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-normandie.mp4'
               },
               {
                 name: 'Normandie [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-normandie-60.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-normandie-60.mp4'
               },
               {
                 name: 'Helios [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-helios.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-helios.mp4'
               },
               {
                 name: 'Helios [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-helios-cracker-70.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-helios-cracker-70.mp4'
               },
               {
                 name: 'Crossland [FR]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-crossland.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-crossland.mp4'
               },
               {
                 name: 'Cover [RU]',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-cover-x-t70.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-WalkAround/walkaround-ru-cover-x-t70.mp4'
               }
             ]
           },
@@ -1634,52 +1634,52 @@ export default {
               {
                 name: 'Prima',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-prima.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-prima.mp4'
               },
               {
                 name: 'Rover',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-rover.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-rover.mp4'
               },
               {
                 name: 'Voyager',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-voyager.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-voyager.mp4'
               },
               {
                 name: 'Explor',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-explor.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-explor.mp4'
               },
               {
                 name: 'Discordon',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-discordon.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-discordon.mp4'
               },
               {
                 name: 'Cover',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-cover.m4v'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-cover.m4v'
               },
               {
                 name: 'Normandie',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-normandie.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-normandie.mp4'
               },
               {
                 name: 'Helios',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-helios.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-helios.mp4'
               },
               {
                 name: 'Crossland',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-crossland.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-crossland.mp4'
               },
               {
                 name: 'Tetra',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-tetra.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/product-tetra.mp4'
               }
             ]
           },
@@ -1690,17 +1690,17 @@ export default {
               {
                 name: 'Prima',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/prima-thierry-gaec-la-vache-landaise.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/prima-thierry-gaec-la-vache-landaise.mp4'
               },
               {
                 name: 'Cover',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/cover-fabrice-gaec-roches-blanches.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/cover-fabrice-gaec-roches-blanches.mp4'
               },
               {
                 name: 'Crossland',
                 link:
-                  'https://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/crossland-cedric-cuma-isseenne.mp4'
+                  'https://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-CustomerTestimonials/crossland-cedric-cuma-isseenne.mp4'
               }
             ]
           },
@@ -1711,7 +1711,7 @@ export default {
               {
                 trad: 'videos_techno_1_name',
                 link:
-                  'http://marketing.cellar.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/crank-leg-tendille-deportee.mp4'
+                  'http://marketing.cellar-c2.services.clever-cloud.com/videos/gregoire-besson/Videos-Product/crank-leg-tendille-deportee.mp4'
               }
             ]
           }
@@ -1721,7 +1721,7 @@ export default {
         {
           title: 'Machines (IN) €',
           link:
-            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-in.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-in.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-220-in-img.jpg',
             label: 'Price list Gregoire Besson 2021 in euros, english version'
@@ -1730,7 +1730,7 @@ export default {
         {
           title: 'Machines (FR) €',
           link:
-            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-fr.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-fr.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-220-fr-img.jpg',
             label: 'Liste de prix Gregoire Besson 2021 en euros, version française'
@@ -1739,7 +1739,7 @@ export default {
         {
           title: 'Machines (DE) €',
           link:
-            'http://marketing.cellar.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-de.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2021-12-20-pricelist-gregoirebesson-de.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-220-de-img.jpg',
             label: 'Preisliste Gregoire Besson 2021 in Euro, deutsche Fassung'
@@ -1750,7 +1750,7 @@ export default {
         // {
         //   title: 'Français',
         //   link:
-        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-FR.pdf',
+        //     'https://marketing.cellar-c2.services.clever-cloud.com/poster/Poster-gamme-A3-wb-FR.pdf',
         //   image: {
         //     src: '/static/img/posters/gb.jpg',
         //     label: 'Poster de la gamme Gregoire Besson'
@@ -1759,7 +1759,7 @@ export default {
         // {
         //   title: 'Anglais',
         //   link:
-        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-EN.pdf',
+        //     'https://marketing.cellar-c2.services.clever-cloud.com/poster/Poster-gamme-A3-wb-EN.pdf',
         //   image: {
         //     src: '/static/img/posters/gb.jpg',
         //     label: 'Poster of the range Gregoire Besson'
@@ -1768,7 +1768,7 @@ export default {
         // {
         //   title: 'Italiano',
         //   link:
-        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-IT.pdf',
+        //     'https://marketing.cellar-c2.services.clever-cloud.com/poster/Poster-gamme-A3-wb-IT.pdf',
         //   image: {
         //     src: '/static/img/posters/gb.jpg',
         //     label: 'Poster de la gamme Gregoire Besson'
@@ -1777,7 +1777,7 @@ export default {
         // {
         //   title: 'русский',
         //   link:
-        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-RU.pdf',
+        //     'https://marketing.cellar-c2.services.clever-cloud.com/poster/Poster-gamme-A3-wb-RU.pdf',
         //   image: {
         //     src: '/static/img/posters/gb.jpg',
         //     label: 'Poster de la gamme Gregoire Besson русский'
@@ -1786,7 +1786,7 @@ export default {
         // {
         //   title: 'український',
         //   link:
-        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-UA.pdf',
+        //     'https://marketing.cellar-c2.services.clever-cloud.com/poster/Poster-gamme-A3-wb-UA.pdf',
         //   image: {
         //     src: '/static/img/posters/gb.jpg',
         //     label: 'Poster de la gamme Gregoire Besson український'
@@ -1795,7 +1795,7 @@ export default {
         // {
         //   title: 'Deutsch',
         //   link:
-        //     'https://marketing.cellar.services.clever-cloud.com/poster/Poster-gamme-A3-wb-DE.pdf',
+        //     'https://marketing.cellar-c2.services.clever-cloud.com/poster/Poster-gamme-A3-wb-DE.pdf',
         //   image: {
         //     src: '/static/img/posters/gb.jpg',
         //     label: 'Poster de la gamme Gregoire Besson Deutsch'

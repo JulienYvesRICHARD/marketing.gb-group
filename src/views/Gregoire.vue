@@ -21,7 +21,6 @@
     <LogoVue :logos="logos"></LogoVue>
     <BrandingVue :brandings="brandings"></BrandingVue>
     <RangeNameVue :range="brandings_range"></RangeNameVue>
-    <IntroOutroVue :introOutros="introOutros"></IntroOutroVue>
     <FooterVue></FooterVue>
   </div>
 </template>

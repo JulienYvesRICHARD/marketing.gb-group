@@ -36,7 +36,6 @@ import PostersVue from '@/components/Layout/Poster.vue';
 import LogoVue from '@/components/Layout/Logos.vue';
 import BrandingVue from '@/components/Layout/Branding.vue';
 import RangeNameVue from '@/components/Layout/Range_name.vue';
-import IntroOutroVue from '@/components/Layout/Intro-Outro.vue';
 import FooterVue from '@/components/Footer.vue';
 
 export default {

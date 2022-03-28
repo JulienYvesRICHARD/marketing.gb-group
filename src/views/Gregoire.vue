@@ -7,7 +7,7 @@
           <h1>{{ $t('main_title') }}</h1>
           <p class="lead">
             {{ $t('main_description')
-            }}<a href="mailto:webmaster@gb-group.co">webmaster@gb-group.co</a>.
+            }}<a href="mailto:france.marketing@gb-group.co">france.marketing@gb-group.co</a>.
           </p>
         </div>
       </div>

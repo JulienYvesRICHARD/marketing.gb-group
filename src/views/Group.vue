@@ -22,8 +22,6 @@
       <br />
       <LogoVue :logos="logos"></LogoVue>
       <BrandingVue :brandings="brandings"></BrandingVue>
-      <SoundVue :sound="sound"></SoundVue>
-      <IntroOutroVue :introOutros="introOutros"></IntroOutroVue>
       <LinksVue :socials="socials"></LinksVue>
       <SubsidiariesVue :subsidiaries="subsidiaries"></SubsidiariesVue>
       <PressVue :pressReleases="pressReleases"></PressVue>

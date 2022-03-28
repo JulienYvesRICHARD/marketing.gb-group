@@ -1786,7 +1786,6 @@ export default {
     LogoVue,
     BrandingVue,
     RangeNameVue,
-    IntroOutroVue,
     LeafletsVue,
     VideosVue,
     LinksVue,

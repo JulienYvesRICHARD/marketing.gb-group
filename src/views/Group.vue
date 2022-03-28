@@ -123,41 +123,6 @@ export default {
         text: "branding_font_text",
         download: "branding_font_download"
       },
-      sound: {
-        title1: "AudioDNA",
-        link1:
-          "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/399968445&amp;color=%233b3b3c&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=false",
-        title2: "MP3",
-        subtitle2: "256kpbs.mp3",
-        link2: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-256kpbs.mp3",
-        title3: "WAV",
-        subtitle3_1: "CCIT-LOI-A.wav",
-        link3_1: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-CCITT-Loi-A.wav",
-        subtitle3_2: "CCITT-uLaw.wav",
-        link3_2: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-CCITT-uLaw.wav",
-        subtitle3_3: "GSM-6-10.wav",
-        link3_3: "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-GSM-6-10.wav",
-        subtitle3_4: "PCM-8kHz-8b-mono.wav",
-        link3_4:
-          "http://marketing.cellar-c2.services.clever-cloud.com/sound/gbgroup-PCM-8kHz-8b-mono.wav",
-        subtitle3_5: "PCM-8kHz-16b-mono.wav",
-        link3_5:
-          "http://marketing.cellar.services.clever-cloud.com/sound/gbgroup-PCM-8kHz-16b-mono.wav"
-      },
-      introOutros: [
-        {
-          title: "video_intro_title",
-          link_youtube: "https://www.youtube.com/embed/x4LoyFZWMZU?rel=0&amp;showinfo=0",
-          link_mp4: "https://marketing.gb-group.co/static/videos/gb-group-intro.mp4",
-          link_mov: "https://marketing.gb-group.co/static/videos/gb-group-intro.mov"
-        },
-        {
-          title: "video_outro_title",
-          link_youtube: "https://www.youtube.com/embed/7Ot2YHjemUA?rel=0&amp;showinfo=0",
-          link_mp4: "https://marketing.gb-group.co/videoss/gb-group-outro.mp4",
-          link_mov: "https://marketing.gb-group.co/static/videos/gb-group-outro.mov"
-        }
-      ],
       socials: [
         {
           title: "links_group_website_title",

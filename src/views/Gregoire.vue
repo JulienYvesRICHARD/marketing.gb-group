@@ -553,8 +553,6 @@ export default {
       introOutros: [
         {
           title: 'video_intro_title',
-          link_youtube:
-            'https://www.youtube.com/embed/UTUIye8nFKk?rel=0&amp;showinfo=0',
           link_mp4:
             'https://marketing.gb-group.co/static/videos/gregoire-besson-intro.mp4',
           link_mov:

@@ -560,8 +560,6 @@ export default {
         },
         {
           title: 'video_outro_title',
-          link_youtube:
-            'https://www.youtube.com/embed/pMXXboa1h6I?rel=0&amp;showinfo=0',
           link_mp4:
             'https://marketing.gb-group.co/static/videos/gregoire-besson-outro.mp4',
           link_mov:

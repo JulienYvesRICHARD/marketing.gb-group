@@ -22,7 +22,6 @@
       <br />
       <LogoVue :logos="logos"></LogoVue>
       <BrandingVue :brandings="brandings"></BrandingVue>
-      <IntroOutroVue :introOutros="introOutros"></IntroOutroVue>
       <LinksVue :socials="socials"></LinksVue>
     </div>
     <FooterVue></FooterVue>
@@ -33,7 +32,6 @@
 // @ is an alias to /src
 import LogoVue from "@/components/Layout/Logos.vue";
 import BrandingVue from "@/components/Layout/Branding.vue";
-import IntroOutroVue from "@/components/Layout/Intro-Outro.vue";
 import LinksVue from "@/components/Layout/Links.vue";
 import FooterVue from "@/components/Footer.vue";
 
@@ -111,20 +109,6 @@ export default {
         text: "branding_font_text",
         download: "branding_font_download"
       },
-      introOutros: [
-        {
-          title: "video_intro_title",
-          link_youtube: "https://www.youtube.com/embed/dThppLstL-0?rel=0&amp;showinfo=0",
-          link_mp4: "https://marketing.gb-group.co/static/videos/agriway-intro.mp4",
-          link_mov: "https://marketing.gb-group.co/static/videos/agriway-intro.mov"
-        },
-        {
-          title: "video_outro_title",
-          link_youtube: "https://www.youtube.com/embed/fKP9viHB238?rel=0&amp;showinfo=0",
-          link_mp4: "https://marketing.gb-group.co/static/videos/agriway-outro.mp4",
-          link_mov: "https://marketing.gb-group.co/static/videos/agriway-outro.mov"
-        }
-      ],
       socials: [
         {
           title: "links_agriway_website_title",
@@ -141,7 +125,6 @@ export default {
   components: {
     LogoVue,
     BrandingVue,
-    IntroOutroVue,
     LinksVue,
     FooterVue
   }

@@ -26,7 +26,7 @@
         <a
           class="btn text-center"
           :class="logos.class"
-          href="http://marketing.cellar.services.clever-cloud.com/Legal_information/GB_Group_-_Brands_Use_EN_-_Google_Docs.pdf"
+          href="http://marketing.cellar-c2.services.clever-cloud.com/Legal_information/GB_Group_-_Brands_Use_EN_-_Google_Docs.pdf"
           target="_blank"
           >{{ $t("logo_download_en") }}</a
         >
@@ -35,7 +35,7 @@
         <a
           class="btn text-center"
           :class="logos.class"
-          href="http://marketing.cellar.services.clever-cloud.com/Legal_information/GB_Group_-_Brands_Use_-_Google_Docs.pdf"
+          href="http://marketing.cellar-c2.services.clever-cloud.com/Legal_information/GB_Group_-_Brands_Use_-_Google_Docs.pdf"
           target="_blank"
           >{{ $t("logo_download_fr") }}</a
         >
@@ -44,7 +44,7 @@
         <a
           class="btn text-center"
           :class="logos.class"
-          href="http://marketing.cellar.services.clever-cloud.com/Legal_information/GB_Group_-_Brands_Use_DE_-_Google_Docs.pdf"
+          href="http://marketing.cellar-c2.services.clever-cloud.com/Legal_information/GB_Group_-_Brands_Use_DE_-_Google_Docs.pdf"
           target="_blank"
           >{{ $t("logo_download_de") }}</a
         >

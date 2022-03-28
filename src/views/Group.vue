@@ -37,8 +37,6 @@
 // @ is an alias to /src
 import LogoVue from '@/components/Layout/Logos.vue'
 import BrandingVue from '@/components/Layout/Branding.vue'
-import SoundVue from '@/components/Layout/Sound.vue'
-import IntroOutroVue from '@/components/Layout/Intro-Outro.vue'
 import LinksVue from '@/components/Layout/Links.vue'
 import SubsidiariesVue from '@/components/Layout/Subsidiaries.vue'
 import PressVue from '@/components/Layout/Press.vue'

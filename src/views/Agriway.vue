@@ -110,20 +110,6 @@ export default {
         name3: "branding_font_title",
         text: "branding_font_text",
         download: "branding_font_download"
-      },
-      introOutros: [
-        {
-          title: "video_intro_title",
-          link_youtube: "https://www.youtube.com/embed/dThppLstL-0?rel=0&amp;showinfo=0",
-          link_mp4: "https://marketing.gb-group.co/static/videos/agriway-intro.mp4",
-          link_mov: "https://marketing.gb-group.co/static/videos/agriway-intro.mov"
-        },
-        {
-          title: "video_outro_title",
-          link_youtube: "https://www.youtube.com/embed/fKP9viHB238?rel=0&amp;showinfo=0",
-          link_mp4: "https://marketing.gb-group.co/static/videos/agriway-outro.mp4",
-          link_mov: "https://marketing.gb-group.co/static/videos/agriway-outro.mov"
-        }
       ],
       socials: [
         {

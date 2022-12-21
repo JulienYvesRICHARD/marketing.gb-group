@@ -1699,7 +1699,7 @@ export default {
         {
           title: 'Machines (IN) €',
           link:
-            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2022-11-28-pricelist-gregoirebesson-in.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2022-12-21-pricelist-gregoirebesson-in.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-230-in-img.jpg',
             label: 'Price list Gregoire Besson 2022 in euros, english version'

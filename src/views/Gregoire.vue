@@ -690,7 +690,7 @@ export default {
           {
             key: 'element2',
             subtitle: 'stubble_cultivation_title',
-            icon: 'static/img/icons/stubble_cultivation_picto.png',
+            icon: 'static/img/icons/stubble_cultivation_picto_01.png',
             blocks: [
               {
                 name: 'Déchaumage 40 / 50 [FR]',
@@ -758,7 +758,7 @@ export default {
           {
             key: 'element4',
             subtitle: 'soil_preparation_title',
-            icon: 'static/img/icons/seed_bed_preparation_picto.png',
+            icon: 'static/img/icons/seed_bed_preparation_picto_01.png',
             blocks: [
               {
                 name: 'Prépa. de sol 40 / 50 [FR]',

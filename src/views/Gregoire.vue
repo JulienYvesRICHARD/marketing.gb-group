@@ -700,7 +700,7 @@ export default {
               {
                 name: 'Déchaumage 60 / 70 [FR]',
                 link:
-                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-dechaumage-60-70-fr.pdf'
+                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-14-dechaumage-60-70-fr.pdf'
               },
               {
                 name: 'Déchaumage 80 / 90 [FR]',
@@ -968,7 +968,7 @@ export default {
           {
                 name: 'Nevos 60 [FR]',
                 link:
-                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-06-nevos-60-fr.pdf'
+                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-14-nevos-60-fr.pdf'
               },
               {
                 name: 'Dekoflex 60 [FR]',

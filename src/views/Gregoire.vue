@@ -1712,7 +1712,7 @@ export default {
         {
           title: 'Machines (IT) €',
           link:
-            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-05-03-pricelist-parts-gregoirebesson-it.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-05-09-pricelist-parts-gregoirebesson-it.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-231-it-img.jpg',
             label: 'Listino prezzi Gregoire Besson 2022 in euro, versione italiana'

@@ -966,6 +966,11 @@ export default {
             subtitle: 'stubble_cultivation_title',
             blocks: [
           {
+                name: 'Epona [FR]',
+                link:
+                  'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-03-30-epona-fr.pdf'
+              },
+              {
                 name: 'Nevos 60 [FR]',
                 link:
                   'http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-14-nevos-60-fr.pdf'

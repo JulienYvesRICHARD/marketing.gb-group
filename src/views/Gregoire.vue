@@ -1699,7 +1699,7 @@ export default {
         {
           title: 'Machines (IN) €',
           link:
-            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-10-31-pricelist-gregoirebesson-in.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-11-28-pricelist-gregoirebesson-in.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-240-in-img.jpg',
             label: 'Price list Gregoire Besson 2023 in euros, english version'
@@ -1708,7 +1708,7 @@ export default {
         {
           title: 'Machines (FR) €',
           link:
-            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-10-10-pricelist-gregoirebesson-fr.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-11-28-pricelist-gregoirebesson-fr.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-240-fr-img.jpg',
             label: 'Liste de prix Gregoire Besson 2023 en euros, version française'
@@ -1717,7 +1717,7 @@ export default {
         {
           title: 'Machines (IT) €',
           link:
-            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-11-13-pricelist-gregoirebesson-it.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-11-28-pricelist-gregoirebesson-it.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-240-it-img.jpg',
             label: 'Listino prezzi Gregoire Besson 2023 in euro, versione italiana'
@@ -1726,7 +1726,7 @@ export default {
         {
           title: 'Machines (DE) €',
           link:
-            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-10-31-pricelist-gregoirebesson-de.pdf',
+            'http://marketing.cellar-c2.services.clever-cloud.com/pricelists/gregoire-besson/2023-11-28-pricelist-gregoirebesson-de.pdf',
           image: {
             src: '/static/img/pricelists/gb-pricelist-240-de-img.jpg',
             label: 'Preisliste Gregoire Besson 2023 in Euro, deutsche Fassung'

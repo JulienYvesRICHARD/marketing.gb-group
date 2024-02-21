@@ -1,0 +1,118 @@
+{
+  "id": "newleaflet",
+  "title": "leaflets_title_new",
+  "item": [
+    {
+      "key": "element1",
+      "subtitle": "ploughing_title",
+      "icon": "static/img/icons/plough_picto.png",
+      "blocks": [
+        {
+          "name": "Labour 40 / 50 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-labour-40-50-fr.pdf"
+        },
+        {
+          "name": "Labour 60 / 70 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-labour-60-70-fr.pdf"
+        },
+        {
+          "name": "Labour 80 / 90 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-labour-80-90-fr.pdf"
+        },
+        {},
+        {
+          "name": "Ploughing 40 / 50 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-ploughing-40-50-en.pdf"
+        },
+        {
+          "name": "Ploughing 60 / 70 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-ploughing-60-70-en.pdf"
+        },
+        {
+          "name": "Ploughing 80 / 90 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-ploughing-80-90-en.pdf"
+        }
+      ]
+    },
+    {
+      "key": "element2",
+      "subtitle": "stubble_cultivation_title",
+      "icon": "static/img/icons/stubble_cultivation_picto_01.png",
+      "blocks": [
+        {
+          "name": "Déchaumage 40 / 50 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-dechaumage-40-50-fr.pdf"
+        },
+        {
+          "name": "Déchaumage 60 / 70 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-14-dechaumage-60-70-fr.pdf"
+        },
+        {
+          "name": "Déchaumage 80 / 90 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-dechaumage-80-90-fr.pdf"
+        },
+        {},
+        {
+          "name": "Stubble cultivat. 40 / 50 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-06-stubble-cultivation-40-50-en.pdf"
+        },
+        {
+          "name": "Stubble cultivat. 60 / 70 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-06-stubble-cultivation-60-70-en.pdf"
+        },
+        {
+          "name": "Stubble cultivat. 80 / 90 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-06-stubble-cultivation-80-90-en.pdf"
+        }
+      ]
+    },
+    {
+      "key": "element3",
+      "subtitle": "restructuring_title",
+      "icon": "static/img/icons/restructuration_picto.png",
+      "blocks": [
+        {
+          "name": "Restructuration 60 / 70 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-restructuration-60-70-fr.pdf"
+        },
+        {
+          "name": "Restructuration 80 / 90 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-restructuration-80-90-fr.pdf"
+        },
+        {},
+        {
+          "name": "Restructuring 60 / 70 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-restructuring-60-70-en.pdf"
+        },
+        {
+          "name": "Restructuring 80 / 90 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-restructuring-80-90-en.pdf"
+        }
+      ]
+    },
+    {
+      "key": "element4",
+      "subtitle": "soil_preparation_title",
+      "icon": "static/img/icons/seed_bed_preparation_picto_01.png",
+      "blocks": [
+        {
+          "name": "Prépa. de sol 40 / 50 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-40-50-preparation-de-sol-fr.pdf"
+        },
+        {
+          "name": "Prépa. de sol 60 / 70 [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-60-70-preparation-de-sol-fr.pdf"
+        },
+        {},
+        {
+          "name": "Soil preparation 40 / 50 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-soil-preparation-40-50-en.pdf"
+        },
+        {
+          "name": "Soil preparation 60 / 70 [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/2023-02-02-soil-preparation-60-70-en.pdf"
+        }
+      ]
+    }
+  ]
+}

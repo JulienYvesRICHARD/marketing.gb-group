@@ -30,8 +30,11 @@ h2 {
 .lead {
   font-weight: 200;
 }
-.navbar-dark {
-  background-color: #3c3c3b !important;
+.navbar-red {
+  background-color: #E2001A !important;
+}
+.dropdown-toggle {
+  color: white !important;
 }
 .palette {
   width: 100%;

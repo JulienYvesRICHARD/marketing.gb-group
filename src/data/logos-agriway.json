@@ -1,0 +1,48 @@
+{
+  "item": [
+    {
+      "name": "logo_white_on_color",
+      "image": {
+        "src": "/static/img/logos/logo-agriway-white-oncolor.png",
+        "label": "logo Agriway, couleur sur fon blanc"
+      },
+      "jpg": "/static/img/logos/logo-agriway-white-oncolor.jpg",
+      "png": "/static/img/logos/logo-agriway-white-oncolor.png",
+      "eps": "/static/img/logos/logo-agriway-white-oncolor.eps",
+      "svg": "/static/img/logos/logo-agriway-white-oncolor.svg"
+    },
+    {
+      "name": "logo_color_on_white",
+      "image": {
+        "src": "/static/img/logos/logo-agriway-color-onwhite.png",
+        "label": "logo Agriway, color on white"
+      },
+      "jpg": "/static/img/logos/logo-agriway-color-onwhite.jpg",
+      "png": "/static/img/logos/logo-agriway-color-onwhite.png",
+      "eps": "/static/img/logos/logo-agriway-color-onwhite.eps",
+      "svg": "/static/img/logos/logo-agriway-color-onwhite.svg"
+    },
+    {
+      "name": "logo_white_on_transparent",
+      "image": {
+        "src": "/static/img/logos/logo-agriway-white-ontranspbg.png",
+        "label": "logo Agriway, white on transparent"
+      },
+      "png": "/static/img/logos/logo-agriway-white-ontranspbg.png",
+      "eps": "/static/img/logos/logo-agriway-white-ontranspbg.eps",
+      "svg": "/static/img/logos/logo-agriway-white-ontranspbg.svg"
+    },
+    {
+      "name": "logo_white_on_black",
+      "image": {
+        "src": "/static/img/logos/logo-agriway-white-onblack.png",
+        "label": "logo Agriway, white on black"
+      },
+      "jpg": "/static/img/logos/logo-agriway-white-onblack.jpg",
+      "png": "/static/img/logos/logo-agriway-white-onblack.png",
+      "eps": "/static/img/logos/logo-agriway-white-onblack.eps",
+      "svg": "/static/img/logos/logo-agriway-white-onblack.svg"
+    }
+  ],
+  "class": "btn-Agriway"
+}

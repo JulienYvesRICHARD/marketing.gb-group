@@ -1,0 +1,49 @@
+{
+  "brand": "gregoire-besson",
+  "item": [
+    {
+      "title": "photo_prima_title",
+      "range": "prima"
+    },
+    {
+      "title": "photo_rover_title",
+      "range": "rover"
+    },
+    {
+      "title": "photo_voyager_title",
+      "range": "voyager"
+    },
+    {
+      "title": "photo_explor_title",
+      "range": "explor"
+    },
+    {
+      "title": "photo_discordon_title",
+      "range": "discordon"
+    },
+    {
+      "title": "photo_cover_title",
+      "range": "cover"
+    },
+    {
+      "title": "photo_normandie_title",
+      "range": "normandie"
+    },
+    {
+      "title": "photo_occitan_title",
+      "range": "occitan"
+    },
+    {
+      "title": "photo_helios_title",
+      "range": "helios"
+    },
+    {
+      "title": "photo_crossland_title",
+      "range": "crossland"
+    },
+    {
+      "title": "photo_tetra_title",
+      "range": "tetra"
+    }
+  ]
+}

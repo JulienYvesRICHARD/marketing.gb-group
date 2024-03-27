@@ -5,250 +5,81 @@
         <div class="col">
           <a class="anchor" name="logo" id="main"></a>
           <h1>{{ $t("main_title") }}</h1>
-          <p class="lead">
-            {{ $t("main_description")
-            }}<a href="mailto:france.marketing@gb-group.co">france.marketing@gb-group.co</a>.
-          </p>
         </div>
       </div>
-      <br />
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <h2>GB Group</h2>
-          </div>
-        </div>
-      </div>
-      <br />
-      <LogoVue :logos="logos"></LogoVue>
-      <BrandingVue :brandings="brandings"></BrandingVue>
-      <LinksVue :socials="socials"></LinksVue>
-      <SubsidiariesVue :subsidiaries="subsidiaries"></SubsidiariesVue>
+
+      <PhotoVue :photos="photosGB"></PhotoVue>
+      <LeafletsVue :leaflets="leafletModelsGB"></LeafletsVue>
+      <LeafletsVue :leaflets="leafletRangesGB"></LeafletsVue>
+      <PricesVue :prices="pricesGB"></PricesVue>
+      <LogoVue :logos="logosGB"></LogoVue>
+      <PhotoVue v-if="photosAgriway.length > 0" :photos="photosAgriway"></PhotoVue>
+      <LeafletsVue v-if="leafletModelsAgriway['item'] && leafletModelsAgriway.length > 0"
+        :leaflets="leafletModelsAgriway"></LeafletsVue>
+      <LeafletsVue v-if="leafletRangesAgriway['item'] && leafletRangesAgriway.length > 0"
+        :leaflets="leafletRangesAgriway"></LeafletsVue>
+      <PricesVue v-if="pricesAgriway.length > 0" :prices="pricesAgriway"></PricesVue>
+      <LogoVue v-if="logosAgriway['item'] && logosAgriway['item'].length > 0" :logos="logosAgriway"></LogoVue>
+
+      <p class="lead">
+        {{ $t("main_description")
+        }}<a href="mailto:france.marketing@gb-group.co">france.marketing@gb-group.co</a>.
+      </p>
     </div>
-    <FooterVue></FooterVue>
+    <FooterVue />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
+import PhotoVue from '@/components/Layout/Photo.vue'
 import LogoVue from '@/components/Layout/Logos.vue'
-import BrandingVue from '@/components/Layout/Branding.vue'
-import LinksVue from '@/components/Layout/Links.vue'
-import SubsidiariesVue from '@/components/Layout/Subsidiaries.vue'
 import FooterVue from '@/components/Footer.vue'
+import LeafletsVue from '@/components/Layout/Leaflets.vue'
+import PricesVue from '@/components/Layout/Price.vue'
+
+// Gregoire Besson related datas
+import photosGB from '@/data/photos-gb.json'
+import leafletModelsGB from '@/data/leaflet-models-gb.json'
+import leafletRangesGB from '@/data/leaflet-ranges-gb.json'
+import pricesGB from '@/data/prices-gb.json'
+import logosGB from '@/data/logos-gb.json'
+
+// Agriway related datas
+import photosAgriway from '@/data/photos-agriway.json'
+import leafletModelsAgriway from '@/data/leaflet-models-agriway.json'
+import leafletRangesAgriway from '@/data/leaflet-ranges-agriway.json'
+import pricesAgriway from '@/data/prices-agriway.json'
+import logosAgriway from '@/data/logos-agriway.json'
 
 export default {
   name: "home",
   data() {
     return {
-      logos: {
-        item: [
-          {
-            name: "logo_gradient_description",
-            image: {
-              src: "/static/img/logos/logo-gb-group-gradient-oncolor.jpg",
-              label: "logo GB Group, gradient"
-            },
-            jpg: "/static/img/logos/logo-gb-group-gradient-oncolor.jpg",
-            png: "/static/img/logos/logo-gb-group-gradient-oncolor.png",
-            eps: "/static/img/logos/logo-gb-group-gradient-oncolor.eps",
-            svg: "/static/img/logos/logo-gb-group-gradient-oncolor.svg"
-          },
-          {
-            name: "logo_color_on_white",
-            image: {
-              src: "/static/img/logos/logo-gb-group-color-onwhite.jpg",
-              label: "logo GB Group, color on white"
-            },
-            jpg: "/static/img/logos/logo-gb-group-color-onwhite.jpg",
-            png: "/static/img/logos/logo-gb-group-color-onwhite.png",
-            eps: "/static/img/logos/logo-gb-group-color-onwhite.eps",
-            svg: "/static/img/logos/logo-gb-group-color-onwhite.svg"
-          },
-          {
-            name: "logo_white_on_transparent",
-            image: {
-              src: "/static/img/logos/logo-gb-group-white-ontranspbg.jpg",
-              label: "logo GB Group, white on transparent"
-            },
-            png: "/static/img/logos/logo-gb-group-white-ontranspbg.png",
-            eps: "/static/img/logos/logo-gb-group-white-ontranspbg.eps",
-            svg: "/static/img/logos/logo-gb-group-white-ontranspbg.svg"
-          },
-          {
-            name: "logo_white_on_black",
-            image: {
-              src: "/static/img/logos/logo-gb-group-white-onblack.jpg",
-              label: "logo GB Group, white on black"
-            },
-            jpg: "/static/img/logos/logo-gb-group-white-onblack.jpg",
-            png: "/static/img/logos/logo-gb-group-white-onblack.png",
-            eps: "/static/img/logos/logo-gb-group-white-onblack.eps",
-            svg: "/static/img/logos/logo-gb-group-white-onblack.svg"
-          }
-        ],
-        class: "btn-GB"
-      },
-      brandings: {
-        name1: "branding_color_title",
-        palette: "pal-3C3C3B",
-        hex: "#3C3C3B",
-        rgb: "60 60 59",
-        cmyk: "0 0 2 76",
-        ral: "6015",
-        pantone: "Black 7 C",
-        name2: "branding_spelling_title",
-        brandname: "GB Group",
-        item: [
-          { name: "Groupe GB" },
-          { name: "GB Groupe" },
-          { name: "GB GROUP" },
-          { name: "gb group" },
-          { name: "gbGroup" },
-          { name: "Gruppe GB" }
-        ],
-        name3: "branding_font_title",
-        text: "branding_font_text",
-        download: "branding_font_download"
-      },
-      socials: [
-        {
-          title: "links_group_website_title",
-          link: "https://gb-group.co",
-          image: {
-            src: "/static/img/screen-captures/gb-group-co.png",
-            label: "Website GB Group"
-          },
-          description: "links_group_website_description"
-        },
-        {
-          title: "links_group_twitter_title",
-          link: "https://twitter.com/gbgroup_/",
-          image: {
-            src: "/static/img/screen-captures/twitter-gbgroup.png",
-            label: "Twitter GB Group"
-          },
-          description: "links_group_twitter_description"
-        }
-      ],
-      subsidiaries: [
-        {
-          name: "GB Group France",
-          street: "Rue Victor Gregoire",
-          city: "49230 Montigné Montfaucon",
-          country: "France",
-          phone: "+33 (0)2 41 64 72 67",
-          gpscoordinate: "47.084429, -1.135755",
-          image: {
-            src: "/static/img/teams/gb-group-france-600.jpg",
-            label: "Machine de travail du sol Equipe commercial France"
-          },
-          googlemaps: "rue+Victor+Gregoire,49230+Montigne+Montfaucon,France"
-        },
-        {
-          name: "GB Group Italy",
-          street: "Via dell’industria, 9–9/A–9/B",
-          city: "Monte Roberto (AN)",
-          country: "Italia",
-          phone: "+39 0731 375970",
-          gpscoordinate: "43.482243, 13.182024",
-          image: {
-            src: "/static/img/teams/gb-group-italy-600.jpg",
-            label: "Soil preparation Salesman Team in Italy"
-          },
-          googlemaps: "Via+dell’industria+9,Monte+Roberto,Ancona,Italia"
-        },
-        {
-          name: "GB Group Canada",
-          street: "4480, Rue Martineau",
-          city: "St Hyacinthe (P. Québec) - J2R 1V1",
-          country: "Canada",
-          phone: "+1 450-799-5615",
-          gpscoordinate: "45.652349, -72.945034",
-          image: {
-            src: "/static/img/teams/gb-group-canada-600.jpg",
-            label: "Soil preparation Salesman Team in Canada"
-          },
-          googlemaps: "4480+Rue+Martineau,Saint-Hyacinthe,QC+J2R,Canada"
-        },
-        {
-          name: "GB Group Poland",
-          street: "Kowanówko ul.",
-          city: "Obornicka 1A 64-600 Oborniki",
-          country: "Polska",
-          phone: "+48 61 297 75 30",
-          gpscoordinate: "52.667903, 16.846662",
-          image: {
-            src: "/static/img/teams/gb-group-poland-600.jpg",
-            label: "Soil preparation Salesman Team in Poland"
-          },
-          googlemaps: "Kowanówko+ul.,Obornicka+1a,64-600+Oborniki,Polska"
-        },
-        {
-          name: "GB Group Eastern Europe",
-          country: "Hungary",
-          country_covered:
-            "Hungary, Slovakia, Check Republic, Slovenia, Croatia, Serbia, Romania, Bulgaria.",
-          phone: "+36 30 373 9167",
-          gpscoordinate: "47.520283, 21.633754",
-          image: {
-            src: "/static/img/teams/gb-group-eastern-europe-600.jpg",
-            label: " Soil preparationSaleman in Eastern Europe"
-          },
-          googlemaps: "Debrecen,+Híd+u.+4,+4030+Hongrie"
-        },
-        {
-          name: "GB Group Vostok",
-          street: "308006, г.Белгород",
-          city: " ул. Корочанская 132 А,",
-          country: "Russia",
-          phone: "+7 472 240-22-10",
-          gpscoordinate: "50.590156, 36.627327",
-          image: {
-            src: "/static/img/teams/gb-group-vostok-600.jpg",
-            label: "Soil preparation Salesman team in Russia"
-          },
-          googlemaps: "Korochanskaya+Ulitsa,132А,Belgorod,Belgorodskaya+oblast,Russia,308006"
-        },
-        {
-          name: "GB Group Ukraine",
-          street: "18028, Україна, Черкаська обл., м. Черкаси, вул.",
-          city: "Самійла Кішки, буд. 202.",
-          country: "Ukraine",
-          phone: "+38 0472 712 823",
-          gpscoordinate: "49.415296, 32.058639",
-          image: {
-            src: "/static/img/teams/gb-group-ukraine-600.jpg",
-            label: "Soil preparation Salesman team in Ukraine"
-          },
-          googlemaps:
-            "18028,Україна,Черкаська+обл.,м.+Черкаси,+вул.+Рози,Люксембург,буд+202,Ukraine"
-        },
-        {
-          name: "GB Group China",
-          street: "法国格力格尔-贝松公司 北京代表处",
-          city: "静里中街3号长信大厦220室",
-          country: "China",
-          phone: "+86 1065 08 06 40",
-          gpscoordinate: "39.915814, 116.485848",
-          image: {
-            src: "/static/img/teams/gb-group-china-600.jpg",
-            label: "Soil preparation Salesman team in China"
-          },
-          googlemaps:
-            "%E6%B3%95%E5%9B%BD%E6%A0%BC%E5%8A%9B%E6%A0%BC%E5%B0%94-%E8%B4%9D%E6%9D%BE%E5%85%AC%E5%8F%B8+%E5%8C%97%E4%BA%AC%E4%BB%A3%E8%A1%A8%E5%A4%84++%E9%9D%99%E9%87%8C%E4%B8%AD%E8%A1%973%E5%8F%B7%E9%95%BF%E4%BF%A1%E5%A4%A7%E5%8E%A6220%E5%AE%A4++China"
-        }
-      ],
+      photosGB,
+      leafletModelsGB,
+      leafletRangesGB,
+      pricesGB,
+      logosGB,
+      photosAgriway,
+      leafletModelsAgriway,
+      leafletRangesAgriway,
+      pricesAgriway,
+      logosAgriway
     };
   },
   components: {
+    PhotoVue,
+    LeafletsVue,
+    PricesVue,
     LogoVue,
-    BrandingVue,
-    LinksVue,
-    SubsidiariesVue,
     FooterVue
   }
 };
 </script>
 
-<style></style>
+<style>
+.lead {
+  margin: 50px 0 !important;
+}
+</style>

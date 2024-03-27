@@ -1,0 +1,49 @@
+{
+  "item": [
+    {
+      "name": "logo_white_on_color",
+      "image": {
+        "src": "/static/img/logos/logo-gregoire-besson-white-oncolor.png",
+        "label": "Travail du sol logo Gregoire Besson, gradient"
+      },
+      "jpg": "/static/img/logos/logo-gregoire-besson-white-oncolor.jpg",
+      "png": "/static/img/logos/logo-gregoire-besson-white-oncolor.png",
+      "eps": "/static/img/logos/logo-gregoire-besson-white-oncolor.eps",
+      "svg": "/static/img/logos/logo-gregoire-besson-white-oncolor.svg"
+    },
+    {
+      "name": "logo_color_on_white",
+      "image": {
+        "src": "/static/img/logos/logo-gregoire-besson-color-onwhite.png",
+        "label": "Travail du sol logo Gregoire Besson, color on white"
+      },
+      "jpg": "/static/img/logos/logo-gregoire-besson-color-onwhite.jpg",
+      "png": "/static/img/logos/logo-gregoire-besson-color-onwhite.png",
+      "eps": "/static/img/logos/logo-gregoire-besson-color-onwhite.eps",
+      "svg": "/static/img/logos/logo-gregoire-besson-color-onwhite.svg"
+    },
+    {
+      "name": "logo_white_on_transparent",
+      "image": {
+        "src": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.png",
+        "label": "Travail du sol logo Gregoire Besson, white on transparent"
+      },
+      "png": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.png",
+      "eps": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.eps",
+      "svg": "/static/img/logos/logo-gregoire-besson-white-ontranspbg.svg"
+    },
+    {
+      "name": "logo_white_on_black",
+      "image": {
+        "src": "/static/img/logos/logo-gregoire-besson-white-onblack.png",
+        "label": "Travail du sol logo Gregoire Besson, white on black"
+      },
+      "jpg": "/static/img/logos/logo-gregoire-besson-white-onblack.jpg",
+      "png": "/static/img/logos/logo-gregoire-besson-white-onblack.png",
+      "eps": "/static/img/logos/logo-gregoire-besson-white-onblack.eps",
+      "svg": "/static/img/logos/logo-gregoire-besson-white-onblack.svg"
+    }
+  ],
+  "href": "/static/img/old-logos-gregoire-besson.zip",
+  "class": "btn-Gregoire"
+}

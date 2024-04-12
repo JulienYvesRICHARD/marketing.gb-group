@@ -287,20 +287,6 @@ a.anchor {
     border: 1px solid #3c3c3b;
     color: #3c3c3b;
   }
-
-  .cookies {
-    padding: 15px 50px;
-    display: none;
-    background-color: white;
-    bottom: 0px;
-    border-top: 2px solid rgb(68, 68, 68);
-    position: fixed;
-  }
-
-  .cookies div div {
-    margin-bottom: 5px;
-    font-size: 12px;
-  }
 }
 
 @media all and (max-width: 720px) {
@@ -323,19 +309,5 @@ a.anchor {
 
   .responsive {
     width: 50%;
-  }
-
-  .cookies {
-    padding: 0px 10px;
-    display: none;
-    background-color: white;
-    bottom: 0px;
-    border-top: 1px solid rgb(68, 68, 68);
-    position: fixed;
-  }
-
-  .cookies div div {
-    margin-bottom: 0px;
-    font-size: 10px;
   }
 }

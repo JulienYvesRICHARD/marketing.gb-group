@@ -2,9 +2,6 @@
     "title": "photo_prima_title",
     "subtitle" : "photo_prima_title",
     "item": [
-        {"name" : "prima-40-001.jpg"},
-        {"name" : "prima-40-002.jpg"},
-        {"name" : "prima-40-003.jpg"},
         {"name" : "prima-50-001.jpg"},
         {"name" : "prima-50-002.jpg"},
         {"name" : "prima-50-003.jpg"},

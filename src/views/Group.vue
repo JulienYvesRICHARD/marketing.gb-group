@@ -8,10 +8,10 @@
         </div>
       </div>
 
-      <PhotoVue :photos="photosGB"></PhotoVue>
+      <PricesVue :prices="pricesGB"></PricesVue>
       <LeafletsVue :leaflets="leafletModelsGB"></LeafletsVue>
       <LeafletsVue :leaflets="leafletRangesGB"></LeafletsVue>
-      <PricesVue :prices="pricesGB"></PricesVue>
+      <PhotoVue :photos="photosGB"></PhotoVue>
       <LogoVue :logos="logosGB"></LogoVue>
       <PhotoVue v-if="photosAgriway.length > 0" :photos="photosAgriway"></PhotoVue>
       <LeafletsVue v-if="leafletModelsAgriway['item'] && leafletModelsAgriway.length > 0"

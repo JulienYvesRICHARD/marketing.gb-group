@@ -35,6 +35,15 @@
         {
           "name": "Voyager [DE]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/01-pflugen-voyager-de-251023.pdf"
+        },
+        {},
+        {
+          "name": "Rover [IT]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/01-aratro-rover-it-251218.pdf"
+        },
+        {
+          "name": "Voyager [IT]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/01-aratro-voyager-it-251117.pdf"
         }
       ]
     },
@@ -70,6 +79,15 @@
         },
         {},
         {
+          "name": "Normandie+/Occitan [IT]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-aratura-delle-stoppie-normandieplus-occitan-it-251218.pdf"
+        },
+        {
+          "name": "Nevos/Dekoflex/Crossland [IT]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-aratura-delle-stoppie-nevos-dekoflex-crossland-it-251218.pdf"
+        },
+        {},
+        {
           "name": "Epona [FR]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-epona-fr-250721.pdf"
         }
@@ -96,6 +114,11 @@
         {
           "name": "Helios [DE]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/03-umstrukturierung-helios-de-251023.pdf"
+        },
+        {},
+        {
+          "name": "Helios [IT]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/03-ristrutturazione-helios-it-251117.pdf"
         }
       ]
     },
@@ -116,6 +139,11 @@
         {
           "name": "Tetra/Prec./Tarv./Terr./Plani. [DE]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/04-bodenvorbereitung-tetra-precilitor-tarvos-terren-planipack-de-250910.pdf"
+        },
+        {},
+        {
+          "name": "Tetra/Prec./Tarv./Terr./Plani. [IT]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/04-preparazione-del-terreno-precilitor-tetra-tarvos-terren-planipack-it-251117.pdf"
         }
       ]
     }

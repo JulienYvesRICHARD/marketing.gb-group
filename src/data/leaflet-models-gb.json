@@ -59,7 +59,10 @@
           "name": "Nevos/Dekoflex/Crossland [FR]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-dechaumage-nevos-dekoflex-crossland-fr-250818.pdf"
         },
-        {},
+        {
+          "name": "Cover [FR]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-dechaumage-cover-260908.pdf"
+        },
         {
           "name": "Normandie+/Occitan [EN]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-dechaumage-normandieplus-occitan-en-250818.pdf"
@@ -68,7 +71,10 @@
           "name": "Nevos/Dekoflex/Crossland [EN]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-dechaumage-nevos-dekoflex-crossland-en-250818.pdf"
         },
-        {},
+        {
+          "name": "Cover [EN]",
+          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-stubble%20cultivation-260908.pdf"
+        },
         {
           "name": "Normandie+/Occitan [DE]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-stoppelebearbeitung-normandieplus-occitan-de-251023.pdf"
@@ -77,7 +83,6 @@
           "name": "Nevos/Dekoflex/Crossland [DE]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-stoppelebearbeitung-nevos-dekoflex-crossland-de-251023.pdf"
         },
-        {},
         {
           "name": "Normandie+/Occitan [IT]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-aratura-delle-stoppie-normandieplus-occitan-it-251218.pdf"
@@ -86,15 +91,6 @@
           "name": "Nevos/Dekoflex/Crossland [IT]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-aratura-delle-stoppie-nevos-dekoflex-crossland-it-251218.pdf"
         },
-        {
-          "name": "Cover [FR]",
-          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-dechaumage-cover-260908.pdf"
-        },
-        {
-          "name": "Cover [EN]",
-          "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-stubble%20cultivation-260908.pdf"
-        },
-        {},
         {
           "name": "Epona [FR]",
           "link": "http://marketing.cellar-c2.services.clever-cloud.com/leaflets/gregoire-besson/02-epona-fr-250721.pdf"
